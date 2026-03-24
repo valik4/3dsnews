@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"os"
+	"os" // Цей пакет дозволяє працювати зі змінними оточення
 	"path/filepath"
 	"sort"
 	"strconv"
@@ -18,10 +18,12 @@ import (
 var hb_list = "list_hb.json"
 var hist_fl_hb = "hist_hb.txt"
 var hash_tag_hb = "\n#оновлення_софту:"
-// token ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-var github_token = "token ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-// glpat-XXXXXXXXXXXXXXXXXXXX
-var gitlab_token = ""
+
+// Тепер ми не пишемо токени прямо в коді.
+// Функція os.Getenv шукає змінну в системі. 
+// Якщо її немає, вона просто поверне порожній рядок.
+var github_token = "token " + os.Getenv("GITHUB_TOKEN")
+var gitlab_token = os.Getenv("GITLAB_TOKEN")
 
 type lab_release_entry struct {
 	Tag_name string `json:"tag_name"`
