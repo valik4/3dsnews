@@ -1,0 +1,4 @@
+venv/
+*.exe
+hbnews_arm
+__pycache__/

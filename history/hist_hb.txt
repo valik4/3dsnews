@@ -1,0 +1,1953 @@
+2025.12.17-07:55
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление KeyX до версии v1.4.3 от 16.12.2025:https://github.com/TOM-BadEN/KeyX/releases/tag/v1.4.3 | Оверлей Tesla + системный модуль для переназначения клавиш с поддержкой турбо-режима. Поддерживает как глобальную конфигурацию, так и по игровую.
+
+=== WiiU ===
+- Обновление UWUVCI-AIO-WPF до версии V3.200.2 от 16.12.2025:https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/tag/V3.200.2 | Инжектор для WiiU Virtual Console.
+
+
+2025.12.18-07:53
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление FPSLocker до версии 3.2.2 от 18.12.2025:https://github.com/masagrator/FPSLocker/releases/tag/3.2.2 | Оверлей для установки кастомного FPS в играх.
+- Обновление Pokeswitch до версии 5.0.0 от 17.12.2025:https://github.com/absrdm/Pokeswitch/releases/tag/5.0.0 | Альфа версия редактора сохранений для Pokemon S/S, BD/SP, S/V, Z-A.
+- [Windows] Обновление NSPack до версии v0.3CE от 18.12.2025:https://github.com/TheExpertNoob/Brew.NET/releases/tag/v0.3CE | Утилита для создания .nsp файлов.
+- Обновление nxmp до версии v0.9.3 от 17.12.2025:https://github.com/proconsule/nxmp/releases/tag/v0.9.3 | Видеоплеер.
+- Обновление DBI до версии 854ru от 17.12.2025:https://github.com/rashevskyv/dbi/releases/tag/854ru | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+- Обновление Ultrahand-Overlay до версии v2.2.5 от 17.12.2025:https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v2.2.5 | Замена меню Tesla. Универсальный инструмент, позволяющий управлять настройками, файлами и каталогами на свиче.
+
+
+2025.12.19-07:46
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление NetPass до версии v1.2.8 от 18.12.2025:https://gitlab.com/3ds-netpass/netpass/-/releases/v1.2.8 | Приложение для получения streetpass'ов не выходя из дома.
+
+=== Switch ===
+- Обновление Ultrahand-Overlay до версии v2.2.6 от 18.12.2025:https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v2.2.6 | Замена меню Tesla. Универсальный инструмент, позволяющий управлять настройками, файлами и каталогами на свиче.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.6 от 18.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.6 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление UWUVCI-AIO-WPF до версии V3.200.3 от 18.12.2025:https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/tag/V3.200.3 | Инжектор для WiiU Virtual Console.
+
+
+2025.12.20-07:52
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление Switchfin до версии 0.8.2 от 19.12.2025:https://github.com/dragonflylee/switchfin/releases/tag/0.8.2 | Jellyfin клиент.
+- Обновление FortPatcher-NX до версии v20251219-2f6e3a8 от 19.12.2025:https://github.com/YoshiCrystal9/FortPatcher-NX/releases/tag/v20251219-2f6e3a8 | Позволяет играть в старые/новые версии Fortnite на забаненом свиче.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.8 от 19.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.8 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление UWUVCI-AIO-WPF до версии V3.200.5 от 19.12.2025:https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/tag/V3.200.5 | Инжектор для WiiU Virtual Console.
+
+
+2025.12.21-07:48
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление KeyX до версии v1.5.3 от 20.12.2025:https://github.com/TOM-BadEN/KeyX/releases/tag/v1.5.3 | Оверлей Tesla + системный модуль для переназначения клавиш с поддержкой турбо-режима. Поддерживает как глобальную конфигурацию, так и по игровую.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.9 от 20.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.9 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление UWUVCI-AIO-WPF до версии V3.200.6 от 20.12.2025:https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/tag/V3.200.6 | Инжектор для WiiU Virtual Console.
+
+
+2025.12.22-08:00
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- [Windows] Обновление Mario Kart DS ARM9 Editor до версии 1.3 от 22.12.2025:https://github.com/LandonAndEmma/MKDS-ARM9-Editor/releases/tag/1.3 | Утилита для редактирования файла arm9.bin из Mario Kart DS.
+
+=== Switch ===
+- Обновление KeyX до версии v1.5.4 от 21.12.2025:https://github.com/TOM-BadEN/KeyX/releases/tag/v1.5.4 | Оверлей Tesla + системный модуль для переназначения клавиш с поддержкой турбо-режима. Поддерживает как глобальную конфигурацию, так и по игровую.
+- Обновление Pokeswitch до версии 5.1.0 от 21.12.2025:https://github.com/absrdm/Pokeswitch/releases/tag/5.1.0 | Альфа версия редактора сохранений для Pokemon S/S, BD/SP, S/V, Z-A.
+- Обновление chiaki-ng до версии weekly-canary-release-054f3128ae46361e5ea77931247ed65963a60b15 от 22.12.2025:https://github.com/streetpea/chiaki-ng/releases/tag/weekly-canary-release-054f3128ae46361e5ea77931247ed65963a60b15 | Клиент для PS5 и PS4 remote play.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.10 от 21.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.10 | Простой менеджер Wii Backup File System.
+
+
+2025.12.23-07:48
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление Pico Loader до версии v1.2.0 от 22.12.2025:https://github.com/LNH-team/pico-loader/releases/tag/v1.2.0 | Приложение позволяющие запускать DS(i) игры. Альтернатива nds-bootstrap?
+
+=== Switch ===
+- Обновление KeyX до версии v1.5.5 от 22.12.2025:https://github.com/TOM-BadEN/KeyX/releases/tag/v1.5.5 | Оверлей Tesla + системный модуль для переназначения клавиш с поддержкой турбо-режима. Поддерживает как глобальную конфигурацию, так и по игровую.
+- Обновление emuiibo до версии 1.1.2 от 22.12.2025:https://github.com/XorTroll/emuiibo/releases/tag/1.1.2 | Эмуляция Amiibo.
+- Обновление Goldleaf до версии 1.2.0 от 22.12.2025:https://github.com/XorTroll/Goldleaf/releases/tag/1.2.0 | Установщик игр, файловый менеджер, браузер, менеджер аккаунтов и т.д.
+- Обновление uLaunch до версии 1.2.2 от 22.12.2025:https://github.com/XorTroll/uLaunch/releases/tag/1.2.2 | Замена домашнего экрана.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.12 от 22.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.12 | Простой менеджер Wii Backup File System.
+
+=== GBA ===
+- Обновление Balatro-GBA до версии nightly от 23.12.2025:https://github.com/cellos51/balatro-gba/releases/tag/nightly | Неофициальный порт минимальной версии Balatro.
+
+
+2025.12.24-08:00
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление NINTV-DS до версии 6.2 от 23.12.2025:https://github.com/wavemotion-dave/NINTV-DS/releases/tag/6.2 | Эмулятор консолей Intellivision.
+
+=== 3DS ===
+- Обновление Netsurf 3DS до версии v0.03 от 23.12.2025:https://github.com/coderman64/netsurf-3ds/releases/tag/v0.03 | Порт браузера Netsurf.
+
+=== Switch ===
+- Обновление Amiigo до версии 2.4.0 от 24.12.2025:https://github.com/CompSciOrBust/Amiigo/releases/tag/2.4.0 | Приложение для создания и переключения виртуальных Amiibo для использования с системным модулем Emuiibo.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.13 от 23.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.13 | Простой менеджер Wii Backup File System.
+
+
+2025.12.25-07:43
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление Universal-Updater до версии v3.3.2 от 24.12.2025:https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.3.2 | Приложение для обновления и установки homebrew.
+
+=== Switch ===
+- Обновление chiaki-ng до версии weekly-canary-release-27bc32b2316261400882ab7ef5cc34a7b2593304 от 24.12.2025:https://github.com/streetpea/chiaki-ng/releases/tag/weekly-canary-release-27bc32b2316261400882ab7ef5cc34a7b2593304 | Клиент для PS5 и PS4 remote play.
+- Обновление SaltyNX до версии 1.7.0 от 24.12.2025:https://github.com/masagrator/SaltyNX/releases/tag/1.7.0 | Фоновый процесс для модификации файлов/кода.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.15 от 24.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.15 | Простой менеджер Wii Backup File System.
+
+
+2025.12.26-07:44
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление GodMode9i до версии v3.9.0 от 25.12.2025:https://github.com/DS-Homebrew/GodMode9i/releases/tag/v3.9.0 | Файловый менеджер с полным доступом.
+- Обновление GBA-Exploader до версии 0.67 от 25.12.2025:https://github.com/ApacheThunder/GBA-Exploader/releases/tag/0.67 | Приложение позволяет запускать GBA игры, которые находятся на флеш-картридже в первом слоте, через картридж расширения во втором слоте.
+- Обновление RocketVideoPlayer до версии v2.1.0 от 25.12.2025:https://github.com/RocketRobz/RocketVideoPlayer/releases/tag/v2.1.0 | Видеоплеер.
+- [Windows] Обновление Vid2RVID до версии v1.5 от 25.12.2025:https://github.com/RocketRobz/Vid2RVID/releases/tag/v1.5 | Конвертер видео в формат Rocket Video (.rvid) для RocketVideoPlayer.
+
+=== 3DS/DS(i) ===
+- Обновление TWiLightMenu до версии v27.21.0 от 25.12.2025:https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v27.21.0 | Оболочка для nds-bootstrap.
+- Обновление nds-bootstrap до версии v2.12.0 от 25.12.2025:https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.12.0 | Приложение позволяющие запускать DS(i) игры с карты памяти.
+
+=== Switch ===
+- Обновление SaltyNX до версии 1.7.1 от 25.12.2025:https://github.com/masagrator/SaltyNX/releases/tag/1.7.1 | Фоновый процесс для модификации файлов/кода.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.16 от 25.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.16 | Простой менеджер Wii Backup File System.
+
+
+2025.12.27-07:50
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление NINTV-DS до версии 6.2 от 26.12.2025:https://github.com/wavemotion-dave/NINTV-DS/releases/tag/6.2 | Эмулятор консолей Intellivision.
+
+=== Switch ===
+- Обновление FPSLocker до версии 3.2.3 от 26.12.2025:https://github.com/masagrator/FPSLocker/releases/tag/3.2.3 | Оверлей для установки кастомного FPS в играх.
+- Обновление KeyX до версии v1.5.6 от 26.12.2025:https://github.com/TOM-BadEN/KeyX/releases/tag/v1.5.6 | Оверлей Tesla + системный модуль для переназначения клавиш с поддержкой турбо-режима. Поддерживает как глобальную конфигурацию, так и по игровую.
+- Обновление SaltyNX до версии 1.7.2 от 26.12.2025:https://github.com/masagrator/SaltyNX/releases/tag/1.7.2 | Фоновый процесс для модификации файлов/кода.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.17 от 26.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.17 | Простой менеджер Wii Backup File System.
+
+
+2025.12.28-07:41
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление nds-bootstrap до версии v2.12.1 от 27.12.2025:https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.12.1 | Приложение позволяющие запускать DS(i) игры с карты памяти.
+
+=== Switch ===
+- Обновление Pokeswitch до версии 5.2.0 от 27.12.2025:https://github.com/absrdm/Pokeswitch/releases/tag/5.2.0 | Альфа версия редактора сохранений для Pokemon S/S, BD/SP, S/V, Z-A.
+- Обновление MapRando-NX до версии v120 от 27.12.2025:https://github.com/Starwarsfan2099/MapRando-NX/releases/tag/v120 | Утилита для рандомизации карты в игре Super Metroid (SNES).
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.19 от 27.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.19 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление UTheme до версии V0.1B от 27.12.2025:https://github.com/xziip/UTheme/releases/tag/V0.1B | Менеджер и установщик тем оформления.
+
+
+2025.12.29-07:54
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление NINTV-DS до версии 6.1 от 28.12.2025:https://github.com/wavemotion-dave/NINTV-DS/releases/tag/6.1 | Эмулятор консолей Intellivision.
+- Обновление Pico Loader до версии v1.3.0 от 28.12.2025:https://github.com/LNH-team/pico-loader/releases/tag/v1.3.0 | Приложение позволяющие запускать DS(i) игры. Альтернатива nds-bootstrap?
+
+=== Switch ===
+- Обновление chiaki-ng до версии weekly-canary-release-25f89d386caf20de099040344ecf6b84342acb3e от 29.12.2025:https://github.com/streetpea/chiaki-ng/releases/tag/weekly-canary-release-25f89d386caf20de099040344ecf6b84342acb3e | Клиент для PS5 и PS4 remote play.
+- Обновление emuiibo до версии 1.1.2 от 28.12.2025:https://github.com/XorTroll/emuiibo/releases/tag/1.1.2 | Эмуляция Amiibo.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.21 от 28.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.21 | Простой менеджер Wii Backup File System.
+
+
+2025.12.30-07:48
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление NINTV-DS до версии 6.2a от 29.12.2025:https://github.com/wavemotion-dave/NINTV-DS/releases/tag/6.2a | Эмулятор консолей Intellivision.
+- Обновление Pico Loader до версии v1.3.1 от 29.12.2025:https://github.com/LNH-team/pico-loader/releases/tag/v1.3.1 | Приложение позволяющие запускать DS(i) игры. Альтернатива nds-bootstrap?
+
+=== 3DS ===
+- Обновление Universal-Updater до версии git от 29.12.2025:https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2123.4-beta2 от 29.12.2025:https://github.com/azahar-emu/azahar/releases/tag/2123.4-beta2 | Эмулятор 3DS.
+
+=== Switch ===
+- [Windows] Обновление Cheat File Splitter до версии 1.1.0 от 29.12.2025:https://github.com/Ninjistix/nxCheat_Splitter/releases/tag/1.1.0 | Приложение для нарезки файлов с читами.
+- Обновление Status-Monitor-Overlay до версии v1.3.2+r5 от 30.12.2025:https://github.com/ppkantorski/Status-Monitor-Overlay/releases/tag/v1.3.2+r5 | Оверлей для Tesla отображающий информацию о консоли.
+- [+ Windows/Linux/PS Vita] Обновление pemu до версии v7.0 от 29.12.2025:https://github.com/Cpasjuste/pemu/releases/tag/v7.0 | Эмуляторы NES, SNES, Genesis, Neo-Geo.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.22 от 29.12.2025:https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.22 | Простой менеджер Wii Backup File System.
+
+
+2025.12.31-07:50
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление RocketVideoPlayer до версии v2.1.1 от 30.12.2025:https://github.com/RocketRobz/RocketVideoPlayer/releases/tag/v2.1.1 | Видеоплеер.
+- [Windows] Обновление Vid2RVID до версии v1.5.1 от 30.12.2025:https://github.com/RocketRobz/Vid2RVID/releases/tag/v1.5.1 | Конвертер видео в формат Rocket Video (.rvid) для RocketVideoPlayer.
+
+=== Switch ===
+- Обновление Status-Monitor-Overlay до версии v1.3.2+r5 от 30.12.2025:https://github.com/ppkantorski/Status-Monitor-Overlay/releases/tag/v1.3.2+r5 | Оверлей для Tesla отображающий информацию о консоли.
+- [+ Windows/Linux/PS Vita] Обновление pemu до версии v7.1 от 30.12.2025:https://github.com/Cpasjuste/pemu/releases/tag/v7.1 | Эмуляторы NES, SNES, Genesis, Neo-Geo.
+
+
+2026.01.01-07:54
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление datelTool до версии 1.3.3 от 31.12.2025:https://github.com/ApacheThunder/datelTool/releases/tag/1.3.3 | Инструмент для дампа/записи во внутреннюю флеш-память некоторых картриджей Datel DS.
+
+
+2026.01.02-07:54
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление NINTV-DS до версии 6.3 от 01.01.2026:https://github.com/wavemotion-dave/NINTV-DS/releases/tag/6.3 | Эмулятор консолей Intellivision.
+
+=== 3DS ===
+- Обновление Universal-Updater до версии git от 01.01.2026:https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+- Обновление Video player for 3DS до версии 1.6.0 от 01.01.2026:https://github.com/Core-2-Extreme/Video_player_for_3DS/releases/tag/1.6.0 | Видеоплеер.
+
+=== Wii ===
+- [+WiiU] Обновление ModMii до версии 8.0.6 от 01.01.2026:https://github.com/modmii/modmii.github.io/releases/tag/8.0.6 | Утилита для прошивки Wii и WiiU.
+
+
+2026.01.03-07:50
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление RocketVideoPlayer до версии v2.1.2 от 03.01.2026: https://github.com/RocketRobz/RocketVideoPlayer/releases/tag/v2.1.2 | Видеоплеер.
+
+=== 3DS ===
+- Обновление Universal-Updater до версии git от 02.01.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2123.4-beta3 от 03.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2123.4-beta3 | Эмулятор 3DS.
+
+=== Switch ===
+- Обновление sys-con до версии 1.6.2 от 02.01.2026: https://github.com/o0Zz/sys-con/releases/tag/1.6.2 | Приложение для подключения сторонних геймпадов по USB.
+
+=== WiiU ===
+- Обновление UTheme до версии V0.2B от 02.01.2026: https://github.com/xziip/UTheme/releases/tag/V0.2B | Менеджер и установщик тем оформления.
+
+
+2026.01.04-07:42
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление Pokeswitch до версии 6.0.0 от 03.01.2026: https://github.com/absrdm/Pokeswitch/releases/tag/6.0.0 | Альфа версия редактора сохранений для Pokemon S/S, BD/SP, S/V, Z-A.
+- [Windows] Обновление NSPack до версии v0.3CE от 03.01.2026: https://github.com/TheExpertNoob/Brew.NET/releases/tag/v0.3CE | Утилита для создания .nsp файлов.
+
+
+2026.01.05-07:41
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление akmenu-next до версии v2.0.1 от 04.01.2026: https://github.com/coderkei/akmenu-next/releases/tag/v2.0.1 | Оболочка для nds-bootstrap.
+
+=== 3DS ===
+- Обновление Red Viper до версии v1.2.1 от 04.01.2026: https://github.com/skyfloogle/red-viper/releases/tag/v1.2.1 | Эмулятор Virtual Boy.
+
+=== WiiU ===
+- Обновление UWUVCI-AIO-WPF до версии v3.100.1 от 05.01.2026: https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/tag/v3.100.1 | Инжектор для WiiU Virtual Console.
+
+
+2026.01.06-07:53
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление FuseCheck до версии 1.0.0 от 16.12.2025: https://github.com/sthetix/FuseCheck/releases/tag/1.0.0 | Пейлоад, сравнивающий текущее количество сгоревших предохранителей с количеством, необходимым для запуска установленной официальной прошивки.
+
+=== Wii ===
+- [Windows/Linux/macOS] Обновление NUSGet до версии v1.5.0 от 05.01.2026: https://github.com/NinjaCheetah/NUSGet/releases/tag/v1.5.0 | Приложение для загрузки тайтлов с серверов Н.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 01.01.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+
+2026.01.07-07:53
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление WasabiDS до версии v0.2.5 от 06.01.2026: https://github.com/FluBBaOfWard/WasabiDS/releases/tag/v0.2.5 | Эмулятор Watara Supervision.
+
+=== 3DS ===
+- Обновление Universal-Updater до версии git от 06.01.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2123.4-rc1 от 06.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2123.4-rc1 | Эмулятор 3DS.
+
+
+2026.01.08-07:41
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление datelTool до версии 1.4 от 07.01.2026: https://github.com/ApacheThunder/datelTool/releases/tag/1.4 | Инструмент для дампа/записи во внутреннюю флеш-память некоторых картриджей Datel DS.
+
+
+2026.01.09-07:52
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2123.4.1 от 09.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2123.4.1 | Эмулятор 3DS.
+
+
+2026.01.10-08:01
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- [+ Windows/Linux] Обновление Starship до версии v2.0.0 от 26.05.2025: https://github.com/HarbourMasters/Starship/releases/tag/v2.0.0 | Порт Starfox 64.
+- Обновление FortPatcher-NX до версии v20260110-0d4cd4b от 10.01.2026: https://github.com/YoshiCrystal9/FortPatcher-NX/releases/tag/v20260110-0d4cd4b | Позволяет играть в старые/новые версии Fortnite на забаненом свиче.
+
+
+2026.01.11-08:01
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2124-rc1 от 11.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2124-rc1 | Эмулятор 3DS.
+
+=== Switch ===
+- [+ Windows/macOS/Linux/Android/iOS/xbox] Обновление flycast до версии v2.6 от 10.01.2026: https://github.com/flyinghead/flycast/releases/tag/v2.6 | Эмулятор Sega Dreamcast, Naomi, Naomi 2 и Atomiswave.
+- Обновление FuseCheck до версии 1.0.0 от 11.01.2026: https://github.com/sthetix/FuseCheck/releases/tag/1.0.0 | Пейлоад, сравнивающий текущее количество сгоревших предохранителей с количеством, необходимым для запуска установленной официальной прошивки.
+
+
+2026.01.12-07:51
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление Pico Loader до версии v1.4.0 от 11.01.2026: https://github.com/LNH-team/pico-loader/releases/tag/v1.4.0 | Приложение позволяющие запускать DS(i) игры. Альтернатива nds-bootstrap?
+
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2124-rc2 от 11.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2124-rc2 | Эмулятор 3DS.
+
+=== Switch ===
+- [Windows] Обновление GvasViewer до версии 0.22 от 11.01.2026: https://github.com/turtle-insect/GvasViewer/releases/tag/0.22 | Просмотрщик Unreal Engine Gvas файлов.
+- Обновление Ultrahand-Overlay до версии v2.2.7 от 11.01.2026: https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v2.2.7 | Замена меню Tesla. Универсальный инструмент, позволяющий управлять настройками, файлами и каталогами на свиче.
+- Обновление Status-Monitor-Overlay до версии v1.3.2+r6 от 11.01.2026: https://github.com/ppkantorski/Status-Monitor-Overlay/releases/tag/v1.3.2+r6 | Оверлей для Tesla отображающий информацию о консоли.
+
+
+2026.01.13-07:45
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление NGPDS до версии v0.5.8 от 12.01.2026: https://github.com/FluBBaOfWard/NGPDS/releases/tag/v0.5.8 | Эмулятор SNK Neogeo Pocket.
+
+=== Switch ===
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 13.01.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+- Обновление Tetris Overlay до версии v0.4.6 от 12.01.2026: https://github.com/ppkantorski/Tetris-Overlay/releases/tag/v0.4.6 | Тетрис в виде оверлея для меню Tesla.
+- Обновление ovlSysmodule до версии v1.4.7 от 12.01.2026: https://github.com/ppkantorski/ovl-sysmodules/releases/tag/v1.4.7 | Оверлей для меню Tesla позволяющий управлять системными модулями.
+
+=== GBA ===
+- Обновление NGPGBA до версии v0.5.8 от 12.01.2026: https://github.com/FluBBaOfWard/NGPGBA/releases/tag/v0.5.8 | Эмулятор SNK Neogeo Pocket.
+
+
+2026.01.14-07:54
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление Jet Impulse Translation Project до версии v1.0 от 14.01.2026: https://github.com/Megalith9/Jet-Impulse-Translation-Project/releases/tag/v1.0 | Англоязычный перевод игры Jet Impulse.
+
+=== 3DS/DS(i) ===
+- Обновление WordleDS до версии v3.2.1 от 13.01.2026: https://github.com/Epicpkmn11/WordleDS/releases/tag/v3.2.1 | Клон игры Wordle.
+
+=== Switch ===
+- [Windows] Обновление NxNandManager до версии 21.2.0 от 13.01.2026: https://github.com/THZoria/NxNandManager/releases/tag/21.2.0 | Инструмент управления NAND для Nintendo Switch: просмотр, резервное копирование, восстановление, монтирование, изменение размера, создание emunand и т.д.
+- Обновление FuseCheck до версии 1.0.0 от 14.01.2026: https://github.com/sthetix/FuseCheck/releases/tag/1.0.0 | Пейлоад, сравнивающий текущее количество сгоревших предохранителей с количеством, необходимым для запуска установленной официальной прошивки.
+- [Windows] Обновление GvasViewer до версии 0.23 от 13.01.2026: https://github.com/turtle-insect/GvasViewer/releases/tag/0.23 | Просмотрщик Unreal Engine Gvas файлов.
+- Обновление 2ship2harkinian-Switch до версии 3.0.2 от 13.01.2026: https://github.com/YoshiCrystal9/2ship2harkinian-Switch/releases/tag/3.0.2 | Порт LoZ: Majora's Mask.
+
+
+2026.01.15-07:54
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление Jet Impulse Translation Project до версии v1.1 от 15.01.2026: https://github.com/Megalith9/Jet-Impulse-Translation-Project/releases/tag/v1.1 | Англоязычный перевод игры Jet Impulse.
+
+=== 3DS ===
+- Обновление Universal-Updater до версии git от 15.01.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+
+=== Switch ===
+- Обновление Kefir до версии 794 от 14.01.2026: https://github.com/rashevskyv/kefir/releases/tag/794 | Кефир.
+- Обновление Atmosphere до версии 1.10.2 от 14.01.2026: https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.10.2 | Кастомная прошивка для Nintendo Switch.
+- Обновление Hekate до версии v6.5.0 от 14.01.2026: https://github.com/CTCaer/hekate/releases/tag/v6.5.0 | GUI загрузчик.
+- Обновление Ultra-NX до версии 2.7-R3 от 14.01.2026: https://github.com/Ultra-NX/UltraNX/releases/tag/2.7-R3 | Альтернатива кефиру.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 15.01.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+
+2026.01.16-08:04
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление Jet Impulse Translation Project до версии v1.2 от 16.01.2026: https://github.com/Megalith9/Jet-Impulse-Translation-Project/releases/tag/v1.2 | Англоязычный перевод игры Jet Impulse.
+
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2124 от 15.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2124 | Эмулятор 3DS.
+- Обновление ntr-hr до версии v0.3.6.0 от 15.01.2026: https://github.com/xzn/ntr-hr/releases/tag/v0.3.6.0 | Улучшенный стриминг картинки с консоли по WiFi.
+
+=== Switch ===
+- Обновление NX-Update-Checker до версии v1.5.4.1 от 15.01.2026: https://github.com/16BitWonder/NX-Update-Checker/releases/tag/v1.5.4.1 | Приложение проверяющие какие игры нуждаются в обновлении.
+- Обновление melonDS до версии release от 15.01.2026: https://github.com/shooterspps/melonDS/releases/tag/release | Эмулятор Nintendo DS.
+- Обновление Kefir до версии 795 от 16.01.2026: https://github.com/rashevskyv/kefir/releases/tag/795 | Кефир.
+- Обновление MissionControl до версии v0.14.2 от 15.01.2026: https://github.com/ndeadly/MissionControl/releases/tag/v0.14.2 | Приложение для подключения сторонних геймпадов по bluetooth.
+- [Windows] Обновление GvasViewer до версии 0.24 от 15.01.2026: https://github.com/turtle-insect/GvasViewer/releases/tag/0.24 | Просмотрщик Unreal Engine Gvas файлов.
+- Обновление Ultra-NX до версии 2.7-R3 от 16.01.2026: https://github.com/Ultra-NX/UltraNX/releases/tag/2.7-R3 | Альтернатива кефиру.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.8.2 от 31.12.2025: https://github.com/andrewbenington/OpenHome/releases/tag/v1.8.2 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 15.01.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+=== GBA ===
+- Обновление Balatro-GBA до версии nightly от 16.01.2026: https://github.com/cellos51/balatro-gba/releases/tag/nightly | Неофициальный порт минимальной версии Balatro.
+
+
+2026.01.16-08:08
+
+2026.01.17-07:46
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление RocketVideoPlayer до версии v2.2.0 от 17.01.2026: https://github.com/RocketRobz/RocketVideoPlayer/releases/tag/v2.2.0 | Видеоплеер.
+- [Windows] Обновление Vid2RVID до версии v1.6 от 16.01.2026: https://github.com/RocketRobz/Vid2RVID/releases/tag/v1.6 | Конвертер видео в формат Rocket Video (.rvid) для RocketVideoPlayer.
+
+=== 3DS/DS(i) ===
+- Обновление hShop DS до версии v1.0 от 16.01.2026: https://github.com/hshopnds-boop/hShop-NDS/releases/tag/v1.0 | Загрузчик DS/GBA игр.
+
+=== Switch ===
+- Обновление DBI до версии 863ru от 16.01.2026: https://github.com/rashevskyv/dbi/releases/tag/863ru | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+- Обновление 2ship2harkinian-Switch до версии 3.0.2 от 16.01.2026: https://github.com/YoshiCrystal9/2ship2harkinian-Switch/releases/tag/3.0.2 | Порт LoZ: Majora's Mask.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.23 от 16.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.23 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 16.01.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+=== GBA ===
+- Обновление Balatro-GBA до версии jokers_complete_v1.0 от 16.01.2026: https://github.com/cellos51/balatro-gba/releases/tag/jokers_complete_v1.0 | Неофициальный порт минимальной версии Balatro.
+
+
+2026.01.18-07:55
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление Jet Impulse Translation Project до версии v1.3 от 18.01.2026: https://github.com/Megalith9/Jet-Impulse-Translation-Project/releases/tag/v1.3 | Англоязычный перевод игры Jet Impulse.
+
+=== Switch ===
+- Обновление Shipwright-Switch до версии 9.1.1-nx5 от 30.12.2025: https://github.com/timschneeb/Shipwright-Switch/releases/tag/9.1.1-nx5 | Порт LOZ: Ocarina of Time.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.8.3 от 17.01.2026: https://github.com/andrewbenington/OpenHome/releases/tag/v1.8.3 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== GBA ===
+- Обновление SuperFW до версии v0.19 от 17.01.2026: https://github.com/davidgfnet/superfw/releases/tag/v0.19 | Альтернативная прошивка для Supercard флеш-картриджей.
+
+
+2026.01.19-07:55
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление NitroSwan до версии v0.7.6 от 18.01.2026: https://github.com/FluBBaOfWard/NitroSwan/releases/tag/v0.7.6 | Эмулятор консолей семейства WonderSwan.
+
+=== 3DS/DS(i) ===
+- Обновление WordleDS до версии v3.2.2 от 19.01.2026: https://github.com/Epicpkmn11/WordleDS/releases/tag/v3.2.2 | Клон игры Wordle.
+
+=== 3DS ===
+- Обновление Red Viper до версии v1.2.3 от 18.01.2026: https://github.com/skyfloogle/red-viper/releases/tag/v1.2.3 | Эмулятор Virtual Boy.
+
+=== Switch ===
+- Обновление Pokeswitch до версии 7.0.0 от 18.01.2026: https://github.com/absrdm/Pokeswitch/releases/tag/7.0.0 | Альфа версия редактора сохранений для Pokemon S/S, BD/SP, S/V, Z-A.
+- Обновление Amiigo до версии 2.4.1 от 18.01.2026: https://github.com/CompSciOrBust/Amiigo/releases/tag/2.4.1 | Приложение для создания и переключения виртуальных Amiibo для использования с системным модулем Emuiibo.
+- Обновление chiaki-ng до версии weekly-canary-release-a75d628ffb4b6e33126e3830b4fb32796e5cc005 от 19.01.2026: https://github.com/streetpea/chiaki-ng/releases/tag/weekly-canary-release-a75d628ffb4b6e33126e3830b4fb32796e5cc005 | Клиент для PS5 и PS4 remote play.
+
+=== GBA ===
+- Обновление SwanGBA до версии v0.7.6 от 18.01.2026: https://github.com/FluBBaOfWard/SwanGBA/releases/tag/v0.7.6 | Эмулятор Bandai WonderSwan.
+
+
+2026.01.20-07:52
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление LodjurDS до версии v0.1.4 от 19.01.2026: https://github.com/FluBBaOfWard/LodjurDS/releases/tag/v0.1.4 | Эмулятор Atari Lynx.
+
+=== Switch ===
+- Обновление tiicu до версии alpha-0.0.2 от 20.01.2026: https://github.com/tiicu/tiicu/releases/tag/alpha-0.0.2 | Альфа релиз фронтенда для эмуляторов.
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 20.01.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+- Обновление Turnips до версии v1.7.5 от 19.01.2026: https://github.com/averne/Turnips/releases/tag/v1.7.5 | Приложение для просмотра цен на репку в ACNH.
+
+=== GBA ===
+- Обновление LodjurGBA до версии v0.1.4 от 19.01.2026: https://github.com/FluBBaOfWard/LodjurGBA/releases/tag/v0.1.4 | Эмулятор Atari Lynx.
+
+
+2026.01.21-07:54
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление TWiLightMenu до версии v27.22.0 от 21.01.2026: https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v27.22.0 | Оболочка для nds-bootstrap.
+- Обновление nds-bootstrap до версии v2.13.0 от 21.01.2026: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.13.0 | Приложение позволяющие запускать DS(i) игры с карты памяти.
+
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2124.1 от 20.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2124.1 | Эмулятор 3DS.
+
+=== Switch ===
+- Обновление FuseCheck до версии v1.0.1 от 20.01.2026: https://github.com/sthetix/FuseCheck/releases/tag/v1.0.1 | Пейлоад, сравнивающий текущее количество сгоревших предохранителей с количеством, необходимым для запуска установленной официальной прошивки.
+- Обновление tiicu до версии alpha от 20.01.2026: https://github.com/tiicu/tiicu/releases/tag/alpha | Альфа релиз фронтенда для эмуляторов.
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 21.01.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+- Обновление Hekate до версии v6.5.1 от 20.01.2026: https://github.com/CTCaer/hekate/releases/tag/v6.5.1 | GUI загрузчик.
+
+
+2026.01.22-07:57
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление AetherShell до версии v1.0.2 от 18.01.2026: https://github.com/das-bhaskar/AetherShell/releases/tag/v1.0.2 | Подключив консоль к приложению, ваши рисунки интерпретируются, анимируются, заставляются танцевать и проецируются в ваше физическое пространство с помощью AR.
+
+=== 3DS/DS(i) ===
+- Обновление nds-bootstrap до версии v2.13.0 от 21.01.2026: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.13.0 | Приложение позволяющие запускать DS(i) игры с карты памяти.
+
+=== 3DS ===
+- Обновление Luma3DS_custom до версии v13.3.3_fs_patch_1.1 от 21.01.2026: https://github.com/Core-2-Extreme/Luma3DS_custom/releases/tag/v13.3.3_fs_patch_1.1 | Модификация Luma3DS с отключённой проверкой свободного места при запуске консоли.
+
+=== Switch ===
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 22.01.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+- Обновление Ultra-NX до версии 2.7-R3 от 21.01.2026: https://github.com/Ultra-NX/UltraNX/releases/tag/2.7-R3 | Альтернатива кефиру.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v4.9.24 от 21.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v4.9.24 | Простой менеджер Wii Backup File System.
+
+
+2026.01.23-07:44
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление NX-Update-Checker до версии v1.5.4.2 от 23.01.2026: https://github.com/16BitWonder/NX-Update-Checker/releases/tag/v1.5.4.2 | Приложение проверяющие какие игры нуждаются в обновлении.
+- Обновление tiicu до версии 0.3.0-alpha от 23.01.2026: https://github.com/tiicu/tiicu/releases/tag/0.3.0-alpha | Альфа релиз фронтенда для эмуляторов.
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 23.01.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+- Обновление FortPatcher-NX до версии v20260122-10fdd7c от 22.01.2026: https://github.com/YoshiCrystal9/FortPatcher-NX/releases/tag/v20260122-10fdd7c | Позволяет играть в старые/новые версии Fortnite на забаненом свиче.
+
+
+2026.01.24-07:53
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 24.01.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+
+
+2026.01.25-07:49
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление TWiLightMenu до версии v27.22.1 от 25.01.2026: https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v27.22.1 | Оболочка для nds-bootstrap.
+- Обновление nds-bootstrap до версии v2.13.1 от 25.01.2026: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.13.1 | Приложение позволяющие запускать DS(i) игры с карты памяти.
+
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2124.2 от 25.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2124.2 | Эмулятор 3DS.
+- Обновление Red Viper до версии v1.2.4 от 24.01.2026: https://github.com/skyfloogle/red-viper/releases/tag/v1.2.4 | Эмулятор Virtual Boy.
+
+=== Switch ===
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 24.01.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+- Обновление uLaunch до версии 1.2.3 от 24.01.2026: https://github.com/XorTroll/uLaunch/releases/tag/1.2.3 | Замена домашнего экрана.
+
+
+2026.01.26-07:46
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление akmenu-next до версии v2.0.2 от 25.01.2026: https://github.com/coderkei/akmenu-next/releases/tag/v2.0.2 | Оболочка для nds-bootstrap.
+
+=== Switch ===
+- Обновление chiaki-ng до версии weekly-canary-release-af569df00a566d3669e944ee8cb09e195602cfea от 26.01.2026: https://github.com/streetpea/chiaki-ng/releases/tag/weekly-canary-release-af569df00a566d3669e944ee8cb09e195602cfea | Клиент для PS5 и PS4 remote play.
+
+
+2026.01.27-07:57
+
+#новости_хоумбрю_одной_строкой:
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.0.0-rc.1 от 26.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.0.0-rc.1 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление Aroma до версии beta-25 от 26.01.2026: https://github.com/wiiu-env/Aroma/releases/tag/beta-25 |  Homebrew окружение для WiiU.
+
+
+2026.01.28-08:00
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление Pokeswitch до версии 7.0.1 от 27.01.2026: https://github.com/absrdm/Pokeswitch/releases/tag/7.0.1 | Альфа версия редактора сохранений для Pokemon S/S, BD/SP, S/V, Z-A.
+- [Web] Обновление SMTVSave-Editor до версии Release от 27.01.2026: https://github.com/Antiadvocate/SMTVSave-Editor/releases/tag/Release | Редактор сохранений для SMT V:V.
+- Обновление Switchfin до версии switch-portlibs от 28.01.2026: https://github.com/dragonflylee/switchfin/releases/tag/switch-portlibs | Jellyfin клиент.
+- Обновление 2ship2harkinian-Switch до версии 3.0.2 от 27.01.2026: https://github.com/YoshiCrystal9/2ship2harkinian-Switch/releases/tag/3.0.2 | Порт LoZ: Majora's Mask.
+- Обновление Ultra-NX до версии 2.7-R3 от 27.01.2026: https://github.com/Ultra-NX/UltraNX/releases/tag/2.7-R3 | Альтернатива кефиру.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.0.0-rc.2 от 27.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.0.0-rc.2 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление WiiUCamera до версии v1.2.0 от 15.01.2026: https://github.com/ClaudiWolf2056/WiiUCamera/releases/tag/v1.2.0 | Приложение камеры для WiiU геймпада.
+
+
+2026.01.29-07:49
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление Universal-Updater до версии git от 29.01.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+
+=== Switch ===
+- Обновление Switchfin до версии mingw-packages от 28.01.2026: https://github.com/dragonflylee/switchfin/releases/tag/mingw-packages | Jellyfin клиент.
+- Обновление Tetris Overlay до версии v0.4.7 от 28.01.2026: https://github.com/ppkantorski/Tetris-Overlay/releases/tag/v0.4.7 | Тетрис в виде оверлея для меню Tesla.
+
+=== Wii ===
+- Обновление cleanrip до версии 2.4 от 28.01.2026: https://github.com/emukidid/cleanrip/releases/tag/2.4 | Приложение для бекапа дисков от GC/Wii.
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.0.0-rc.4 от 28.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.0.0-rc.4 | Простой менеджер Wii Backup File System.
+
+
+2026.01.30-07:54
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- [+GBA] Обновление RocketVideoPlayer до версии v2.3.0 от 30.01.2026: https://github.com/RocketRobz/RocketVideoPlayer/releases/tag/v2.3.0 | Видеоплеер.
+- [Windows] Обновление Vid2RVID до версии v1.7 от 30.01.2026: https://github.com/RocketRobz/Vid2RVID/releases/tag/v1.7 | Конвертер видео в формат Rocket Video (.rvid) для RocketVideoPlayer.
+
+=== 3DS/DS(i) ===
+- Обновление WordleDS до версии dev от 29.01.2026: https://github.com/Epicpkmn11/WordleDS/releases/tag/dev | Клон игры Wordle.
+
+=== 3DS ===
+- Обновление Universal-Updater до версии git от 30.01.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2124.3 от 29.01.2026: https://github.com/azahar-emu/azahar/releases/tag/2124.3 | Эмулятор 3DS.
+- Обновление ntr-hr до версии v0.3.7.0 от 29.01.2026: https://github.com/xzn/ntr-hr/releases/tag/v0.3.7.0 | Улучшенный стриминг картинки с консоли по WiFi.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.0.0-rc.6 от 29.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.0.0-rc.6 | Простой менеджер Wii Backup File System.
+
+
+2026.01.31-07:50
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление Red Viper до версии v1.2.5 от 30.01.2026: https://github.com/skyfloogle/red-viper/releases/tag/v1.2.5 | Эмулятор Virtual Boy.
+
+=== Switch ===
+- Обновление FPSLocker до версии 3.2.4 от 30.01.2026: https://github.com/masagrator/FPSLocker/releases/tag/3.2.4 | Оверлей для установки кастомного FPS в играх.
+- Обновление 2ship2harkinian-Switch до версии 4.0.0 от 30.01.2026: https://github.com/YoshiCrystal9/2ship2harkinian-Switch/releases/tag/4.0.0 | Порт LoZ: Majora's Mask.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.0.0 от 30.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.0.0 | Простой менеджер Wii Backup File System.
+
+
+2026.02.01-08:00
+
+#новости_хоумбрю_одной_строкой:
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.0.1 от 31.01.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.0.1 | Простой менеджер Wii Backup File System.
+
+
+2026.02.02-07:48
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление Pico Loader до версии v1.5.0 от 01.02.2026: https://github.com/LNH-team/pico-loader/releases/tag/v1.5.0 | Приложение позволяющие запускать DS(i) игры. Альтернатива nds-bootstrap?
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.0.2 от 01.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.0.2 | Простой менеджер Wii Backup File System.
+
+
+2026.02.03-07:46
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление Switchfin до версии 0.8.3 от 02.02.2026: https://github.com/dragonflylee/switchfin/releases/tag/0.8.3 | Jellyfin клиент.
+- Обновление SaltyNX до версии 1.7.3 от 02.02.2026: https://github.com/masagrator/SaltyNX/releases/tag/1.7.3 | Фоновый процесс для модификации файлов/кода.
+
+
+2026.02.04-07:43
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление Universal-Updater до версии v3.3.4 от 03.02.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.3.4 | Приложение для обновления и установки homebrew.
+
+=== Switch ===
+- Обновление Neumann до версии 0.0.31 от 03.02.2026: https://github.com/turtle-insect/Neumann/releases/tag/0.0.31 | Менеджер сохранений.
+
+
+2026.02.05-07:41
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- [Windows] Обновление Vid2RVID до версии v1.7.1 от 05.02.2026: https://github.com/RocketRobz/Vid2RVID/releases/tag/v1.7.1 | Конвертер видео в формат Rocket Video (.rvid) для RocketVideoPlayer.
+
+=== 3DS ===
+- Обновление NetPass до версии v1.2.9 от 04.02.2026: https://gitlab.com/3ds-netpass/netpass/-/releases/v1.2.9 | Приложение для получения streetpass'ов не выходя из дома.
+
+=== Switch ===
+- Обновление UE4cfgdumper до версии 1.2.9 от 04.02.2026: https://github.com/masagrator/UE4cfgdumper/releases/tag/1.2.9 | Приложение для автоматического нахождения расположения графических настроек в RAM в играх на Unreal Engine 4.
+- [Windows] Обновление GvasViewer до версии 0.25 от 04.02.2026: https://github.com/turtle-insect/GvasViewer/releases/tag/0.25 | Просмотрщик Unreal Engine Gvas файлов.
+- Обновление TotK Unexplored до версии 1.0.4 от 04.02.2026: https://github.com/lud99/totk-unexplored/releases/tag/1.0.4 | Приложение для отслеживания несобранного в LoZ TOTK.
+
+
+2026.02.06-07:40
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление FourthTube до версии b34.1 от 06.02.2026: https://github.com/erievs/FourthTube/releases/tag/b34.1 | Сторонний клиент для YouTube.
+
+=== Switch ===
+- Обновление UE4cfgdumper до версии 1.2.9 от 05.02.2026: https://github.com/masagrator/UE4cfgdumper/releases/tag/1.2.9 | Приложение для автоматического нахождения расположения графических настроек в RAM в играх на Unreal Engine 4.
+- Обновление FortPatcher-NX до версии v20260205-60c455d от 05.02.2026: https://github.com/YoshiCrystal9/FortPatcher-NX/releases/tag/v20260205-60c455d | Позволяет играть в старые/новые версии Fortnite на забаненом свиче.
+
+
+2026.02.07-07:44
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление invMgr3ds до версии v0.6.0 от 07.02.2026: https://github.com/Terpsichord/invMgr3ds/releases/tag/v0.6.0 | Система управления инвентарем.
+
+=== Switch ===
+- Обновление DBI до версии 865ru от 06.02.2026: https://github.com/rashevskyv/dbi/releases/tag/865ru | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.0 от 06.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.0 | Простой менеджер Wii Backup File System.
+
+
+2026.02.08-07:44
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- [Windows] Обновление GvasViewer до версии 0.26 от 07.02.2026: https://github.com/turtle-insect/GvasViewer/releases/tag/0.26 | Просмотрщик Unreal Engine Gvas файлов.
+- Обновление FortPatcher-NX до версии v20260207-a6414b6 от 07.02.2026: https://github.com/YoshiCrystal9/FortPatcher-NX/releases/tag/v20260207-a6414b6 | Позволяет играть в старые/новые версии Fortnite на забаненом свиче.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.1 от 07.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.1 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление Rose Patcher до версии 1.2.6 от 08.02.2026: https://github.com/Project-Rose/RosePatcher/releases/tag/1.2.6 | Плагин Aroma, оживляющий TVii апплет.
+
+=== GBA ===
+- Обновление gba-micropolis до версии test-stuff от 07.02.2026: https://github.com/TaraHoleInIt/gba-micropolis/releases/tag/test-stuff | Порт Micropoilis (SimCity).
+
+
+2026.02.09-07:38
+
+#новости_хоумбрю_одной_строкой:
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.2 от 08.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.2 | Простой менеджер Wii Backup File System.
+
+
+2026.02.10-07:51
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление aurorachat до версии v0.0.4.2 от 09.02.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.0.4.2 | Онлайн чат.
+
+=== WiiU ===
+- Обновление aurorachat-wiiu до версии v0.0.4 от 17.11.2025: https://github.com/ItsFuntum/aurorachat-wiiu/releases/tag/v0.0.4 | Онлайн чат.
+
+
+2026.02.11-07:45
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление ldn_mitm до версии v1.24.0 от 10.02.2026: https://github.com/spacemeowx2/ldn_mitm/releases/tag/v1.24.0 | Системный модуль для пиратского онлайна.
+- Обновление SysDVR до версии v6.3 от 10.02.2026: https://github.com/exelix11/SysDVR/releases/tag/v6.3 | Модуль позволяющий транслировать картинку на ПК по USB или Wi-Fi.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.4 от 10.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.4 | Простой менеджер Wii Backup File System.
+
+
+2026.02.12-07:40
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление DBI до версии 866 от 11.02.2026: https://github.com/rashevskyv/dbi/releases/tag/866 | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.5 от 11.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.5 | Простой менеджер Wii Backup File System.
+
+
+2026.02.13-07:43
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление akmenu-next до версии v2.0.3 от 12.02.2026: https://github.com/coderkei/akmenu-next/releases/tag/v2.0.3 | Оболочка для nds-bootstrap.
+
+=== Switch ===
+- Обновление SysDVR Overlay до версии v1.0.15 от 13.02.2026: https://github.com/Hartie95/sysdvr-overlay/releases/tag/v1.0.15 | Оверлей для меню Tesla позволяющий управлять SysDVR.
+- Обновление pkHouse до версии 1.1.0 от 12.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.1.0 | Локальный покебанк.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.7 от 12.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.7 | Простой менеджер Wii Backup File System.
+
+
+2026.02.14-07:44
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление pkHouse до версии 1.2.0 от 14.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.2.0 | Локальный покебанк.
+- Обновление pkTeraRaid до версии 1.0.0 от 13.02.2026: https://github.com/Insektaure/pkTeraRaid/releases/tag/1.0.0 | Утилита для просмотра деталей терра рейдов в Pokemon Scarlet & Violet.
+- [Windows] Обновление GvasViewer до версии 0.27 от 14.02.2026: https://github.com/turtle-insect/GvasViewer/releases/tag/0.27 | Просмотрщик Unreal Engine Gvas файлов.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 13.02.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+
+2026.02.15-07:38
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление TWiLightMenu до версии v27.22.2 от 15.02.2026: https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v27.22.2 | Оболочка для nds-bootstrap.
+- Обновление nds-bootstrap до версии v2.14.0 от 15.02.2026: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.14.0 | Приложение позволяющие запускать DS(i) игры с карты памяти.
+- Обновление hShop DS до версии v1.0 от 14.02.2026: https://github.com/hshopnds-boop/hShop-NDS/releases/tag/v1.0 | Загрузчик DS/GBA игр.
+
+=== Switch ===
+- Обновление NSP Auto Installer Maker до версии 2.2 от 02.02.2026: https://github.com/CNX17/NSP-Auto-Installer-Maker/releases/tag/2.2 | Утилита для создания NSP файлов.
+- Обновление SaltyNX до версии 1.7.4 от 14.02.2026: https://github.com/masagrator/SaltyNX/releases/tag/1.7.4 | Фоновый процесс для модификации файлов/кода.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.9.0-rc.1 от 14.02.2026: https://github.com/andrewbenington/OpenHome/releases/tag/v1.9.0-rc.1 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.8 от 14.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.8 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление aurorachat-wiiu до версии v0.0.5 от 15.02.2026: https://github.com/ItsFuntum/aurorachat-wiiu/releases/tag/v0.0.5 | Онлайн чат.
+
+
+2026.02.16-07:45
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- [Windows] Обновление EmmcHaccGen до версии 3.2.1 от 15.02.2026: https://github.com/suchmememanyskill/EmmcHaccGen/releases/tag/3.2.1 | Потенциальная замена ChoiDuJour.
+- Обновление pkHouse до версии 1.3.0 от 15.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.3.0 | Локальный покебанк.
+- Обновление pkTeraRaid до версии 1.0.0 от 15.02.2026: https://github.com/Insektaure/pkBakery/releases/tag/1.0.0 | Редактор пончиков для сохранений Pokemon Legends: Z-A.
+- Обновление DBI до версии 868ru от 15.02.2026: https://github.com/rashevskyv/dbi/releases/tag/868ru | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.9.0-rc.2 от 15.02.2026: https://github.com/andrewbenington/OpenHome/releases/tag/v1.9.0-rc.2 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== WiiU ===
+- Обновление UTheme до версии V0.3B от 16.02.2026: https://github.com/xziip/UTheme/releases/tag/V0.3B | Менеджер и установщик тем оформления.
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 15.02.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+- Обновление aurorachat-wiiu до версии v0.0.5.1 от 15.02.2026: https://github.com/ItsFuntum/aurorachat-wiiu/releases/tag/v0.0.5.1 | Онлайн чат.
+
+
+2026.02.17-07:41
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление FPSLocker до версии 3.3.0 от 14.02.2026: https://github.com/masagrator/FPSLocker/releases/tag/3.3.0 | Оверлей для установки кастомного FPS в играх.
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 16.02.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.9.0-rc.3 от 17.02.2026: https://github.com/andrewbenington/OpenHome/releases/tag/v1.9.0-rc.3 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== WiiU ===
+- Обновление UTheme до версии V0.3B от 17.02.2026: https://github.com/xziip/UTheme/releases/tag/V0.3B | Менеджер и установщик тем оформления.
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 17.02.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+
+2026.02.18-07:45
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2125.0-alpha1 от 17.02.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-alpha1 | Эмулятор 3DS.
+
+=== Switch ===
+- Обновление pkTeraRaid до версии 1.1.2 от 17.02.2026: https://github.com/Insektaure/pkTeraRaid/releases/tag/1.1.2 | Утилита для просмотра деталей терра рейдов в Pokemon Scarlet & Violet.
+- Обновление pkTeraRaid до версии 1.0.1 от 17.02.2026: https://github.com/Insektaure/pkBakery/releases/tag/1.0.1 | Редактор пончиков для сохранений Pokemon Legends: Z-A.
+
+=== Wii ===
+- Обновление NullDC4Wii до версии alpha0.05 от 15.02.2026: https://github.com/BenoitAdam94/nullDC4Wii/releases/tag/alpha0.05 | Эмулятор Dreamcast.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 18.02.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+
+2026.02.19-07:41
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление Video player for 3DS до версии v1.6.1 от 18.02.2026: https://github.com/Core-2-Extreme/Video_player_for_3DS/releases/tag/v1.6.1 | Видеоплеер.
+
+=== Switch ===
+- Обновление pkTeraRaid до версии 1.1.3 от 18.02.2026: https://github.com/Insektaure/pkTeraRaid/releases/tag/1.1.3 | Утилита для просмотра деталей терра рейдов в Pokemon Scarlet & Violet.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.9 от 18.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.9 | Простой менеджер Wii Backup File System.
+
+
+2026.02.20-07:44
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление Fireplace-NX до версии 7 от 20.02.2026: https://github.com/ELY3M/Fireplace-NX/releases/tag/7 | Пиксельная имитация камина.
+- Обновление tiicu до версии 0.5.0 от 18.02.2026: https://github.com/ticohq/tico/releases/tag/0.5.0 | Фронтенд для эмуляторов.
+- Обновление Shiny-Stash-Live-Map до версии 1.0.3 от 19.02.2026: https://github.com/Insektaure/Shiny-Stash-Live-Map/releases/tag/1.0.3 | Утилита, которая в режиме реального времени считывает Shiny Stash из Pokemon Legends: Z-A и отображает на интерактивной карте.
+- Обновление pkTeraRaid до версии 1.1.4 от 19.02.2026: https://github.com/Insektaure/pkTeraRaid/releases/tag/1.1.4 | Утилита для просмотра деталей терра рейдов в Pokemon Scarlet & Violet.
+- Обновление DBI до версии 871ru от 19.02.2026: https://github.com/rashevskyv/dbi/releases/tag/871ru | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+- Обновление FortPatcher-NX до версии v20260219-3b7a73c от 19.02.2026: https://github.com/YoshiCrystal9/FortPatcher-NX/releases/tag/v20260219-3b7a73c | Позволяет играть в старые/новые версии Fortnite на забаненом свиче.
+- Обновление Turnips до версии v1.7.6 от 19.02.2026: https://github.com/averne/Turnips/releases/tag/v1.7.6 | Приложение для просмотра цен на репку в ACNH.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.10 от 19.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.10 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 19.02.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+=== GBA ===
+- Обновление SuperFW до версии v0.20 от 19.02.2026: https://github.com/davidgfnet/superfw/releases/tag/v0.20 | Альтернативная прошивка для Supercard флеш-картриджей.
+
+
+2026.02.21-07:35
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление aurorachat до версии v0.4.3 от 21.02.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.3 | Онлайн чат.
+
+=== Switch ===
+- Обновление Ultrahand-Overlay до версии v2.2.8 от 20.02.2026: https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v2.2.8 | Замена меню Tesla. Универсальный инструмент, позволяющий управлять настройками, файлами и каталогами на свиче.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.11 от 20.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.11 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление WiiUCamera до версии v1.3.2 от 20.02.2026: https://github.com/ClaudiWolf2056/WiiUCamera/releases/tag/v1.3.2 | Приложение камеры для WiiU геймпада.
+
+
+2026.02.22-07:48
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2125.0-alpha2 от 21.02.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-alpha2 | Эмулятор 3DS.
+
+=== Switch ===
+- Обновление Fireplace-NX до версии 8 от 21.02.2026: https://github.com/ELY3M/Fireplace-NX/releases/tag/8 | Пиксельная имитация камина.
+- Обновление pkHouse до версии 1.4.0 от 19.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.4.0 | Локальный покебанк.
+- Обновление Event Raid Injector до версии 1.0.1 от 17.02.2026: https://github.com/Insektaure/pkBakery/releases/tag/1.0.1 | Утилита для импорта данных Tera Raid в сохранения Pokemon Scarlet & Violet.
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 21.02.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+- Обновление Ultrahand-Overlay до версии v2.2.9 от 22.02.2026: https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v2.2.9 | Замена меню Tesla. Универсальный инструмент, позволяющий управлять настройками, файлами и каталогами на свиче.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.9.0 от 21.02.2026: https://github.com/andrewbenington/OpenHome/releases/tag/v1.9.0 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 22.02.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+- Обновление aurorachat-wiiu до версии v0.0.5.2 от 22.02.2026: https://github.com/ItsFuntum/aurorachat-wiiu/releases/tag/v0.0.5.2 | Онлайн чат.
+
+
+2026.02.23-07:50
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление pkHouse до версии 1.5.0 от 22.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.5.0 | Локальный покебанк.
+- Обновление NSP Auto Installer Maker до версии 2.3 от 23.02.2026: https://github.com/CNX17/NSP-Auto-Installer-Maker/releases/tag/2.3 | Утилита для создания NSP файлов.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.13 от 22.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.13 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление aurorachat-wiiu до версии v0.5.3 от 22.02.2026: https://github.com/ItsFuntum/aurorachat-wiiu/releases/tag/v0.5.3 | Онлайн чат.
+
+
+2026.02.24-07:58
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление FPSLocker до версии 3.3.1 от 23.02.2026: https://github.com/masagrator/FPSLocker/releases/tag/3.3.1 | Оверлей для установки кастомного FPS в играх.
+- [Windows] Обновление NSPack до версии v0.3CE от 24.02.2026: https://github.com/TheExpertNoob/Brew.NET/releases/tag/v0.3CE | Утилита для создания .nsp файлов.
+- Обновление pkHouse до версии 1.5.1 от 23.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.5.1 | Локальный покебанк.
+- Обновление melonDS до версии release от 23.02.2026: https://github.com/shooterspps/melonDS/releases/tag/release | Эмулятор Nintendo DS.
+- Обновление nx.js до версии v0.0.66 от 23.02.2026: https://github.com/TooTallNate/nx.js/releases/tag/v0.0.66 | Среда выполнения javascript.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.13 от 23.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.13 | Простой менеджер Wii Backup File System.
+
+
+2026.02.25-07:40
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление akmenu-next до версии v2.0.4 от 24.02.2026: https://github.com/coderkei/akmenu-next/releases/tag/v2.0.4 | Оболочка для nds-bootstrap.
+
+=== 3DS ===
+- [+ Switch] Обновление Checkpoint до версии v3.11.0 от 24.02.2026: https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.11.0 | Менеджер сохранений.
+
+=== Switch ===
+- Обновление pkHouse до версии 1.5.2 от 24.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.5.2 | Локальный покебанк.
+- [+Windows/Linux] Обновление SpaghettiKart до версии 1.0.0 от 25.02.2026: https://github.com/HarbourMasters/SpaghettiKart/releases/tag/1.0.0 | Порт Mario Kart 64.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.14 от 24.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.14 | Простой менеджер Wii Backup File System.
+
+
+2026.02.26-07:41
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление NSP Auto Installer Maker до версии 2.4 от 26.02.2026: https://github.com/CNX17/NSP-Auto-Installer-Maker/releases/tag/2.4 | Утилита для создания NSP файлов.
+- Обновление nx.js до версии v0.0.67 от 25.02.2026: https://github.com/TooTallNate/nx.js/releases/tag/v0.0.67 | Среда выполнения javascript.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.15 от 25.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.15 | Простой менеджер Wii Backup File System.
+
+
+2026.02.27-07:43
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление nx.js до версии v0.0.68 от 26.02.2026: https://github.com/TooTallNate/nx.js/releases/tag/v0.0.68 | Среда выполнения javascript.
+- Обновление switch-nsp-forwarder до версии 0.0.7 от 27.02.2026: https://github.com/TooTallNate/switch-nsp-forwarder/releases/tag/0.0.7 | Генератор NRO форвардеров из NSP.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.18 от 26.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.18 | Простой менеджер Wii Backup File System.
+
+
+2026.02.28-07:39
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS/DS(i) ===
+- Обновление akmenu-next до версии v2.0.5 от 27.02.2026: https://github.com/coderkei/akmenu-next/releases/tag/v2.0.5 | Оболочка для nds-bootstrap.
+
+=== 3DS ===
+- Обновление Magic Draw до версии v1.0.0 от 27.02.2026: https://github.com/natsuneco/magic-draw/releases/tag/v1.0.0 | Продвинутая рисовалка.
+
+=== Switch ===
+- Обновление pkHouse до версии 1.6.0 от 27.02.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.6.0 | Локальный покебанк.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.9.1 от 27.02.2026: https://github.com/andrewbenington/OpenHome/releases/tag/v1.9.1 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.19 от 27.02.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.19 | Простой менеджер Wii Backup File System.
+
+
+2026.03.01-07:40
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление A7800DS до версии 5.2 от 28.02.2026: https://github.com/wavemotion-dave/A7800DS/releases/tag/5.2 | Эмулятор Atari 7800.
+
+=== Switch ===
+- [Windows] Обновление NSPack до версии v0.3CE от 01.03.2026: https://github.com/TheExpertNoob/Brew.NET/releases/tag/v0.3CE | Утилита для создания .nsp файлов.
+- ❗️ Обновление NX-Firmware до версии 21.2.0 от 28.02.2026: https://github.com/THZoria/NX_Firmware/releases/tag/21.2.0 | Системная прошивка. Перед обновлением проверьте совместимость с атмосферой/кефиром.
+
+=== 3DS/DS(i)/Switch ===
+- [Windows/macOS/Linux] Обновление OpenHome до версии v1.9.2 от 28.02.2026: https://github.com/andrewbenington/OpenHome/releases/tag/v1.9.2 | Приложение для импорта и переноса покемонов между файлами сохранений.
+
+=== WiiU ===
+- Обновление SaveMii WUT Port /ProcessMod до версии 1.8.0 от 28.02.2026: https://github.com/w3irDv/savemii/releases/tag/1.8.0 | Менеджер сохранений для WiiU/vWii. Мод позволяет работать с сохранениями в массовом порядке.
+- Обновление re_nsyshid до версии v0.4.5 от 28.02.2026: https://github.com/deReeperJosh/re_nsyshid/releases/tag/v0.4.5 | Плагин, позволяющий эмулировать периферийные устройства USB (например, Skylanders Portal Of Power).
+
+=== GBA ===
+- Обновление Celio-Firmware до версии 1.0 от 25.02.2026: https://github.com/Celio-Link/Celio-Firmware/releases/tag/1.0 | Прошивка для малинки RP2040, на основе которой собирается устройство для вывода покемонов 3-го поколения онлайн на оригинальном железе.
+
+
+2026.03.02-07:44
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление A7800DS до версии 5.2a от 01.03.2026: https://github.com/wavemotion-dave/A7800DS/releases/tag/5.2a | Эмулятор Atari 7800.
+
+=== 3DS ===
+- Обновление aurorachat до версии v0.4.4 от 02.03.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.4 | Онлайн чат.
+
+=== Switch ===
+- Обновление pkHouse до версии 1.6.1 от 01.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.6.1 | Локальный покебанк.
+- Обновление NSP Auto Installer Maker до версии 2.5 от 01.03.2026: https://github.com/CNX17/NSP-Auto-Installer-Maker/releases/tag/2.5 | Утилита для создания NSP файлов.
+
+=== Wii ===
+- Обновление NullDC4Wii до версии alpha0.06 от 01.03.2026: https://github.com/BenoitAdam94/nullDC4Wii/releases/tag/alpha0.06 | Эмулятор Dreamcast.
+
+=== WiiU ===
+- Обновление SaveMii WUT Port/ProcessMod + SaveMyMiis до версии 1.8.0 от 01.03.2026: https://github.com/w3irDv/savemii/releases/tag/1.8.0 | Менеджер сохранений для WiiU/vWii. Мод позволяет работать с сохранениями в массовом порядке.
+
+
+2026.03.03-07:41
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление A7800DS до версии 5.2b от 02.03.2026: https://github.com/wavemotion-dave/A7800DS/releases/tag/5.2b | Эмулятор Atari 7800.
+
+=== Switch ===
+- Обновление pkHouse до версии 1.6.2 от 02.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.6.2 | Локальный покебанк.
+- Обновление sys-ticon до версии 1.0.3 от 02.03.2026: https://github.com/masagrator/sys-ticon/releases/tag/1.0.3 | Утилита для замены иконок, названий и издателей у игр в qlaunch.
+- Обновление AntiDriftNX до версии 1.0 от 02.03.2026: https://github.com/Afksauri/AntiDrift-NX/releases/tag/1.0 | Утилита, которая считывает и редактирует внутренние данные калибровки Joy‑Con, чтобы уменьшить дрифт стика.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.20 от 02.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.20 | Простой менеджер Wii Backup File System.
+
+
+2026.03.04-07:42
+
+#новости_хоумбрю_одной_строкой:
+=== DS(i) ===
+- Обновление A7800DS до версии 5.2c от 03.03.2026: https://github.com/wavemotion-dave/A7800DS/releases/tag/5.2c | Эмулятор Atari 7800.
+
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2125.0-alpha4 от 03.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-alpha4 | Эмулятор 3DS.
+
+=== Switch ===
+- Обновление DBI до версии 876ru от 03.03.2026: https://github.com/rashevskyv/dbi/releases/tag/876ru | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+- Обновление pkHouse до версии 1.6.3 от 03.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.6.3 | Локальный покебанк.
+- Обновление sys-ticon до версии 1.0.4 от 03.03.2026: https://github.com/masagrator/sys-ticon/releases/tag/1.0.4 | Утилита для замены иконок, названий и издателей у игр в qlaunch.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.21 от 03.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.21 | Простой менеджер Wii Backup File System.
+
+
+2026.03.05-07:39
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление ToCS1-ENX до версии 1.2.1-final от 04.03.2026: https://github.com/masagrator/ToCS1-ENX/releases/tag/1.2.1-final | Англояычный перевод игры The Legend of Heroes: Trails of Cold Steel Kai ~ THORS MILITARY ACADEMY 1204 ~.
+- Обновление SwitchWave до версии v1.1.0 от 04.03.2026: https://github.com/averne/SwitchWave/releases/tag/v1.1.0 | Медиаплеер с аппаратным ускорением, построенный на базе mpv и FFmpeg.
+- Обновление ironfoil до версии v0.1.3 от 04.03.2026: https://github.com/sermuns/ironfoil/releases/tag/v0.1.3 | CLI альтернатива для NS-USBloader.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.22 от 04.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.22 | Простой менеджер Wii Backup File System.
+
+=== WiiU ===
+- Обновление WiiUCamera до версии v1.6.8 от 04.03.2026: https://github.com/ClaudiWolf2056/WiiUCamera/releases/tag/v1.6.8 | Приложение камеры для WiiU геймпада.
+
+
+2026.03.06-07:39
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление pkHouse до версии 1.7.0 от 05.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.7.0 | Локальный покебанк.
+- Обновление sys-ticon до версии 1.0.5 от 05.03.2026: https://github.com/masagrator/sys-ticon/releases/tag/1.0.5 | Утилита для замены иконок, названий и издателей у игр в qlaunch.
+- Обновление ironfoil до версии v0.1.6 от 05.03.2026: https://github.com/sermuns/ironfoil/releases/tag/v0.1.6 | CLI альтернатива для NS-USBloader.
+- Обновление FortPatcher-NX до версии v20260305-ea61512 от 05.03.2026: https://github.com/YoshiCrystal9/FortPatcher-NX/releases/tag/v20260305-ea61512 | Позволяет играть в старые/новые версии Fortnite на забаненом свиче.
+
+=== Wii ===
+- Обновление NullDC4Wii до версии alpha0.07 от 05.03.2026: https://github.com/BenoitAdam94/nullDC4Wii/releases/tag/alpha0.07 | Эмулятор Dreamcast.
+
+
+2026.03.07-07:53
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление Magic Draw до версии v2.0.1 от 06.03.2026: https://github.com/natsuneco/magic-draw/releases/tag/v2.0.1 | Продвинутая рисовалка.
+- Обновление Universal-Updater до версии git от 06.03.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+
+=== Switch ===
+- Обновление PNGShot до версии 2.6.0 от 06.03.2026: https://github.com/J-D-K/PNGShot/releases/tag/2.6.0 | Модуль для создания скриншотов в формате .png.
+
+
+2026.03.09-07:47
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление aurorachat до версии v0.4.5 от 08.03.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.5 | Онлайн чат.
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2125.0-alpha5 от 08.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-alpha5 | Эмулятор 3DS.
+
+=== Switch ===
+- Обновление nx.js до версии v0.0.69 от 07.03.2026: https://github.com/TooTallNate/nx.js/releases/tag/v0.0.69 | Среда выполнения javascript.
+- Обновление DBI до версии 878ru от 08.03.2026: https://github.com/rashevskyv/dbi/releases/tag/878ru | Установщик игр, файловый менеджер, менеджер сохранений и т.д.
+- Обновление pkHouse до версии 1.7.1 от 07.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.7.1 | Локальный покебанк.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.23 от 07.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.23 | Простой менеджер Wii Backup File System.
+
+
+2026.03.10-12:27
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление pkHouse до версии 1.7.3 от 09.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.7.3 | Локальный покебанк.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.24 от 09.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.24 | Простой менеджер Wii Backup File System.
+
+=== GBA ===
+- Обновление Balatro-GBA до версии jokers_stable_v1.1 от 09.03.2026: https://github.com/cellos51/balatro-gba/releases/tag/jokers_stable_v1.1 | Неофициальный порт минимальной версии Balatro.
+
+
+2026.03.11-16:32
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление NetPass до версии v2.0.0 от 10.03.2026: https://gitlab.com/3ds-netpass/netpass/-/releases/v2.0.0 | Приложение для получения streetpass'ов не выходя из дома.
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2125.0-alpha6 от 10.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-alpha6 | Эмулятор 3DS.
+
+=== Wii ===
+- Обновление NullDC4Wii до версии alpha0.08 от 10.03.2026: https://github.com/BenoitAdam94/nullDC4Wii/releases/tag/alpha0.08 | Эмулятор Dreamcast.
+
+
+2026.03.12-07:34
+
+#новости_хоумбрю_одной_строкой:
+=== WiiU ===
+- [Linux/Windows/Android/Switch] Обновление Vanilla до версии continuous от 12.03.2026: https://github.com/vanilla-wiiu/vanilla/releases/tag/continuous | Программный клон геймпада Wii U.
+
+
+2026.03.13-07:53
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление 3dslibris до версии v1.0.2 от 12.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.2 | Читалка для книг.
+- [Android/Windows/MacOS/Linux] Обновление Azahar до версии 2125.0-rc1 от 12.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-rc1 | Эмулятор 3DS.
+- [+ Switch] Обновление Checkpoint до версии v3.12.0 от 12.03.2026: https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.12.0 | Менеджер сохранений.
+
+=== Switch ===
+- Обновление Ultrahand-Overlay до версии v2.3.0 от 13.03.2026: https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v2.3.0 | Замена меню Tesla. Универсальный инструмент, позволяющий управлять настройками, файлами и каталогами на свиче.
+- Обновление Status-Monitor-Overlay до версии v1.3.2+r7 от 13.03.2026: https://github.com/ppkantorski/Status-Monitor-Overlay/releases/tag/v1.3.2+r7 | Оверлей для Tesla отображающий информацию о консоли.
+- Обновление pkHouse до версии 1.7.5 от 12.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.7.5 | Локальный покебанк.
+- [+3DS/DS/WiiU/Wii/GC] Обновление ScratchEverywhere до версии 0.37 от 08.03.2026: https://github.com/ScratchEverywhere/ScratchEverywhere/releases/tag/0.37 | Пользовательская среда выполнения для Scratch 3 проектов.
+- Обновление noled до версии v1.0.0 от 12.03.2026: https://github.com/kemalsanli/noled/releases/tag/v1.0.0 | Модуль отключающий подсветку экрана во время выполнения фоновой задачи.
+- [Windows] Обновление Switch_Deck до версии releases от 12.03.2026: https://github.com/lunares83/Switch_Deck/releases/tag/releases | Трансляция экрана ПК на свич.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.25 от 12.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.25 | Простой менеджер Wii Backup File System.
+- Обновление NullDC4Wii до версии alpha0.09 от 12.03.2026: https://github.com/BenoitAdam94/nullDC4Wii/releases/tag/alpha0.09 | Эмулятор Dreamcast.
+
+
+2026.03.14-07:45
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- [+NDS/Wii] Обновление Raptor до версии N64-V1.0.0-RC1 от 13.03.2026: https://github.com/RetroGamer02/raptor-consoles/releases/tag/N64-V1.0.0-RC1 | Порт игры Raptor Call Of The Shadows.
+
+=== Switch ===
+- Обновление Status-Monitor-Overlay до версии v1.3.2+r7 от 13.03.2026: https://github.com/ppkantorski/Status-Monitor-Overlay/releases/tag/v1.3.2+r7 | Оверлей для Tesla отображающий информацию о консоли.
+
+
+2026.03.15-16:51
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- Обновление 3dslibris до версии v1.0.3 от 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Обновление Universal-Updater до версии git от 15.03.2026: https://github.com/Universal-Team/Universal-Updater/releases/tag/git | Приложение для обновления и установки homebrew.
+
+=== Switch ===
+- Обновление emuiibo до версии 1.1.3 от 14.03.2026: https://github.com/XorTroll/emuiibo/releases/tag/1.1.3 | Эмуляция Amiibo.
+- Обновление Tetris Overlay до версии v0.4.8 от 15.03.2026: https://github.com/ppkantorski/Tetris-Overlay/releases/tag/v0.4.8 | Тетрис в виде оверлея для меню Tesla.
+- Обновление ovlSysmodule до версии v1.4.8 от 15.03.2026: https://github.com/ppkantorski/ovl-sysmodules/releases/tag/v1.4.8 | Оверлей для меню Tesla позволяющий управлять системными модулями.
+- Обновление pkBakery до версии 1.1.0 от 15.03.2026: https://github.com/Insektaure/pkBakery/releases/tag/1.1.0 | Редактор пончиков для сохранений Pokemon Legends: Z-A.
+- Обновление Event Raid Injector до версии 1.1.0 от 15.03.2026: https://github.com/Insektaure/pkBakery/releases/tag/1.1.0 | Утилита для импорта данных Tera Raid в сохранения Pokemon Scarlet & Violet.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.26 от 14.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.26 | Простой менеджер Wii Backup File System.
+- Обновление NullDC4Wii до версии alpha0.11 от 15.03.2026: https://github.com/BenoitAdam94/nullDC4Wii/releases/tag/alpha0.11 | Эмулятор Dreamcast.
+
+
+2026.03.16-07:38
+
+#новости_хоумбрю_одной_строкой:
+=== Switch ===
+- Обновление chiaki-ng до версии weekly-canary-release-6083a86a019ccf1191b2cd913f0180a59255a128 от 16.03.2026: https://github.com/streetpea/chiaki-ng/releases/tag/weekly-canary-release-6083a86a019ccf1191b2cd913f0180a59255a128 | Клиент для PS5 и PS4 remote play.
+- Обновление pkHouse до версии 1.7.6 от 15.03.2026: https://github.com/Insektaure/pkHouse/releases/tag/1.7.6 | Локальный покебанк.
+
+
+2026.03.17-07:46
+
+#новости_хоумбрю_одной_строкой:
+=== 3DS ===
+- [+NDS/Wii] Обновление Raptor до версии N64-V1.0.0-RC2 от 17.03.2026: https://github.com/RetroGamer02/raptor-consoles/releases/tag/N64-V1.0.0-RC2 | Порт игры Raptor Call Of The Shadows.
+
+=== Wii ===
+- [Windows/macOS/Linux] Обновление TinyWiiBackupManager до версии v5.1.27 от 16.03.2026: https://github.com/mq1/TinyWiiBackupManager/releases/tag/v5.1.27 | Простой менеджер Wii Backup File System.
+
+
+
+
+
+2026.03.17-23:49
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.17-23:51
+
+2026.03.17-23:51
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.17-23:56
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення 3dslibris до версії v1.0.3 від 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-00:02
+
+2026.03.18-00:14
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS/DS(i) ===
+- Оновлення nds-bootstrap до версії v2.15.0 від 17.03.2026: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.15.0 | Приложение позволяющие запускать DS(i) игры с карты памяти.
+
+=== 3DS ===
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-00:19
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-00:24
+
+2026.03.18-00:30
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS/DS(i) ===
+- Оновлення TWiLightMenu до версії v27.23.0 від 17.03.2026: https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v27.23.0 | Оболочка для nds-bootstrap.
+
+
+2026.03.18-00:35
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS/DS(i) ===
+- Оновлення TWiLightMenu до версії v27.23.0 від 17.03.2026: https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v27.23.0 | Оболочка для nds-bootstrap.
+
+
+2026.03.18-00:40
+
+2026.03.18-12:57
+
+2026.03.18-13:09
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-13:13
+
+2026.03.18-13:14
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення 3dslibris до версії v1.0.3 від 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-13:17
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення aurorachat до версії v0.4.5 від 08.03.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.5 | Онлайн чат.
+- Оновлення Magic Draw до версії v2.0.1 від 06.03.2026: https://github.com/natsuneco/magic-draw/releases/tag/v2.0.1 | Продвинутая рисовалка.
+- Оновлення 3dslibris до версії v1.0.3 від 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-13:18
+
+2026.03.18-13:20
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення invMgr3ds до версії v0.6.0 від 07.02.2026: https://github.com/Terpsichord/invMgr3ds/releases/tag/v0.6.0 | Система управления инвентарем.
+- Оновлення 3DS Random Game Launcher до версії v18 від 24.09.2025: https://github.com/selloa/3DS-Random-Game-Launcher/releases/tag/v18 | Лаунчер запускающий случайную игру.
+- Оновлення 3DS Ballistica Game до версії v0.1.20 від 03.10.2025: https://github.com/steddyman/Ballistica/releases/tag/v0.1.20 | Арканоид.
+- Оновлення Video player for 3DS до версії v1.6.1 від 18.02.2026: https://github.com/Core-2-Extreme/Video_player_for_3DS/releases/tag/v1.6.1 | Видеоплеер.
+- Оновлення aurorachat до версії v0.4.5 від 08.03.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.5 | Онлайн чат.
+- Оновлення Magic Draw до версії v2.0.1 від 06.03.2026: https://github.com/natsuneco/magic-draw/releases/tag/v2.0.1 | Продвинутая рисовалка.
+- Оновлення 3dslibris до версії v1.0.3 від 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-13:22
+
+2026.03.18-13:30
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення GodMode9 до версії v2.2.1 від 24.10.2025: https://github.com/d0k3/GodMode9/releases/tag/v2.2.1 | Файловый менеджер с полным доступом.
+- [Windows] Оновлення mh4edit до версії V1.0.2 від 24.03.2025: https://github.com/Rokumaehn/mh4edit/releases/tag/V1.0.2 | Редактор сохранений для Monster Hunter 4 Ultimate.
+- Оновлення Checkpoint до версії v3.12.0 від 12.03.2026: https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.12.0 | Менеджер сохранений.
+- [Windows] Оновлення Batch CIA 3DS Decryptor Redux до версії v1.0.6.1 від 04.04.2025: https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux/releases/tag/v1.0.6.1 | Скрипт для рашифровки .3ds/.cia файлов.
+- Оновлення invMgr3ds до версії v0.6.0 від 07.02.2026: https://github.com/Terpsichord/invMgr3ds/releases/tag/v0.6.0 | Система управления инвентарем.
+- Оновлення 3DS Random Game Launcher до версії v18 від 24.09.2025: https://github.com/selloa/3DS-Random-Game-Launcher/releases/tag/v18 | Лаунчер запускающий случайную игру.
+- Оновлення 3DS Ballistica Game до версії v0.1.20 від 03.10.2025: https://github.com/steddyman/Ballistica/releases/tag/v0.1.20 | Арканоид.
+- Оновлення flappy до версії v1.1 від 29.06.2025: https://github.com/MillKeny/flappy/releases/tag/v1.1 | Порт Flappy bird.
+- Оновлення Video player for 3DS до версії v1.6.1 від 18.02.2026: https://github.com/Core-2-Extreme/Video_player_for_3DS/releases/tag/v1.6.1 | Видеоплеер.
+- Оновлення aurorachat до версії v0.4.5 від 08.03.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.5 | Онлайн чат.
+- Оновлення Magic Draw до версії v2.0.1 від 06.03.2026: https://github.com/natsuneco/magic-draw/releases/tag/v2.0.1 | Продвинутая рисовалка.
+- Оновлення 3dslibris до версії v1.0.3 від 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-13:37
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення GodMode9 до версії v2.2.1 від 24.10.2025: https://github.com/d0k3/GodMode9/releases/tag/v2.2.1 | Файловый менеджер с полным доступом.
+- [Windows] Оновлення mh4edit до версії V1.0.2 від 24.03.2025: https://github.com/Rokumaehn/mh4edit/releases/tag/V1.0.2 | Редактор сохранений для Monster Hunter 4 Ultimate.
+- Оновлення Checkpoint до версії v3.12.0 від 12.03.2026: https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.12.0 | Менеджер сохранений.
+- [Windows] Оновлення Batch CIA 3DS Decryptor Redux до версії v1.0.6.1 від 04.04.2025: https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux/releases/tag/v1.0.6.1 | Скрипт для рашифровки .3ds/.cia файлов.
+- Оновлення invMgr3ds до версії v0.6.0 від 07.02.2026: https://github.com/Terpsichord/invMgr3ds/releases/tag/v0.6.0 | Система управления инвентарем.
+- Оновлення 3DS Random Game Launcher до версії v18 від 24.09.2025: https://github.com/selloa/3DS-Random-Game-Launcher/releases/tag/v18 | Лаунчер запускающий случайную игру.
+- Оновлення 3DS Ballistica Game до версії v0.1.20 від 03.10.2025: https://github.com/steddyman/Ballistica/releases/tag/v0.1.20 | Арканоид.
+- Оновлення flappy до версії v1.1 від 29.06.2025: https://github.com/MillKeny/flappy/releases/tag/v1.1 | Порт Flappy bird.
+- Оновлення Video player for 3DS до версії v1.6.1 від 18.02.2026: https://github.com/Core-2-Extreme/Video_player_for_3DS/releases/tag/v1.6.1 | Видеоплеер.
+- Оновлення aurorachat до версії v0.4.5 від 08.03.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.5 | Онлайн чат.
+- Оновлення Magic Draw до версії v2.0.1 від 06.03.2026: https://github.com/natsuneco/magic-draw/releases/tag/v2.0.1 | Продвинутая рисовалка.
+- Оновлення 3dslibris до версії v1.0.3 від 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-13:39
+
+2026.03.18-13:40
+
+2026.03.18-13:46
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Оновлення Azahar до версії 2125.0-rc1 від 12.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-rc1 | Эмулятор 3DS.
+- Оновлення GodMode9 до версії v2.2.1 від 24.10.2025: https://github.com/d0k3/GodMode9/releases/tag/v2.2.1 | Файловый менеджер с полным доступом.
+- [Windows] Оновлення mh4edit до версії V1.0.2 від 24.03.2025: https://github.com/Rokumaehn/mh4edit/releases/tag/V1.0.2 | Редактор сохранений для Monster Hunter 4 Ultimate.
+- Оновлення Checkpoint до версії v3.12.0 від 12.03.2026: https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.12.0 | Менеджер сохранений.
+- [Windows] Оновлення Batch CIA 3DS Decryptor Redux до версії v1.0.6.1 від 04.04.2025: https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux/releases/tag/v1.0.6.1 | Скрипт для рашифровки .3ds/.cia файлов.
+- Оновлення invMgr3ds до версії v0.6.0 від 07.02.2026: https://github.com/Terpsichord/invMgr3ds/releases/tag/v0.6.0 | Система управления инвентарем.
+- Оновлення 3DS Random Game Launcher до версії v18 від 24.09.2025: https://github.com/selloa/3DS-Random-Game-Launcher/releases/tag/v18 | Лаунчер запускающий случайную игру.
+- Оновлення 3DS Ballistica Game до версії v0.1.20 від 03.10.2025: https://github.com/steddyman/Ballistica/releases/tag/v0.1.20 | Арканоид.
+- Оновлення flappy до версії v1.1 від 29.06.2025: https://github.com/MillKeny/flappy/releases/tag/v1.1 | Порт Flappy bird.
+- Оновлення Video player for 3DS до версії v1.6.1 від 18.02.2026: https://github.com/Core-2-Extreme/Video_player_for_3DS/releases/tag/v1.6.1 | Видеоплеер.
+- Оновлення aurorachat до версії v0.4.5 від 08.03.2026: https://github.com/mii-man/aurorachat/releases/tag/v0.4.5 | Онлайн чат.
+- Оновлення Magic Draw до версії v2.0.1 від 06.03.2026: https://github.com/natsuneco/magic-draw/releases/tag/v2.0.1 | Продвинутая рисовалка.
+- Оновлення 3dslibris до версії v1.0.3 від 14.03.2026: https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3 | Читалка для книг.
+- Оновлення Moonlight 3DS до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | ТЕСТОВЕ ОНОВЛЕННЯ.
+
+
+2026.03.18-14:02
+
+2026.03.18-14:03
+
+2026.03.18-14:05
+
+2026.03.18-14:06
+
+2026.03.18-14:07
+
+2026.03.18-14:08
+
+2026.03.18-14:09
+
+2026.03.18-14:10
+
+2026.03.18-14:27
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення wumiibo до версії v4.2 від 21.07.2023: https://github.com/hax0kartik/wumiibo/releases/tag/v4.2 | Емуляція Amiibo для 3ds
+- Оновлення Bandolero 3DS до версії 1.5RU від 18.05.2025: https://github.com/Tristanabs/bandolero3ds/releases/tag/1.5RU | Редактор тексту для 3D
+- Оновлення 3DS Donut до версії v1.5 від 01.02.2025: https://github.com/Buggem/3ds-donut/releases/tag/v1.5 | Пончик у C.
+- Оновлення DOSBox до версії v0.0.3 від 10.05.2023: https://github.com/MrHuu/dosbox-3ds/releases/tag/v0.0.3 | Порт DOSBox-SVN для Nintendo 3DS
+- Оновлення Antibounce до версії 2.0.0 від 15.08.2020: https://github.com/TurtleP/Antibounce/releases/tag/2.0.0 | Гра A Ludum Dare #34
+- Оновлення 3DSController до версії 0.6 від 08.09.2015: https://github.com/CTurt/3DSController/releases/tag/0.6 | Додано автоматично
+- Оновлення openbor-3ds до версії v0.0.6 від 24.08.2022: https://github.com/MrHuu/openbor-3ds/releases/tag/v0.0.6 | OpenBOR — це найкращий двовимірний механізм бічної прокрутки для битв, шутерів тощо!
+- Оновлення 3ds-Controller до версії v0.0.5 від 26.09.2025: https://github.com/icicle1133/3ds-Controller/releases/tag/v0.0.5 | «Оновлена» програма 3ds homebrew, яка дозволяє використовувати ваш 3ds як бездротовий контролер.
+- Оновлення Hax0r до версії v1.2 від 08.07.2016: https://github.com/TurtleP/Hax0r/releases/tag/v1.2 | Гра A Ludum Dare #33
+- Оновлення opentitus-3ds до версії 27-12-2018 від 27.12.2018: https://github.com/MrHuu/opentitus-3ds/releases/tag/27-12-2018 | Перенесення ігрового движка на DOS-версії Лиса Тита та Моктара
+- Оновлення faketik до версії v1.1.2 від 14.11.2020: https://github.com/ihaveamac/faketik/releases/tag/v1.1.2 | Генерує фальшиві квитки, щоб зниклі назви знову з’явилися в 3DS.
+- Оновлення SliderPong до версії v1.0.1 від 31.08.2025: https://github.com/CacahueteSansSel/SliderPong/releases/tag/v1.0.1 | Гра в понг із регуляторами гучності та 3D-повзунками для нової 3DS!
+- Оновлення TurtleInvaders до версії v1.0.2 від 30.06.2016: https://github.com/TurtleP/TurtleInvaders/releases/tag/v1.0.2 | Шутер із фіксованою віссю та мережею
+- Оновлення Demo-Reset до версії 1.0.0 від 17.07.2020: https://github.com/NPXTobi/Demo-Reset/releases/tag/1.0.0 | Ця програма скидає демо-лічильник 3ds
+- Оновлення save-data-copy-tool до версії v0.1.0 від 24.03.2022: https://github.com/ihaveamac/save-data-copy-tool/releases/tag/v0.1.0 | Копіювати дані збереження між ігровою карткою та цифровими версіями ігор на Nintendo 3DS
+- Оновлення ChatGPT3DS до версії v1.1.1 від 17.03.2023: https://github.com/CarsonKompon/ChatGPT3DS/releases/tag/v1.1.1 | Здійснюйте виклики API OpenAI безпосередньо з Nintendo 3DS! Зроблено з Lovebrew :)
+- Оновлення TWLSaveTool до версії v1.2.1 від 22.09.2024: https://github.com/TuxSH/TWLSaveTool/releases/tag/v1.2.1 | Додаток 3DS homebrew, який дозволяє читати, записувати та стирати файли збереження з картриджів NDS (2015-2016)
+- Оновлення BootNTR до версії v2.13.7 від 30.08.2022: https://github.com/Nanquitas/BootNTR/releases/tag/v2.13.7 | Додано автоматично
+- Оновлення screenshot-merge до версії 1.4 від 02.02.2018: https://github.com/ihaveamac/screenshot-merge/releases/tag/1.4 | інструмент об’єднання знімків екрана для Nintendo 3DS
+- Оновлення SuperML до версії build-49 від 12.01.2026: https://github.com/CharlesAverill/SuperML/releases/tag/build-49 | Інтерпретатор і текстовий редактор для підмножини мови програмування Caml для Nintendo 3DS
+- Оновлення aurorachat до версії v0.4.5 від 14.03.2026: https://github.com/Unitendo/aurorachat/releases/tag/v0.4.5 | Спілкування в реальному часі для 3DS, Wii, Wii U та Web
+- Оновлення Forecast до версії v1.0.1 від 25.07.2017: https://github.com/NatTupper/Forecast/releases/tag/v1.0.1 | Додаток погоди для 3DS
+- Оновлення Ballcopter! до версії release від 20.06.2025: https://github.com/impi5h/Ballcopter3DS/releases/tag/release | Як Flappy Bird, але в СЛАВНОМУ 3D
+- Оновлення ClassiCube до версії 1.3.8 від 17.02.2026: https://github.com/ClassiCube/ClassiCube/releases/tag/1.3.8 | Спеціальний клієнт Minecraft Classic / ClassiCube, написаний на C з нуля (раніше ClassicalSharp на C#)
+- Оновлення 3DEins до версії git від 29.12.2025: https://github.com/Universal-Team/3DEins/releases/tag/git | Карткова гра для Nintendo 3DS & DS(i)!
+- Оновлення Omega до версії O2.0.4-E15 від 29.12.2022: https://github.com/Omega-Numworks/Omega/releases/tag/O2.0.4-E15 | Omega 2.0, наступна еволюція Epsilon! Тепер доступний для вашого калькулятора Numworks!
+- Оновлення drider до версії v0.6 від 14.11.2017: https://github.com/ingolemo/drider/releases/tag/v0.6 | Програма для читання epub для Nintendo3DS
+- Оновлення Halo Revamped до версії V1.11 від 06.08.2017: https://github.com/CollinScripter/Revamped3DS/releases/tag/V1.11 | Оновлений Halo 3DS
+- Оновлення 3DVier до версії git від 29.12.2025: https://github.com/Universal-Team/3DVier/releases/tag/git | Клон Connect-Four для Nintendo 3DS.
+- Оновлення Space Invaders до версії v1.0.0 від 18.12.2024: https://github.com/ConstantinZpher/Space-Invaders-3DS/releases/tag/v1.0.0 | Простий клон Space Invaders
+- Оновлення LEGO Island до версії continuous від 15.03.2026: https://github.com/isledecomp/isle-portable/releases/tag/continuous | Портативна версія LEGO Island (1997)
+- Оновлення Smash Amiibo Cheat Tool до версії 2.0 від 27.01.2017: https://github.com/Ordim3n/Smash-Amiibo-Cheat-Tool/releases/tag/2.0 | Зламайте ваші amiibos одним дотиком
+- Оновлення LeafEdit до версії git від 29.12.2025: https://github.com/Universal-Team/LeafEdit/releases/tag/git | Триває робота Animal Crossing: новий менеджер збереження та редактор Leaf для Nintendo 3DS!
+- Оновлення Battery_mark_for_3DS до версії v2.1.0 від 08.03.2022: https://github.com/Core-2-Extreme/Battery_mark_for_3DS/releases/tag/v2.1.0 | Перевірте свій акумулятор 3DS
+- Оновлення 3DS-Recovery-Tool до версії v1.40 від 18.02.2018: https://github.com/joel16/3DS-Recovery-Tool/releases/tag/v1.40 | Інструмент для відновлення та резервного копіювання унікальних даних на Nintendo 3DS
+- Оновлення LimePlayer3DS до версії v0.0.10 від 15.05.2021: https://github.com/Oreo639/LimePlayer3DS/releases/tag/v0.0.10 | Музичний програвач Gui для Nintendo 3DS (wip)
+- Оновлення Universal-Edit до версії git від 29.12.2025: https://github.com/Universal-Team/Universal-Edit/releases/tag/git | Універсально хороший текстовий редактор! :)
+- Оновлення 3DShell до версії v5.1.0 від 23.03.2021: https://github.com/joel16/3DShell/releases/tag/v5.1.0 | 3DShell — (вимовляється як 3D Shell) — багатоцільовий файловий менеджер для Nintendo 3DS. Сильно натхненний файловим менеджером CyanogenMod/LineageOS.
+- Оновлення FastPlayCoin до версії v1.0 від 13.01.2018: https://github.com/CorySanin/FastPlayCoin/releases/tag/v1.0 | [3DS] Швидкий PlayCoin
+- Оновлення EzB9SUpdater до версії v1.0.1 від 24.08.2025: https://github.com/PabloMK7/EzB9SUpdater/releases/tag/v1.0.1 | Простий засіб оновлення Boot9Strap для 3DS
+- Оновлення FriendMii до версії v1.00 від 29.07.2018: https://github.com/joel16/FriendMii/releases/tag/v1.00 | Експериментальна програма друзів з відкритим кодом для Nintendo 3DS.
+- Оновлення PrBoom+ до версії v1.0.0 від 10.07.2023: https://github.com/Voxel9/PrBoom-Plus-3DS/releases/tag/v1.0.0 | Порт PrBoom+ для Nintendo 3DS
+- Оновлення .hack//ez-i до версії 1.0.4 від 16.11.2025: https://github.com/CrackedPixel/hackezi-3ds/releases/tag/1.0.4 | Кайт, новачок у «Світі», грає зі своїм справжнім другом Оркою, коли на них нападає монстр, який переслідує таємну дівчину Ауру. Смерть Орки від нападу монстра вводить його в кому, і тепер Кайт повинен знайти Ауру та повернути свого друга!
+- Оновлення kartdlphax до версії v1.3.3 від 24.07.2023: https://github.com/PabloMK7/kartdlphax/releases/tag/v1.3.3 | Напівосновний експлойт Mario Kart 7 для Nintendo 3DS.
+
+ПРИМІТКА. Це призначено лише для встановлення CFW, будь ласка, не використовуйте, якщо не дотримуєтеся посібника.
+- Оновлення 3dsCookieClicker до версії #0022 від 11.06.2017: https://github.com/Creckeryop/3dsCookieClicker/releases/tag/#0022 | Клацач файлів cookie для Nintendo 3ds
+- Оновлення 3DWEB до версії v1.0.2.1b від 13.03.2026: https://github.com/WLHQ/3DWEB/releases/tag/v1.0.2.1b | Веб-сервер, створений мовою C для 3DS.
+- Оновлення RetroArch до версії v1.22.2 від 20.11.2025: https://github.com/libretro/RetroArch/releases/tag/v1.22.2 | Кросплатформенний складний інтерфейс для API libretro. Ліцензований GPLv3.
+- Оновлення LumaLocaleSwitcher до версії 0.04 від 22.04.2017: https://github.com/Possum/LumaLocaleSwitcher/releases/tag/0.04 | Передній кінець сумісної системи локалізації Luma3DS.
+- Оновлення VConV до версії Build-10 від 13.07.2025: https://github.com/lxfly2000/VConV/releases/tag/Build-10 | Імітуйте входи контролера Xbox за допомогою 3DS. Підтримка Windows 10/11. (Розробка завершена. Не соромтеся форкуватися!)
+- Оновлення CrossCraft Classic до версії v1.3 від 01.12.2022: https://github.com/CrossCraft/CrossCraft-Classic/releases/tag/v1.3 | Класичний клієнт C++ Minecraft
+- Оновлення YANBF до версії v1.6.3 від 29.11.2022: https://github.com/YANBForwarder/YANBF/releases/tag/v1.6.3 | Ще один пересилач nds-bootstrap. Запускається з 3DS-режиму!
+- Оновлення HokakuCTR до версії v1.0.3 від 02.04.2024: https://github.com/PretendoNetwork/HokakuCTR/releases/tag/v1.0.3 | Ігровий плагін 3DS (3GX) для скидання зв’язку RMC між іграми 3DS і NEX. Трафік скидається на SD у файли pcap.
+- Оновлення CS3DS до версії 0.6-alpha від 22.04.2016: https://github.com/machinamentum/CS3DS/releases/tag/0.6-alpha | Порт CSPSP для 3DS
+- Оновлення DrawAttack до версії 1.3 від 17.04.2016: https://github.com/Cruel/DrawAttack/releases/tag/1.3 | Багатокористувацька бойова гра для малювання для Nintendo 3DS.
+- Оновлення 3DS-FileBrowser до версії v1.0.0 від 14.02.2026: https://github.com/ZIXT233/3DS-FileBrowser/releases/tag/v1.0.0 | Файловий менеджер HTTP для Nintendo 3DS.
+- Оновлення Nimbus до версії v2.1.0 від 15.02.2026: https://github.com/PretendoNetwork/nimbus/releases/tag/v2.1.0 | Додано автоматично
+- Оновлення CIA Installer до версії v1.1.0 від 11.06.2025: https://github.com/Zachary-Rude/CIA-Installer/releases/tag/v1.1.0 | Проста програма для встановлення файлів CIA
+- Оновлення CTGP7-SaveTransfer до версії v0.4r1 від 11.05.2023: https://github.com/CyberYoshi64/CTGP7-SaveTransfer/releases/tag/v0.4r1 | Копіювальний пристрій збереження даних між МК7 та КТГП-7
+- Оновлення Yet Another Mario Kart Clone 3DS до версії v0.2 від 13.05.2021: https://github.com/mariohackandglitch/YAMKC_3DS/releases/tag/v0.2 | Клон гри Mario Kart для 3DS, створений з наміром імітувати відчуття гри Mario Kart, використовуючи Mario Kart 7 як натхнення
+- Оновлення Terminal Clicker до версії fsrelease від 14.12.2025: https://github.com/PyJulian/termiclicker3ds/releases/tag/fsrelease | Клікер термінального інтерфейсу для 3ds
+- Оновлення Snake for 3DS до версії v1.3 від 11.10.2023: https://github.com/Zachary-Rude/Snake-for-3DS/releases/tag/v1.3 | Базовий клон Snake для 3DS
+- Оновлення Snakes до версії 0.2.5 від 18.02.2017: https://github.com/DDews/Snakes/releases/tag/0.2.5 | Місцева гра в гру змія для 3DS homebrew/cfw
+- Оновлення homebrew_launcher_dummy до версії v1.0 від 26.07.2018: https://github.com/mariohackandglitch/homebrew_launcher_dummy/releases/tag/v1.0 | Homebrew Launcher Loader - пуста програма
+- Оновлення Notepad3DS до версії 1.1.2 від 06.12.2017: https://github.com/RMcTn/Notepad3DS/releases/tag/1.1.2 | Текстовий редактор для консолі Nintendo 3DS
+- Оновлення WifiManager до версії v1.2 від 26.01.2026: https://github.com/Zakary2841/WifiManager/releases/tag/v1.2 | WifiManager — це проста домашня програма 3ds, призначена для резервного копіювання та відновлення слотів Wi-Fi консолі.
+- Оновлення tikSweep до версії v1.1.2 від 07.01.2017: https://github.com/DanTheMan827/tikSweep/releases/tag/v1.1.2 | Програма очищення квитків для Nintendo 3DS.
+- Оновлення EDuke3D до версії v1.0-beta від 09.05.2016: https://github.com/masterfeizz/EDuke3D/releases/tag/v1.0-beta | Неофіційний порт EDuke32 для Nintendo 3DS
+- Оновлення 3dfetch до версії 1.10 від 09.07.2017: https://github.com/aliceinpalth/3dfetch/releases/tag/1.10 | 🍂 Відображає різноманітну інформацію про вашу Nintendo 3DS у гарних кольорах.
+- Оновлення Craftus Reloaded до версії 0.3 від 18.11.2020: https://github.com/RSDuck/craftus_reloaded/releases/tag/0.3 | Друга спроба домашнього клонування Minecraft для 3DS
+- Оновлення Breakup Simulator Portable до версії Major від 17.02.2024: https://github.com/Dangerbites/BreakupSimulator3DS/releases/tag/Major | Перенесення Super Kawai Breakup Sim для Nintendo 3DS
+- Оновлення Quake2CTR до версії v1.0 від 30.10.2022: https://github.com/masterfeizz/Quake2CTR/releases/tag/v1.0 | Порт Quake 2 для Nintendo 3DS
+- Оновлення Pie3DS до версії release від 04.05.2024: https://github.com/amedeo463/pie3ds/releases/tag/release | Проста програма, яка обчислює Пі
+- Оновлення RollTheDice-3DS до версії v1.0.1 від 30.12.2024: https://github.com/DefeatOf13/RollTheDice-3DS/releases/tag/v1.0.1 | Проста програма Homebrew для Nintendo 3DS, яка імітує кидок кубика
+- Оновлення Xash3DS до версії v0.2 від 14.09.2019: https://github.com/masterfeizz/Xash3DS/releases/tag/v0.2 | Порт Xash3D-FWGS для Nintendo 3DS
+- Оновлення Atari800 (RandomMan25XX) до версії Version_3DS_0.3.10 від 21.01.2024: https://github.com/RandomMan25XX/atari800/releases/tag/Version_3DS_0.3.10 | 8-розрядний комп'ютер Atari та емулятор консолі 5200 - неофіційний випуск ЦРУ
+- Оновлення blargSpc до версії v0.1 від 25.02.2016: https://github.com/DiscostewSM/blargSpc/releases/tag/v0.1 | Відтворюйте файли SNES SPC на своєму 3DS
+- Оновлення Angband до версії 4.2.6-73-g1e585edfd від 17.03.2026: https://github.com/angband/angband/releases/tag/4.2.6-73-g1e585edfd | Безкоштовна однокористувацька гра в стилі roguelike для дослідження підземелля
+- Оновлення ctrQuake до версії v0.8 від 13.09.2016: https://github.com/masterfeizz/ctrQuake/releases/tag/v0.8 | Порт quake для Nintendo 3DS
+- Оновлення Vapecord-ACNL-Plugin до версії v3.2.1 від 14.03.2026: https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/releases/tag/v3.2.1 | Animal Crossing NL Vapecord Public Plugin WIP
+- Оновлення RanGen-3DS до версії v0.1.1-alpha від 29.01.2026: https://github.com/ashbit06/RanGen-3DS/releases/tag/v0.1.1-alpha | Випадковий платформер, тепер для 3DS
+- Оновлення DaedalusX64-3DS до версії v1.0 від 16.10.2022: https://github.com/masterfeizz/daedalusx64-3DS/releases/tag/v1.0 | Перенесення DaedalusX64 на Nintendo 3DS
+- Оновлення Super-Haxagon до версії 3.9.1 від 23.04.2025: https://github.com/RedTopper/Super-Haxagon/releases/tag/3.9.1 | Супершестигранний клон
+- Оновлення 3DS eBook Reader до версії 1.2 від 29.01.2018: https://github.com/DomRe/3DS_eBook_Reader/releases/tag/1.2 | [АРХІВ] PoC 3DS для читання електронних книг.
+- Оновлення Atari800 до версії port-3ds/v0.3.10 від 20.01.2024: https://github.com/asiekierka/atari800-3ds/releases/tag/port-3ds/v0.3.10 | 8-розрядний комп'ютер Atari і емулятор консолі 5200 - порт 3DS
+- Оновлення ioQuake3DS до версії v1.2.0 від 30.10.2022: https://github.com/masterfeizz/ioQuake3DS/releases/tag/v1.2.0 | Додано автоматично
+- Оновлення OmniSpeak-3DS до версії 3ds-V1.0.2 від 30.09.2025: https://github.com/RetroGamer02/omnispeak-3ds/releases/tag/3ds-V1.0.2 | Повторна реалізація «Commander Keen in Goodbye Galaxy» із відкритим кодом
+- Оновлення Luma3DSWeather до версії latest від 26.02.2026: https://github.com/Dzhmelyk135/Luma3DSWeather/releases/tag/latest | Працююча програма погоди для всіх консолей сімейства Nintendo 3DS. Працює навіть з меншими та менш відомими містами.
+- Оновлення 3DS Sorting до версії v5.0 від 24.06.2023: https://github.com/memeToasty/3ds_sorting/releases/tag/v5.0 | Візуалізація деяких алгоритмів сортування на Nintendo 3DS
+- Оновлення uxnds до версії v0.5.3 від 30.03.2025: https://github.com/asiekierka/uxnds/releases/tag/v0.5.3 | Відгалуження/порт NDS/3DS віртуальної машини uxn/Varvara
+- Оновлення 3DSBank до версії v1.1 від 04.11.2020: https://github.com/RocketRobz/3DSBank/releases/tag/v1.1 | Селектор папок "Nintendo 3DS".
+- Оновлення Ollama3DS до версії latest від 27.02.2026: https://github.com/Dzhmelyk135/Ollama3DS/releases/tag/latest | Клієнт ollama для висновків про модифіковану консоль(и) Nintendo 3DS (сімейства) із моделями на сервері OLLAMA
+- Оновлення TinyVNC до версії 2.0.1 від 22.10.2024: https://github.com/badda71/TinyVNC/releases/tag/2.0.1 | Програма перегляду VNC для Nintendo 3DS
+- Оновлення HoriHD-Gallery до версії v1.0.2 від 21.06.2020: https://github.com/RocketRobz/HoriHD-Gallery/releases/tag/v1.0.2 | Демонстрація режиму 800px на консолях 3DS.
+- Оновлення mGBA до версії 0.10.5 від 09.03.2025: https://github.com/mgba-emu/mgba/releases/tag/0.10.5 | Емулятор mGBA Game Boy Advance
+- Оновлення Orchestrina до версії v0.5.0-beta від 30.03.2017: https://github.com/EBLeifEricson/orchestrina/releases/tag/v0.5.0-beta | Домашній музичний інструмент Legend of Zelda
+- Оновлення uae3DS до версії 1.0 від 23.06.2020: https://github.com/badda71/uae3DS/releases/tag/1.0 | Перенесення емулятора UAE4ALL Amiga 500 від Chui на Nintendo 3DS
+- Оновлення r3Ddragon до версії v0.87 від 02.02.2017: https://github.com/mrdanielps/r3Ddragon/releases/tag/v0.87 | Емулятор Virtual Boy для 3DS
+- Оновлення DS Forwarder Packs до версії SD-28 від 17.03.2026: https://github.com/RocketRobz/NTR_Forwarder/releases/tag/SD-28 | Базові пакети пересилачів для використання з пересилачами Forwarder3-DS і NDSForwarder
+- Оновлення CTR Alarmo до версії 1.1.0 від 17.02.2026: https://github.com/FelixHomebrew/CtrAlarmo/releases/tag/1.1.0 | Дурний додаток-будильник для Nintendo 3DS
+- Оновлення FBI-NH до версії 2.6.1 від 06.03.2024: https://github.com/nh-server/FBI-NH/releases/tag/2.6.1 | Менеджер титрів з відкритим кодом для 3DS. (Архів)
+- Оновлення vice3DS до версії 2.4.2 від 11.02.2023: https://github.com/badda71/vice3ds/releases/tag/2.4.2 | Перенесення емулятора VICE C64 (x64) на 3DS
+- Оновлення SavvyManager до версії v3.5.0 від 04.03.2025: https://github.com/RocketRobz/SavvyManager/releases/tag/v3.5.0 | Редактор/менеджер збереження для ігор Girls Mode/Girls Style/Style Savvy/Style Boutique на Nintendo 3DS
+- Оновлення UpdateSuppressor до версії v0.2.0 від 21.01.2016: https://github.com/GiantBlargg/UpdateSuppressor/releases/tag/v0.2.0 | Тимчасово блокує оновлення 3ds.
+- Оновлення SRAU до версії v1.1 від 13.04.2018: https://github.com/noirscape/SRAU/releases/tag/v1.1 | Samus Returns: Amiibo Unlocker
+- Оновлення CtrRGBPAT2 до версії v2.5 від 27.04.2025: https://github.com/Golem642/CtrRGBPAT2/releases/tag/v2.5 | Модифікатор кольору та малюнка світлодіодів для 3DS. Налаштуйте свої сповіщення як завгодно!
+- Оновлення VirtuaNES до версії v1.02 від 20.03.2018: https://github.com/bubble2k16/emus3ds/releases/tag/v1.02 | VirtuaNES високосумісний емулятор NES для вашої старої 3DS або 2DS.
+- Оновлення dses до версії v1.2.0 від 21.10.2024: https://github.com/noirscape/dses/releases/tag/v1.2.0 | Набір Dead Simple Eula
+- Оновлення Super Photo Studio до версії v1.1.0 від 26.12.2024: https://github.com/RocketRobz/SuperPhotoStudio/releases/tag/v1.1.0 | Сфотографуйте улюблених героїв відеоігор у чудовому Horizon HD (режим 800 пікселів)!
+- Оновлення NFCheckRem до версії 3ds від 06.06.2024: https://github.com/Golem642/NFCheckRem/releases/tag/3ds | Патч для консолей Nintendo, щоб видалити перевірку лише для читання на amiibos і дозволити перезаписувані теги Ntag215 NFC
+- Оновлення PicoDrive до версії v0.94 від 24.03.2018: https://github.com/bubble2k16/picodrive_3ds/releases/tag/v0.94 | Це перенесення емулятора PicoDrive від Notaz на стару 3DS і стару 2DS.
+- Оновлення Cthulhu до версії 1.3.5 від 28.11.2019: https://github.com/Ryuzaki-MrL/Cthulhu/releases/tag/1.3.5 | Домашня альтернатива програмному забезпеченню для розробників Nintendo
+- Оновлення Biniax2-3DS до версії V0.4alpha від 04.07.2016: https://github.com/nop90/Biniax2-3DS/releases/tag/V0.4alpha | Порт Biniax2 на 3ds
+- Оновлення ravimid до версії 1.2 від 08.11.2016: https://github.com/Hoksy/ravimid/releases/tag/1.2 | прагнення пірамідника врятувати свого батька
+- Оновлення NotifyMii до версії 1.2 від 24.05.2016: https://github.com/Ryuzaki-MrL/NotifyMii/releases/tag/1.2 | Homebrew Notification Manager для Nintendo 3DS
+- Оновлення Snes9x до версії v1.30 від 24.03.2018: https://github.com/bubble2k16/snes9x_3ds/releases/tag/v1.30 | Порт SNES9x для 3DS / 2DS
+- Оновлення CaptureAssistant до версії 1.3 від 26.08.2016: https://github.com/ItsDeidara/CaptureAssistant/releases/tag/1.3 | Помічник вирівнювання захоплення для карт захоплення 3ds і NTRviewer
+- Оновлення Griffon-Legend-3DS до версії v1.0 від 12.02.2017: https://github.com/nop90/Griffon-Legend-3DS/releases/tag/v1.0 | Порт до 3DS гарної RPG у стилі SNES, спочатку написаної Syn9 у FreeBASIC
+- Оновлення TemperPCE до версії v1.02 від 19.03.2018: https://github.com/bubble2k16/temperpce_3ds/releases/tag/v1.02 | Це перенесення емулятора Exophase Temper (TurboGrafx/PC-Engine) на стару 3DS і стару 2DS.
+- Оновлення RomFS Explorer до версії v1.0.1 від 31.10.2016: https://github.com/Ryuzaki-MrL/RomFS-Explorer/releases/tag/v1.0.1 | Файловий провідник і дампер RomFS для ігор Nintendo 3DS
+- Оновлення Neopop-SDL до версії v0.4 від 14.06.2017: https://github.com/nop90/Neopop-SDL/releases/tag/v0.4 | Кишеньковий емулятор кольорів Neo Geo для 3DS
+- Оновлення MK7 Plugin DX до версії v3.0.6 від 02.06.2025: https://github.com/SFC-hacker/Mario-Kart-7-Plugin-Deluxe/releases/tag/v3.0.6 | Досконалий чіт-плагін для Mario Kart 7, тепер із античитом!
+- Оновлення custom-yacht-3ds до версії v1.0.0 від 01.01.2026: https://github.com/chalenged/custom-yacht-3ds/releases/tag/v1.0.0 | Настроювана гра в кості на яхті для 3ds із використанням любовного зілля
+- Оновлення Snake2DS до версії v1.0 від 16.06.2016: https://github.com/Jacudibu/Snake2DS/releases/tag/v1.0 | Клон змії для Nintendo 3DS. Зроблено з LövePotion.
+- Оновлення OpenSyobon3DS до версії v1.2 від 27.07.2016: https://github.com/nop90/OpenSyobon3DS/releases/tag/v1.2 | Відкрийте Syobon Action (він же Cat Mario) для 3DS
+- Оновлення Dead Pixel Checker до версії 1.0 від 11.03.2025: https://github.com/classyham/3DS_DeadPixelChecker/releases/tag/1.0 | Невелика програма, написана за допомогою Citro2D, для циклічного зміни типових кольорів на екрані для перевірки мертвих пікселів.
+- Оновлення qtmStub до версії v1.0.0 від 19.01.2026: https://github.com/SNBeast/qtmStub/releases/tag/v1.0.0 | Патч для обходу помилки qtm 0xf9605002
+- Оновлення Sonic 1 / 2 до версії v1.3.0 від 04.11.2022: https://github.com/JeffRuLz/Sonic-1-2-2013-Decompilation/releases/tag/v1.3.0 | Перенесення Sonic 1 і 2 на 3DS на основі декомпіляції Sonic 1/2 (2013) від Rubberduckycooly
+- Оновлення Opentyrian-3ds до версії v1.1 від 11.03.2017: https://github.com/nop90/Opentyrian-3ds/releases/tag/v1.1 | Додано автоматично
+- Оновлення PayloadSpinner3DS до версії v1.2 від 28.10.2017: https://github.com/SaturnSH2x2/PayloadSpinner3DS/releases/tag/v1.2 | Перемикач корисного навантаження Boot9Strap
+- Оновлення SaveSync до версії v1.1.0 від 28.12.2025: https://github.com/coolguy1842/SaveSync/releases/tag/v1.1.0 | Дозволяє легко копіювати збереження з одного 3DS або емулятора в інший
+- Оновлення Bart Bash до версії 1.67 від 14.11.2025: https://github.com/Jermurder/BartBash3ds/releases/tag/1.67 | Демейк гри Bart Bash для 3ds.
+- Оновлення POWDER-3DS до версії v1,1 від 03.02.2017: https://github.com/nop90/POWDER-3DS/releases/tag/v1,1 | Перенесення на 3DS гри roguelike POWDER
+- Оновлення Sonic Mania до версії v1.1.0 від 08.05.2025: https://github.com/SaturnSH2x2/RSDKv5-Decompilation/releases/tag/v1.1.0 | Sonic Mania (лише n3DS)
+- Оновлення The Pirate Launcher до версії v2.4.3-d.c від 22.06.2025: https://github.com/cooolgamer/the-pirate-launcher/releases/tag/v2.4.3-d.c | Жарт Pirate Launcher з Wii, тепер на 3ds! Також надає функції налагодження
+- Оновлення Flappy3DS до версії v0.1.9 від 29.05.2023: https://github.com/Komas19-new/flappy3DS/releases/tag/v0.1.9 | Flappy3DS — це клон Flappy Bird для 3DS
+- Оновлення Supertux до версії v0.1 від 24.03.2017: https://github.com/nop90/Supertux-Milestone1-3ds/releases/tag/v0.1 | Перенесення на 3ds Supertux v0.1.3 (Milestone 1)
+- Оновлення Better-NFCReader до версії v2.3.0 від 08.11.2025: https://github.com/cylin577/Better-NFCReader/releases/tag/v2.3.0 | Читайте теги 0x7 NFC/RFID!
+- Оновлення Scratch Everywhere! до версії 0.37 від 08.03.2026: https://github.com/ScratchEverywhere/ScratchEverywhere/releases/tag/0.37 | Грайте в ігри Scratch на своєму 3DS!
+- Оновлення 3ds1010 до версії v2.0 від 12.02.2017: https://github.com/LiquidFenrir/3ds1010/releases/tag/v2.0 | Порт 1010! до 3ds homebrew, створеного на C.
+Це як тетріс, але з нескінченним часом ви програєте, коли більше не можете розмістити жодну з наявних у вас частин.
+- Оновлення Xrick-3ds до версії v1.0 від 10.03.2017: https://github.com/nop90/Xrick-3ds/releases/tag/v1.0 | Перенесіть на 3ds відкритий ремейк Rick Dangerous
+- Оновлення GameYob (3DS) до версії 1.0.8 від 09.10.2021: https://github.com/SombrAbsol/GameYob-3DS/releases/tag/1.0.8 | Порт 3DS GameYob, емулятор [Super] Game Boy [Color] для Nintendo DS
+- Оновлення CTRXplorer до версії v0.9.8.1 від 08.02.2017: https://github.com/d0k3/CTRXplorer/releases/tag/v0.9.8.1 | SD Explorer з відкритим кодом для 3DS.
+- Оновлення CalculaThreeDS до версії v0.2 від 10.01.2021: https://github.com/LiquidFenrir/CalculaThreeDS/releases/tag/v0.2 | Домашній науковий калькулятор 3DS
+- Оновлення Zelda3T до версії v1.0 від 24.09.2017: https://github.com/nop90/Zelda3T/releases/tag/v1.0 | Перенесення на 3ds фанатської гри Zelda Zelda Time to Triumph
+- Оновлення SafeB9SInstaller до версії v0.0.7 від 05.06.2017: https://github.com/d0k3/SafeB9SInstaller/releases/tag/v0.0.7 | Безпечний, простий, зручний інсталятор для перевірених ФІРМ
+- Оновлення Falling Blocks Watch Out до версії v0.4.1 від 06.03.2016: https://github.com/Spaqin/fbwo-3ds/releases/tag/v0.4.1 | Falling Blocks Watch Out, домашній клон 3DS Tetris.
+- Оновлення HexIsoPath до версії v1.1.0 від 02.01.2018: https://github.com/LiquidFenrir/HexIsoPath/releases/tag/v1.1.0 | Порт 3DS настільної гри Hexagonal Iso-Path від youtuber pocket83!
+- Оновлення ZeldaOLB до версії v1,1 від 07.06.2017: https://github.com/nop90/ZeldaOLB/releases/tag/v1,1 | Порт Zelda OLB на 3ds
+- Оновлення RTChanger до версії 1.0 від 31.07.2017: https://github.com/Storm-Eagle20/RTChanger/releases/tag/1.0 | Програма Nintendo 3DS Homebrew, яка дозволяє кінцевому користувачеві вільно змінювати (Raw) RTC системи, щоб обійти ліміт часу.
+- Оновлення ctrmus до версії v0.5.3 від 18.10.2025: https://github.com/deltabeard/ctrmus/releases/tag/v0.5.3 | Музичний плеєр 3DS
+- Оновлення 3DS vJoy Controller до версії v1.1 від 04.05.2024: https://github.com/StringJan/3ds-vJoy-controller/releases/tag/v1.1 | Використовуйте свій 3DS як контролер vJoy для свого ПК
+- Оновлення ZeldaPicross до версії v1,0RC від 02.01.2017: https://github.com/nop90/ZeldaPicross/releases/tag/v1,0RC | Перенесення на 3DS гри Picross у стилі Zelda від Вінсента Жойуллата
+- Оновлення Sonic Robo Blast 2 до версії v1.1.3 від 22.01.2019: https://github.com/derrekr/srb2_3ds/releases/tag/v1.1.3 | Перенесення Sonic Roboblast 2 на Nintendo New3DS
+- Оновлення Yahtzee3DS до версії v1.0.1 від 27.06.2018: https://github.com/LiquidFenrir/Yahtzee3DS/releases/tag/v1.0.1 | Домашня гра 3ds про Yahtzee, яка включає багатокористувацьку гру на кількох консолях
+- Оновлення ZeldaROTH до версії v1.0.2 від 11.06.2016: https://github.com/nop90/ZeldaROTH/releases/tag/v1.0.2 | Порт Zelda ROTH на 3ds
+- Оновлення 3ds-httpd до версії nightly від 23.09.2022: https://github.com/dimaguy/3ds-httpd/releases/tag/nightly | Веб-сервер для 3DS
+- Оновлення TJAP_3DS до версії v2.1.1A від 16.03.2026: https://github.com/LuMariGames/TJAP_3DS/releases/tag/v2.1.1A | TJAPlayer для 3DS - музична гра файлу TJA.
+- Оновлення SharedFontTool до версії v3.1 від 13.08.2018: https://github.com/dnasdw/SharedFontTool/releases/tag/v3.1 | 3DS SharedFontTool
+- Оновлення BCSTM-Player до версії v2.0.0 від 25.12.2025: https://github.com/npid7/BCSTM-Player/releases/tag/v2.0.0 | BCSTM-плеєр для 3ds
+- Оновлення CPyMO до версії v1.1.9 від 14.08.2023: https://github.com/Strrationalism/CPyMO/releases/tag/v1.1.9 | Реалізація PyMO AVG Game Engine на C.
+- Оновлення Touch Keys до версії v2.1.1 від 16.05.2025: https://github.com/LuMariGames/Touch-Keys/releases/tag/v2.1.1 | 押して擦る！お手軽音ゲー
+- Оновлення 3DSoundboard до версії 1.0 від 01.05.2025: https://github.com/Sunrase/3DSoundboard/releases/tag/1.0 | Дозволяє використовувати ваш 3ds як деку.
+- Оновлення StarCruiser7 до версії v1.0.0 від 06.12.2024: https://github.com/dotMizi/StarCruiser7/releases/tag/v1.0.0 | StarCruiser7 — симулятор космічного бою від першої особи для ігрової консолі 3DS
+- Оновлення Flappy-Bird до версії 1.4.2 від 02.11.2023: https://github.com/npid7/Flappy-Bird/releases/tag/1.4.2 | Клон Flappy-Bird для 3ds.
+- Оновлення Pocket-NLSE до версії v1.0.0 від 11.01.2017: https://github.com/dragos240/Pocket-NLSE/releases/tag/v1.0.0 | Портативний редактор збереження для Animal Crossing: New Leaf на Nintendo 3DS
+- Оновлення Nazi Zombies: Portable до версії nightly від 07.03.2026: https://github.com/nzp-team/nzportable/releases/tag/nightly | Call of Duty: Zombies demake на основі різних вихідних портів Quake. https://docs.nzp.gay/
+- Оновлення Pong Pokemon до версії 4.0 від 13.06.2024: https://github.com/Sunrase/Pong-Pokemon-3ds/releases/tag/4.0 | Гра в понг для 3ds з покемонами як основною темою.
+- Оновлення DDLC-LOVE до версії v1.2.3 від 16.09.2021: https://github.com/LukeZGD/DDLC-LOVE/releases/tag/v1.2.3 | Неофіційний порт Doki Doki Literature Club на Lua для PS Vita та інших ігрових консолей
+- Оновлення SpecializeMii до версії 0.1.4 від 22.01.2017: https://github.com/phijor/SpecializeMii/releases/tag/0.1.4 | Золоті штани для всіх!
+- Оновлення TownManager до версії v1.2.1 від 21.01.2017: https://github.com/dragos240/TownManager/releases/tag/v1.2.1 | Спеціалізований менеджер збереження для AC:NL
+- Оновлення 3DElf до версії v0.2.0 від 07.10.2020: https://github.com/SuperSaiyajinStackZ/3DElf/releases/tag/v0.2.0 | Ein "Elfer raus!" клон для Nintendo 3DS.
+- Оновлення IP-Cam Viewer до версії v0.1beta від 14.09.2025: https://github.com/MC-Gaming-59o/Homebrew-3DS-IP-Webcam-Viewer/releases/tag/v0.1beta | Перегляд IP-Cam для 3DS/2DS. Передає відео в реальному часі з пристроїв Android за допомогою IP Webcam або IP Webcam Pro. Бета-доказ концепції з керуванням факелом, спалахом і режимом ЛСД/Гриб. Рекомендована роздільна здатність 320x240.
+- Оновлення ctroller до версії 0.4.0 від 15.06.2016: https://github.com/phijor/ctroller/releases/tag/0.4.0 | Використовуйте свій 3DS як геймпад у Linux
+- Оновлення Random Title Picker до версії 0.2 від 17.11.2023: https://github.com/einso/3ds-randomtitlepicker/releases/tag/0.2 | 3DS homebrew, який вибирає випадкову назву для запуску з вашої SD-карти
+- Оновлення Dungeons of Daggorath 3DS до версії 1.1 від 05.06.2020: https://github.com/pyroticinsanity/3dsdod/releases/tag/1.1 | Dungeons of Daggorath для 3DS
+- Оновлення 3D Pinball - Space Cadet до версії v0.3-wii від 08.02.2024: https://github.com/MaikelChan/SpaceCadetPinball/releases/tag/v0.3-wii | Wii і 3DS порти 3D Pinball - Space Cadet
+- Оновлення 3DZwei до версії git від 29.12.2025: https://github.com/SuperSaiyajinStackZ/3DZwei/releases/tag/git | Клон карти пам'яті для Nintendo 3DS.
+- Оновлення prboom3ds до версії v0.7-alpha від 21.12.2019: https://github.com/elhobbs/prboom3ds/releases/tag/v0.7-alpha | prboom для 3ds
+- Оновлення Citrahold-3DS до версії v1.1.2 від 24.12.2024: https://github.com/regimensocial/Citrahold-3DS/releases/tag/v1.1.2 | Citrahold дозволяє синхронізувати збереження між Citra та вашим 3DS
+- Оновлення Evolution_Sav3D_Me до версії Unity_Remake від 03.02.2026: https://github.com/Manurocker95/Evolution_Sav3D_Me/releases/tag/Unity_Remake | Мавпа, яка хоче вижити!
+- Оновлення LeafEdit-Pattern-Editor до версії v0.4.0 від 29.08.2020: https://github.com/SuperSaiyajinStackZ/LeafEdit-Pattern-Editor/releases/tag/v0.4.0 | Це редактор шаблонів LeafEdit також як окрема програма!
+- Оновлення OFF до версії v1.0 від 12.06.2024: https://github.com/fauxfennec/OFF3DS/releases/tag/v1.0 | Додано автоматично
+- Оновлення TRekt_3D до версії 1.0 від 27.08.2017: https://github.com/Manurocker95/TRekt_3D/releases/tag/1.0 | T-Rekt для 3DS на C++
+- Оновлення Ludo3DS до версії v0.4.0 від 24.01.2021: https://github.com/SuperSaiyajinStackZ/Ludo3DS/releases/tag/v0.4.0 | Клон Людо для Nintendo 3DS.
+- Оновлення scummvm до версії v2026.1.0 від 31.01.2026: https://github.com/scummvm/scummvm/releases/tag/v2026.1.0 | Двигуни пригодницьких ігор типу «вкажи і клацни».
+- Оновлення WITB_3D до версії 1.1 від 17.04.2017: https://github.com/Manurocker95/WITB_3D/releases/tag/1.1 | Маленька гра для 3DS на C++
+- Оновлення PKCount до версії v0.0.2 від 27.12.2019: https://github.com/SuperSaiyajinStackZ/PKCount/releases/tag/v0.0.2 | Інструмент для знайомства з Pokemon Shiny.
+- Оновлення 3ds-hbmenu до версії v2.4.3 від 03.05.2024: https://github.com/fincs/new-hbmenu/releases/tag/v2.4.3 | Меню 3DS Homebrew (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ
+- Оновлення Multi-Pokémon Framework до версії v1.0.4 від 12.08.2023: https://github.com/semaj14/Multi-PokemonFramework/releases/tag/v1.0.4 | Плагін CTRPF для ігор Pokémon Nintendo 3DS, який підтримує 6-е та 7-е покоління.
+- Оновлення budgieSSH до версії v0.0.2a від 01.06.2025: https://github.com/Maxbrick/budgieSSH/releases/tag/v0.0.2a | Клієнт SSH для 3DS, використовуючи libssh2+3ds-mbedtls і консоль libctru
+- Оновлення StackMill до версії v0.5.0 від 24.01.2022: https://github.com/SuperSaiyajinStackZ/StackMill/releases/tag/v0.5.0 | Клон гри «Млин» для Nintendo 3DS.
+- Оновлення GraphCalc3DS до версії v1.5.1 від 03.12.2016: https://github.com/flarn2006/graphcalc3ds/releases/tag/v1.5.1 | Простий графічний калькулятор для 3DS
+- Оновлення Pomegranate до версії v1.1.5 від 14.02.2026: https://github.com/sheepy0125/pomegranate/releases/tag/v1.1.5 | дурний музичний плеєр!
+- Оновлення 3DS-ParentalUnlock до версії 1.0.1 від 28.05.2020: https://github.com/MechanicalDragon0687/3DS-ParentalUnlock/releases/tag/1.0.1 | Видалення батьківських збережених даних (зняття батьківського блокування та COPPA)
+- Оновлення ModMoon до версії v3.0.1 від 29.09.2018: https://github.com/Swiftloke/ModMoon/releases/tag/v3.0.1 | Менеджер модів для 3DS із привабливими функціями та інтерфейсом користувача.
+- Оновлення Gemini3DS до версії v1.0 від 16.12.2025: https://github.com/stefanoborra20/Gemini3DS/releases/tag/v1.0 | Клієнт Gemini для Nintendo 3DS у стилі ретро.
+- Оновлення Bugdom до версії v1.0.0 від 25.01.2025: https://github.com/fordcars/Bugdom/releases/tag/v1.0.0 | 🐛 Багдом Pangea Software для сучасних систем
+- Оновлення GYTB до версії 1.0 від 02.02.2019: https://github.com/MechanicalDragon0687/GYTB/releases/tag/1.0 | Надпростий власний бейдж для домашнього меню 3DS.
+- Оновлення pdrpse до версії 0.3 від 31.01.2017: https://github.com/suloku/pdrpse/releases/tag/0.3 | Редактор збереження Pokémon Dream Radar для 3DS
+- Оновлення Żappka3DS до версії v2.0.41 від 06.02.2026: https://github.com/TehFridge/Zappka3DS/releases/tag/v2.0.41 | Отримайте свій Żappsy™ з Żappka3DS
+- Оновлення MCU Bricker до версії 1.0 від 01.04.2019: https://github.com/MechanicalDragon0687/MCU_Bricker_tinydb/releases/tag/1.0 | Змушує ваш світлодіод світитися веселкою.
+- Оновлення Cro-Mag Rally до версії 3ds-v1.1.0 від 02.07.2024: https://github.com/fordcars/CroMagRally/releases/tag/3ds-v1.1.0 | Найдикіша гоночна гра з тих пір, як людина винайшла колесо!
+- Оновлення ButtonPresser3DS до версії 2.0 від 22.06.2017: https://github.com/trainboy2019/ButtonPresser3DS/releases/tag/2.0 | Це добре?
+- Оновлення Level256 Installer до версії v1.0.0 від 14.03.2025: https://github.com/Tekito-256/level256-installer/releases/tag/v1.0.0 | Додано автоматично
+- Оновлення ndsForwarder до версії 1.4.6 від 23.03.2023: https://github.com/MechanicalDragon0687/NDSForwarder/releases/tag/1.4.6 | Створіть і встановіть NDS Forwarders
+- Оновлення 3DSx Play Coin Setter Mod до версії 1.0.1 від 12.03.2025: https://github.com/fthomys/3ds-playcoin-tool/releases/tag/1.0.1 | Дозволяє змінювати лічильник 3DS Play Coin для користувачів Ninjhax/homebrew/3dsx.
+- Оновлення ZeldaROTH 1.0.3 beta до версії 1.0.3-beta від 22.12.2020: https://github.com/vargaviktor/ZeldaROTH/releases/tag/1.0.3-beta | Бета-версія ZeldaROTH 1.0.3 включає угорський переклад для цієї класичної фанатської гри та була перекомпільована з фактичними бібліотеками.
+- Оновлення TWLFix-CFW до версії 1.3.1 від 02.12.2022: https://github.com/MechanicalDragon0687/TWLFix-CFW/releases/tag/1.3.1 | Видаліть стандартні програми TWL, щоб дозволити системі повторно інсталювати їх із CDN
+- Оновлення 3DS Button Tester до версії V1 від 13.09.2024: https://github.com/TheCoolesttOne/3DS-Button-Test/releases/tag/V1 | програма для усунення несправностей 3DS Homebrew для тестування кожної окремої кнопки
+- Оновлення hrt3DS до версії v1.1.2 від 23.10.2025: https://github.com/vinegar77/hrt-3ds/releases/tag/v1.1.2 | Тести на перегони 3DS Відпочинок
+- Оновлення Cube Adventures до версії 0.1.0 від 29.03.2025: https://github.com/TheHighTide/CubeAdventures/releases/tag/0.1.0 | Простий 2D платформер для системи 3DS.
+- Оновлення OoT3D_Randomizer до версії Nightly-ffbac7 від 13.03.2026: https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-ffbac7 | Рандомізатор предметів для The Legend of Zelda: Ocarina of Time 3D
+- Оновлення DSP1 до версії v1.0 від 21.09.2021: https://github.com/zoogie/DSP1/releases/tag/v1.0 | Дампер прошивки dsp
+- Оновлення SatellaZone до версії 2.2.1 від 01.05.2024: https://github.com/MegaPika/SatellaZone/releases/tag/2.2.1 | Відродження зони Nintendo для 3DS.
+- Оновлення Game Tipper до версії 0.3.0 від 10.06.2025: https://github.com/TheHighTide/GameTipper3DS/releases/tag/0.3.0 | Програма 3DS, яка дасть вам поради щодо вашої ігрової подорожі у вашій системі 3DS.
+- Оновлення Noise Commander 3DS (Demo) до версії 0.1.10 від 11.01.2026: https://github.com/gearmo3ds/noisecommander3dsdemo/releases/tag/0.1.10 | Аудіосеквенсор і ді-джей-інструмент для створення ритмів для Nintendo 3DS
+- Оновлення Stuff до версії 0.6.0 від 11.08.2017: https://github.com/zoogie/Stuff/releases/tag/0.6.0 | Випадкові речі 3ds, які, ймовірно, заслуговують на власне репо
+- Оновлення Wordle Terminal 3DS до версії 1.0.0 від 11.06.2025: https://github.com/TheHighTide/WordleTerminal3DS/releases/tag/1.0.0 | Базовий порт Wordle для 3DS.
+- Оновлення CSTimer-3DS до версії 1.1.0 від 04.09.2025: https://github.com/Menshion01/CSTimer-3DS/releases/tag/1.1.0 | Таймер Speed ​​Cubing для 3DS, що вшановує естетику Cstimer
+- Оновлення easyrpgdlre до версії v2.1.1 від 24.07.2016: https://github.com/gnmmarechal/easyrpgdlre/releases/tag/v2.1.1 | Перепис EasyRPG 3DS Updater
+- Оновлення b9s_check до версії v2.0 від 24.05.2022: https://github.com/zoogie/b9s_check/releases/tag/v2.0 | Перевірте версію b9s і все інше
+- Оновлення Notebook3DS до версії release-1.1.0 від 19.12.2024: https://github.com/Milk-Cool/Notebook3DS/releases/tag/release-1.1.0 | Проста, але потужна програма для ноутбука для вашого 3DS
+- Оновлення Multidownload до версії v3.2 від 15.05.2017: https://github.com/hax0kartik/Multidownload/releases/tag/v3.2 | Завантажуйте файли прямо на свій 3ds!
+- Оновлення seedminer до версії v2.1.6 від 03.08.2023: https://github.com/zoogie/seedminer/releases/tag/v2.1.6 | 34.2c3 POC
+- Оновлення 2048 - 3DS Port до версії v1.0.1 від 12.03.2026: https://github.com/0rientd/2048-port-3ds/releases/tag/v1.0.1 | Це 3DS версія гри 2048, спочатку створена для Linux.
+- Оновлення rehid до версії v4.0 від 21.07.2023: https://github.com/hax0kartik/rehid/releases/tag/v4.0 | Перезапис модуля HID (перепризначення кнопок тощо)
+- Оновлення TheXTech до версії v1.3.7.2-1 від 28.12.2025: https://github.com/TheXTech/TheXTech/releases/tag/v1.3.7.2-1 | Повний порт механізму SMBX з VB6 на C++ і SDL2, FreeImage і MixerX
+- Оновлення SuDokuL до версії v1.43 від 29.11.2025: https://github.com/Mode8fx/SuDokuL/releases/tag/v1.43 | Судоку, створене за допомогою SDL2
+- Оновлення Nexus3DS до версії 0.3.0 від 16.03.2026: https://github.com/2b-zipper/Nexus3DS/releases/tag/0.3.0 | Вилка Luma3DS з експериментальними функціями!
+- Оновлення 3ds-vgmstream до версії v0.2.0 від 11.07.2016: https://github.com/TricksterGuy/3ds-vgmstream/releases/tag/v0.2.0 | Порт vgmstream для nintendo 3ds разом з плеєром
+- Оновлення Trogdor: Reburninated до версії v2.32 від 29.11.2025: https://github.com/Mode8fx/Trogdor-Reburninated/releases/tag/v2.32 | Спалити село!
+- Оновлення TriCord до версії v0.3.5 від 05.03.2026: https://github.com/2b-zipper/TriCord/releases/tag/v0.3.5 | Клієнт Discord для Nintendo 3DS
+- Оновлення Blockamok Remix до версії v1.21 від 29.11.2025: https://github.com/Mode8fx/blockamok/releases/tag/v1.21 | Ухиляйтеся від вхідних блоків!
+- Оновлення Bottomless Block Barrage до версії v0.2.0 від 11.09.2017: https://github.com/TricksterGuy/bottomless-block-barrage/releases/tag/v0.2.0 | Panel de Pon (Tetris Attack) клон для 3ds.
+- Оновлення 3DSDI до версії v1.0.0 від 17.12.2025: https://github.com/Aeplet/3DSDI/releases/tag/v1.0.0 | Програма 3DS SD Info
+- Оновлення 3DScreen до версії 3.0 від 16.12.2025: https://github.com/AllisterMKW/3DScreen/releases/tag/3.0 | Змінює колір верхнього екрана вашого 3DS між червоним, зеленим або синім.
+- Оновлення SmileBASIC File Manager до версії sbfm1.7 від 08.05.2019: https://github.com/Trinitro21/lpp-3ds/releases/tag/sbfm1.7 | Файловий менеджер SmileBASIC
+- Оновлення Halo Renewed Solitude до версії v1.2 від 17.12.2022: https://github.com/ArcadeJumpers/RenewedSolitude3DS/releases/tag/v1.2 | Halo Renewed Solitude 3DS
+- Оновлення Doodle до версії v1.0.1 від 29.12.2024: https://github.com/ArmstrongThomas/Doodle/releases/tag/v1.0.1 | Doodle — це проста програма для малювання, розроблена для платформи Nintendo 3DS. Це дозволяє користувачам створювати та маніпулювати графічним вмістом, використовуючи пензлі різних розмірів і кольорів разом з іншими людьми на спільному полотні!
+- Оновлення 3DS_Quick_Reboot до версії v1.0.1 від 18.05.2016: https://github.com/Asellus/3DS_Quick_Reboot/releases/tag/v1.0.1 | Швидке перезавантаження 3DS.
+- Оновлення Class of '09 до версії v1.1 від 04.03.2026: https://github.com/Bilbard/classof3ds/releases/tag/v1.1 | Порт 3DS візуального роману Class of '09
+- Оновлення Mars до версії v1.0.0 від 05.01.2024: https://github.com/BotRandomness/Mars3DS/releases/tag/v1.0.0 | Mars3DS, загублений ретро-шутер ;)
+
+
+2026.03.18-14:30
+
+2026.03.18-14:32
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight Streaming Client до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | Клієнт Gamestream для нової 3DS
+
+
+2026.03.18-14:33
+
+2026.03.18-14:35
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення 2048 - 3DS Port до версії v1.0.1 від 12.03.2026: https://github.com/0rientd/2048-port-3ds/releases/tag/v1.0.1 | Це 3DS версія гри 2048, спочатку створена для Linux.
+
+
+2026.03.18-14:37
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення 2048 - 3DS Port до версії v1.0.1 від 12.03.2026: https://github.com/0rientd/2048-port-3ds/releases/tag/v1.0.1 | Це 3DS версія гри 2048, спочатку створена для Linux.
+- Оновлення Moonlight Streaming Client до версії v3.0.0 від 16.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.0 | Клієнт Gamestream для нової 3DS
+
+
+2026.03.18-14:39
+
+2026.03.18-15:13
+
+2026.03.18-15:15
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Stuff до версії 0.6.0 від 11.08.2017: https://github.com/zoogie/Stuff/releases/tag/0.6.0 | Випадкові речі 3ds, які, ймовірно, заслуговують на власне репо
+
+
+2026.03.18-19:29
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight Streaming Client до версії v3.0.1 від 18.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1 | Клієнт Gamestream для нової 3DS
+
+
+2026.03.18-19:35
+
+2026.03.18-19:40
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight Streaming Client до версії v3.0.1 від 18.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1 | Клієнт Gamestream для нової 3DS
+
+
+2026.03.18-19:56
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7 з новими трасами та функціями
+
+
+2026.03.18-20:06
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7 з новими трасами та функціями
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7
+
+
+2026.03.18-20:16
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7
+
+
+2026.03.18-20:22
+
+2026.03.18-20:28
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight 3DS до версії v3.0.1 від 18.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1 | Клієнт Gamestream для нової 3DS
+
+
+2026.03.18-20:33
+
+2026.03.18-20:40
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення Moonlight 3DS до версії v3.0.1 від 18.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1 | Клієнт Gamestream для нової 3DS
+
+
+2026.03.18-20:52
+
+#новини_хоумбрю_однією_стрічкою:
+=== 3DS ===
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7 з новими трасами та функціями
+- Оновлення Moonlight 3DS до версії v3.0.1 від 18.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1 | Стрімінг ігор з ПК на 3DS.
+
+
+2026.03.18-21:05
+
+2026.03.18-21:10
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення save-data-copy-tool до версії v0.1.0 від 24.03.2022: https://github.com/ihaveamac/save-data-copy-tool/releases/tag/v0.1.0 | Копіювати дані збереження між ігровою карткою та цифровими версіями ігор на Nintendo 3DS
+- Оновлення Ballcopter! до версії release від 20.06.2025: https://github.com/impi5h/Ballcopter3DS/releases/tag/release | Як Flappy Bird, але в СЛАВНОМУ 3D
+- Оновлення LEGO Island до версії continuous від 15.03.2026: https://github.com/isledecomp/isle-portable/releases/tag/continuous | Портативна версія LEGO Island (1997)
+- Оновлення VConV до версії Build-10 від 13.07.2025: https://github.com/lxfly2000/VConV/releases/tag/Build-10 | Імітуйте входи контролера Xbox за допомогою 3DS. Підтримка Windows 10/11. (Розробка завершена. Не соромтеся форкуватися!)
+- Оновлення Yet Another Mario Kart Clone 3DS до версії v0.2 від 13.05.2021: https://github.com/mariohackandglitch/YAMKC_3DS/releases/tag/v0.2 | Клон гри Mario Kart для 3DS, створений з наміром імітувати відчуття гри Mario Kart, використовуючи Mario Kart 7 як натхнення
+- Оновлення Quake2CTR до версії v1.0 від 30.10.2022: https://github.com/masterfeizz/Quake2CTR/releases/tag/v1.0 | Порт Quake 2 для Nintendo 3DS
+- Оновлення DaedalusX64-3DS до версії v1.0 від 16.10.2022: https://github.com/masterfeizz/daedalusx64-3DS/releases/tag/v1.0 | Перенесення DaedalusX64 на Nintendo 3DS
+- Оновлення 3DS Sorting до версії v5.0 від 24.06.2023: https://github.com/memeToasty/3ds_sorting/releases/tag/v5.0 | Візуалізація деяких алгоритмів сортування на Nintendo 3DS
+- Оновлення mGBA до версії 0.10.5 від 09.03.2025: https://github.com/mgba-emu/mgba/releases/tag/0.10.5 | Емулятор mGBA Game Boy Advance
+- Оновлення BCSTM-Player до версії v2.0.0 від 25.12.2025: https://github.com/npid7/BCSTM-Player/releases/tag/v2.0.0 | BCSTM-плеєр для 3ds
+- Оновлення Nazi Zombies: Portable до версії nightly від 07.03.2026: https://github.com/nzp-team/nzportable/releases/tag/nightly | Call of Duty: Zombies demake на основі різних вихідних портів Quake. https://docs.nzp.gay/
+- Оновлення scummvm до версії v2026.1.0 від 31.01.2026: https://github.com/scummvm/scummvm/releases/tag/v2026.1.0 | Двигуни пригодницьких ігор типу «вкажи і клацни».
+- Оновлення Pomegranate до версії v1.1.5 від 14.02.2026: https://github.com/sheepy0125/pomegranate/releases/tag/v1.1.5 | дурний музичний плеєр!
+- Оновлення Gemini3DS до версії v1.0 від 16.12.2025: https://github.com/stefanoborra20/Gemini3DS/releases/tag/v1.0 | Клієнт Gemini для Nintendo 3DS у стилі ретро.
+- Оновлення hrt3DS до версії v1.1.2 від 23.10.2025: https://github.com/vinegar77/hrt-3ds/releases/tag/v1.1.2 | Тести на перегони 3DS Відпочинок
+- Оновлення 2048 - 3DS Port до версії v1.0.1 від 12.03.2026: https://github.com/0rientd/2048-port-3ds/releases/tag/v1.0.1 | Це 3DS версія гри 2048.
+- Оновлення Moonlight 3DS до версії v3.0.1 від 18.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1 | Стрімінг ігор з ПК на 3DS.
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7 з новими трасами та функціями (має Українську Мову🇺🇦!)
+- Оновлення wumiibo до версії v4.2 від 21.07.2023: https://github.com/hax0kartik/wumiibo/releases/tag/v4.2 | Емуляція Amiibo для 3ds
+
+
+2026.03.18-21:17
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7 з новими трасами та функціями (має Українську Мову🇺🇦!)
+
+
+2026.03.18-21:20
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення 3DS Sorting до версії v5.0 від 24.06.2023: https://github.com/memeToasty/3ds_sorting/releases/tag/v5.0 | Візуалізація деяких алгоритмів сортування на Nintendo 3DS
+- Оновлення mGBA до версії 0.10.5 від 09.03.2025: https://github.com/mgba-emu/mgba/releases/tag/0.10.5 | Емулятор mGBA Game Boy Advance
+- Оновлення FBI-NH до версії 2.6.1 від 06.03.2024: https://github.com/nh-server/FBI-NH/releases/tag/2.6.1 | Менеджер титрів з відкритим кодом для 3DS. (Архів)
+- Оновлення BCSTM-Player до версії v2.0.0 від 25.12.2025: https://github.com/npid7/BCSTM-Player/releases/tag/v2.0.0 | BCSTM-плеєр для 3ds
+- Оновлення Flappy-Bird до версії 1.4.2 від 02.11.2023: https://github.com/npid7/Flappy-Bird/releases/tag/1.4.2 | Клон Flappy-Bird для 3ds.
+- Оновлення Nazi Zombies: Portable до версії nightly від 07.03.2026: https://github.com/nzp-team/nzportable/releases/tag/nightly | Call of Duty: Zombies demake на основі різних вихідних портів Quake. https://docs.nzp.gay/
+- Оновлення Dungeons of Daggorath 3DS до версії 1.1 від 05.06.2020: https://github.com/pyroticinsanity/3dsdod/releases/tag/1.1 | Dungeons of Daggorath для 3DS
+- Оновлення Citrahold-3DS до версії v1.1.2 від 24.12.2024: https://github.com/regimensocial/Citrahold-3DS/releases/tag/v1.1.2 | Citrahold дозволяє синхронізувати збереження між Citra та вашим 3DS
+- Оновлення scummvm до версії v2026.1.0 від 31.01.2026: https://github.com/scummvm/scummvm/releases/tag/v2026.1.0 | Двигуни пригодницьких ігор типу «вкажи і клацни».
+- Оновлення Multi-Pokémon Framework до версії v1.0.4 від 12.08.2023: https://github.com/semaj14/Multi-PokemonFramework/releases/tag/v1.0.4 | Плагін CTRPF для ігор Pokémon Nintendo 3DS, який підтримує 6-е та 7-е покоління.
+- Оновлення Pomegranate до версії v1.1.5 від 14.02.2026: https://github.com/sheepy0125/pomegranate/releases/tag/v1.1.5 | дурний музичний плеєр!
+- Оновлення Gemini3DS до версії v1.0 від 16.12.2025: https://github.com/stefanoborra20/Gemini3DS/releases/tag/v1.0 | Клієнт Gemini для Nintendo 3DS у стилі ретро.
+- Оновлення hrt3DS до версії v1.1.2 від 23.10.2025: https://github.com/vinegar77/hrt-3ds/releases/tag/v1.1.2 | Тести на перегони 3DS Відпочинок
+- Оновлення DSP1 до версії v1.0 від 21.09.2021: https://github.com/zoogie/DSP1/releases/tag/v1.0 | Дампер прошивки dsp
+- Оновлення b9s_check до версії v2.0 від 24.05.2022: https://github.com/zoogie/b9s_check/releases/tag/v2.0 | Перевірте версію b9s і все інше
+- Оновлення seedminer до версії v2.1.6 від 03.08.2023: https://github.com/zoogie/seedminer/releases/tag/v2.1.6 | 34.2c3 POC
+- Оновлення 2048 - 3DS Port до версії v1.0.1 від 12.03.2026: https://github.com/0rientd/2048-port-3ds/releases/tag/v1.0.1 | Це 3DS версія гри 2048.
+- Оновлення Moonlight 3DS до версії v3.0.1 від 18.03.2026: https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1 | Стрімінг ігор з ПК на 3DS.
+- Оновлення CTGP-7 Updates до версії v1.6.15 від 20.02.2026: https://github.com/PabloMK7/CTGP-7updates/releases/tag/v1.6.15 | Найкращий мод для Mario Kart 7 з новими трасами та функціями (має Українську Мову🇺🇦!)
+
+
+2026.03.18-21:21
+
+2026.03.19-12:00
+
+2026.03.19-15:00
+
+2026.03.19-18:00
+
+2026.03.19-21:00
+
+#оновлення_софту:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Оновлення Azahar до версії 2125.0-rc2 від 19.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-rc2 | Емулятор 3DS.
+- Оновлення TriCord до версії v0.4.0 від 19.03.2026: https://github.com/2b-zipper/TriCord/releases/tag/v0.4.0 | Клієнт Discord для Nintendo 3DS
+- Оновлення Adastra 3D до версії main від 01.03.2026: https://github.com/KrisTheDog/ADASTRA3D-for-3ds/releases/tag/main | порт Adastra 3D від NikoDevVR для нової 3DS
+- Оновлення Doors-3DS до версії Beta-v0.7.3 від 19.03.2026: https://github.com/carmander152/Doors-3DS/releases/tag/Beta-v0.7.3 | Це фанатський демейк гри жахів Roblox Doors, яка спочатку була створена LSplash. Це створюється повністю з нуля, оскільки, очевидно, немає перекладу з Luau (код Roblox) на C++ (код 3DS)
+
+
+2026.03.20-12:00
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення TJAP_3DS до версії v2.1.1A від 20.03.2026: https://github.com/LuMariGames/TJAP_3DS/releases/tag/v2.1.1A | TJAPlayer для 3DS - музична гра файлу TJA.
+- Оновлення OoT3D_Randomizer до версії Nightly-fa3659 від 19.03.2026: https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-fa3659 | Рандомізатор предметів для The Legend of Zelda: Ocarina of Time 3D
+- Оновлення 2048 - 3DS Port до версії v1.1.1 від 19.03.2026: https://github.com/0rientd/2048-port-3ds/releases/tag/v1.1.1 | Це 3DS версія гри 2048.
+
+
+2026.03.20-15:00
+
+2026.03.20-18:00
+
+#оновлення_софту:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Оновлення Azahar до версії 2125.0-rc3 від 20.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-rc3 | Емулятор 3DS.
+
+
+2026.03.20-19:30
+
+2026.03.20-21:00
+
+2026.03.21-12:00
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення Nazi Zombies: Portable до версії nightly від 21.03.2026: https://github.com/nzp-team/nzportable/releases/tag/nightly | Call of Duty: Zombies demake на основі різних вихідних портів Quake. https://docs.nzp.gay/
+
+
+2026.03.21-19:30
+
+2026.03.21-21:00
+
+2026.03.22-12:00
+
+#оновлення_софту:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Оновлення Azahar до версії 2125.0-rc4 від 21.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-rc4 | Емулятор 3DS.
+- Оновлення TriCord до версії v0.4.1 від 22.03.2026: https://github.com/2b-zipper/TriCord/releases/tag/v0.4.1 | Клієнт Discord для Nintendo 3DS
+- Оновлення Able Atelier 3DS до версії v1.0.1 від 07.03.2026: https://github.com/Ghaztly97/Able-Atelier-3DS/releases/tag/v1.0.1 | Редактор шаблонів для Animal Crossing: New Leaf, який працює в 3DS.
+
+
+2026.03.22-15:00
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення snes9x_3ds до версії v1.60 від 22.03.2026: https://github.com/matbo87/snes9x_3ds/releases/tag/v1.60 | Емулятор SNES.
+
+
+2026.03.22-18:00
+
+2026.03.22-19:30
+
+2026.03.22-21:00
+
+2026.03.23-12:00
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення Able Atelier 3DS до версії v1.0.2 від 23.03.2026: https://github.com/Ghaztly97/Able-Atelier-3DS/releases/tag/v1.0.2 | Редактор шаблонів для Animal Crossing: New Leaf, який працює в 3DS.
+- Оновлення Peamo-Nimbus до версії v1.0.0 від 12.03.2026: https://github.com/PeamoNetwork/peamo-nimbus/releases/tag/v1.0.0 | Підключіться до служб Peamo Network
+
+
+2026.03.23-15:00
+
+2026.03.23-19:30
+
+#оновлення_софту:
+=== 3DS ===
+- [Android/Windows/MacOS/Linux] Оновлення Azahar до версії 2125.0-rc5 від 23.03.2026: https://github.com/azahar-emu/azahar/releases/tag/2125.0-rc5 | Емулятор 3DS.
+
+
+2026.03.23-21:00
+
+2026.03.24-18:00
+
+#оновлення_софту:
+=== 3DS ===
+- Оновлення LEGO Island до версії continuous від 23.03.2026: https://github.com/isledecomp/isle-portable/releases/tag/continuous | Портативна версія LEGO Island (1997)
+- Оновлення Angband до версії 4.2.6-78-g4ce58ed04 від 24.03.2026: https://github.com/angband/angband/releases/tag/4.2.6-78-g4ce58ed04 | Безкоштовна однокористувацька гра в стилі roguelike для дослідження підземелля
+- Оновлення Scratch Everywhere! до версії 0.38 від 24.03.2026: https://github.com/ScratchEverywhere/ScratchEverywhere/releases/tag/0.38 | Грайте в ігри Scratch на своєму 3DS!
+- Оновлення TJAP_3DS до версії v2.1.1A від 24.03.2026: https://github.com/LuMariGames/TJAP_3DS/releases/tag/v2.1.1A | TJAPlayer для 3DS - музична гра файлу TJA.
+
+
+2026.03.24-19:30
