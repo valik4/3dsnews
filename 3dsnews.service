@@ -1,0 +1,22 @@
+[Unit]
+Description=3DS News Monitoring Bot
+After=network.target
+
+[Service]
+# Вказуємо шлях до папки проєкту
+# (Якщо у друга інший користувач, він змінить /home/pi/ на свій шлях)
+WorkingDirectory=/home/pi/3dsnews
+
+# Шлях до Python з віртуального середовища
+ExecStart=/home/pi/3dsnews/venv/bin/python send_news.py
+
+# Автоматичний перезапуск при падінні
+Restart=always
+RestartSec=10
+
+# Логи будуть доступні через journalctl
+StandardOutput=inherit
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target
