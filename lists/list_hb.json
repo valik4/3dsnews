@@ -1,0 +1,3542 @@
+[
+  {
+    "category": "DS(i)",
+    "app_name": "NitroSwan",
+    "api_url": "https://api.github.com/repos/FluBBaOfWard/NitroSwan",
+    "html_url": "https://github.com/FluBBaOfWard/NitroSwan/releases/tag/v0.7.6",
+    "comm_date": "2026-01-18T19:35:40Z",
+    "tag_name": "v0.7.6",
+    "description": "Емулятор консолей семейства WonderSwan.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "NINTV-DS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/NINTV-DS",
+    "html_url": "https://github.com/wavemotion-dave/NINTV-DS/releases/tag/6.3",
+    "comm_date": "2026-01-01T12:21:57Z",
+    "tag_name": "6.3",
+    "description": "Емулятор консолей Intellivision.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "ColecoDS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/ColecoDS",
+    "html_url": "https://github.com/wavemotion-dave/ColecoDS/releases/tag/10.9",
+    "comm_date": "2025-09-12T10:55:49Z",
+    "tag_name": "10.9",
+    "description": "Емулятор Colecovision, ADAM, MSX1, Sord-M5, Memotech MTX, Spectravision SVI, Hanimex Pencil II, Tatung Einstein, SG-1000/SC-3000 и Creativision.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "StellaDS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/StellaDS",
+    "html_url": "https://github.com/wavemotion-dave/StellaDS/releases/tag/8.1",
+    "comm_date": "2025-12-14T14:16:39Z",
+    "tag_name": "8.1",
+    "description": "Емулятор Atari 2600.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "a5200ds",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/A5200DS",
+    "html_url": "https://github.com/wavemotion-dave/A5200DS/releases/tag/3.8",
+    "comm_date": "2025-02-02T22:37:41Z",
+    "tag_name": "3.8",
+    "description": "Емулятор Atari 5200DS.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "A8DS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/A8DS",
+    "html_url": "https://github.com/wavemotion-dave/A8DS/releases/tag/4.2",
+    "comm_date": "2025-02-01T12:30:53Z",
+    "tag_name": "4.2",
+    "description": "Емулятор Atari 800XL/130XE.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "SugarDS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/SugarDS",
+    "html_url": "https://github.com/wavemotion-dave/SugarDS/releases/tag/1.5a",
+    "comm_date": "2025-12-10T17:11:47Z",
+    "tag_name": "1.5a",
+    "description": "Емулятор Amstrad CPC.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "MicroDS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/MicroDS",
+    "html_url": "https://github.com/wavemotion-dave/MicroDS/releases/tag/1.0a",
+    "comm_date": "2025-08-27T01:04:43Z",
+    "tag_name": "1.0a",
+    "description": "Емулятор Tandy MC-10.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "flashcard-bootstrap",
+    "api_url": "https://api.github.com/repos/lifehackerhansol/flashcard-bootstrap",
+    "html_url": "https://github.com/lifehackerhansol/flashcard-bootstrap/releases/tag/v2.2.0",
+    "comm_date": "2024-03-15T03:02:35Z",
+    "tag_name": "v2.2.0",
+    "description": "Репозиторій ядер для флешкартриджів, що дозволяють запускати будь-який .nds файл під час їхнього завантаження.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "FSPDS",
+    "api_url": "https://api.github.com/repos/NotImplementedLife/FSPDS",
+    "html_url": "https://github.com/NotImplementedLife/FSPDS/releases/tag/V1.0.90343508R",
+    "comm_date": "2023-12-08T13:29:30Z",
+    "tag_name": "V1.0.90343508R",
+    "description": "Flipnote Studio плеєр для Nintendo DS.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "CCBUtils",
+    "api_url": "https://api.github.com/repos/SolatoroboHacking/CCBUtils",
+    "html_url": "https://github.com/SolatoroboHacking/CCBUtils/releases/tag/v0.4",
+    "comm_date": "2024-04-12T13:23:16Z",
+    "tag_name": "v0.4",
+    "description": "Утиліта для розпакування .ccb архівів гри Solatorobo: Red the Hunter.",
+    "prefix": " [Windows]"
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "Attorney Online",
+    "api_url": "https://api.github.com/repos/headshot2017/ao-nds",
+    "html_url": "https://github.com/headshot2017/ao-nds/releases/tag/v1.3",
+    "comm_date": "2025-02-28T22:38:23Z",
+    "tag_name": "v1.3",
+    "description": "Клієнт для Attorney Online.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "GodMode9i",
+    "api_url": "https://api.github.com/repos/DS-Homebrew/GodMode9i",
+    "html_url": "https://github.com/DS-Homebrew/GodMode9i/releases/tag/v3.9.0",
+    "comm_date": "2025-12-25T10:40:21Z",
+    "tag_name": "v3.9.0",
+    "description": "Файловий менеджер із повним доступом.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "NGPDS",
+    "api_url": "https://api.github.com/repos/FluBBaOfWard/NGPDS",
+    "html_url": "https://github.com/FluBBaOfWard/NGPDS/releases/tag/v0.5.9",
+    "comm_date": "2026-03-28T18:07:35Z",
+    "tag_name": "v0.5.9",
+    "description": "Емулятор SNK Neogeo Pocket.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "hiyaCFW",
+    "api_url": "https://api.github.com/repos/DS-Homebrew/hiyaCFW",
+    "html_url": "https://github.com/DS-Homebrew/hiyaCFW/releases/tag/v1.6.2",
+    "comm_date": "2025-07-12T00:11:44Z",
+    "tag_name": "v1.6.2",
+    "description": "Кастомна прошивка для DSi.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "DS994a",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/DS994a",
+    "html_url": "https://github.com/wavemotion-dave/DS994a/releases/tag/2.8",
+    "comm_date": "2025-01-19T14:05:29Z",
+    "tag_name": "2.8",
+    "description": "Емулятор TI99/4a.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "A7800DS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/A7800DS",
+    "html_url": "https://github.com/wavemotion-dave/A7800DS/releases/tag/5.2c",
+    "comm_date": "2026-03-03T11:50:38Z",
+    "tag_name": "5.2c",
+    "description": "Емулятор Atari 7800.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "GBA-Exploader",
+    "api_url": "https://api.github.com/repos/ApacheThunder/GBA-Exploader",
+    "html_url": "https://github.com/ApacheThunder/GBA-Exploader/releases/tag/0.67",
+    "comm_date": "2025-12-25T16:00:37Z",
+    "tag_name": "0.67",
+    "description": "Програма дозволяє запускати GBA ігри, які знаходяться на флешкартриджі в першому слоті, через картридж розширення в другому слоті.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "NDSFactory",
+    "api_url": "https://api.github.com/repos/Luca1991/NDSFactory",
+    "html_url": "https://github.com/Luca1991/NDSFactory/releases/tag/v1.3.3",
+    "comm_date": "2025-11-28T07:44:35Z",
+    "tag_name": "v1.3.3",
+    "description": "Програма для пакування/розпакування .nds ромів.",
+    "prefix": " [Windows/Linux/macOS]"
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "EZP_Recovery_Tool",
+    "api_url": "https://api.github.com/repos/ApacheThunder/EZP_Recovery_Tool",
+    "html_url": "https://github.com/ApacheThunder/EZP_Recovery_Tool/releases/tag/1.2",
+    "comm_date": "2024-10-02T00:06:22Z",
+    "tag_name": "1.2",
+    "description": "Програма для розцеглювання (раскирпичування) EZFlash Parallel флешкартриджів.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "SCKILL",
+    "api_url": "https://api.github.com/repos/ApacheThunder/SCKILL",
+    "html_url": "https://github.com/ApacheThunder/SCKILL/releases/tag/1.2",
+    "comm_date": "2024-11-29T01:53:18Z",
+    "tag_name": "1.2",
+    "description": "Програма для оновлення прошивки на SuperCard пристроях.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "3dpinball-nds",
+    "api_url": "https://api.github.com/repos/headshot2017/3dpinball-nds",
+    "html_url": "https://github.com/headshot2017/3dpinball-nds/releases/tag/v0.5",
+    "comm_date": "2024-07-12T20:06:20Z",
+    "tag_name": "v0.5",
+    "description": "Порт 3D Pinball - Space Cadet.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "nitrohaxTWL",
+    "api_url": "https://api.github.com/repos/ApacheThunder/nitrohaxTWL",
+    "html_url": "https://github.com/ApacheThunder/nitrohaxTWL/releases/tag/v0.98",
+    "comm_date": "2024-11-24T05:57:24Z",
+    "tag_name": "v0.98",
+    "description": "Програма для роботи з читами. Працює лише з оригінальними іграми.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "CorruptedClue",
+    "api_url": "https://api.github.com/repos/ChampionLeake/CorruptedClues",
+    "html_url": "https://github.com/ChampionLeake/CorruptedClues/releases/tag/v1",
+    "comm_date": "2024-12-02T16:05:32Z",
+    "tag_name": "v1",
+    "description": "Експлойт збережень гри Cate West: The Vanishing Files, який дозволяє виконати непідписаний код.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "Mario Kart DS ARM9 Editor",
+    "api_url": "https://api.github.com/repos/LandonAndEmma/MKDS-ARM9-Editor",
+    "html_url": "https://github.com/LandonAndEmma/MKDS-ARM9-Editor/releases/tag/1.3",
+    "comm_date": "2025-12-22T02:03:08Z",
+    "tag_name": "1.3",
+    "description": "Утиліта для редагування файлу arm9.bin із Mario Kart DS.",
+    "prefix": " [Windows]"
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "SpeccySE",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/SpeccySE",
+    "html_url": "https://github.com/wavemotion-dave/SpeccySE/releases/tag/1.8",
+    "comm_date": "2025-11-14T14:29:57Z",
+    "tag_name": "1.8",
+    "description": "Емулятор ZX Spectrum 48K/128K.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "GimliDS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/GimliDS",
+    "html_url": "https://github.com/wavemotion-dave/GimliDS/releases/tag/1.6",
+    "comm_date": "2025-12-10T11:52:18Z",
+    "tag_name": "1.6",
+    "description": "Емулятор Commodore 64.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "DracoDS",
+    "api_url": "https://api.github.com/repos/wavemotion-dave/DracoDS",
+    "html_url": "https://github.com/wavemotion-dave/DracoDS/releases/tag/1.5",
+    "comm_date": "2025-08-16T10:38:29Z",
+    "tag_name": "1.5",
+    "description": "Емулятор Dragon 32, Tandy CoCo 1/2.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "dspatch.py",
+    "api_url": "https://api.github.com/repos/enderghast13/dspatch.py",
+    "html_url": "https://github.com/enderghast13/dspatch.py/releases/tag/v1.0",
+    "comm_date": "2025-04-28T02:31:06Z",
+    "tag_name": "v1.0",
+    "description": "Патчер DS Download Station.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "GBARunner3",
+    "api_url": "https://api.github.com/repos/Gericom/GBARunner3",
+    "html_url": "https://github.com/enderghast13/dspatch.py/releases/tag/v1.0",
+    "comm_date": "2025-04-28T02:31:06Z",
+    "tag_name": "v1.0",
+    "description": "Гіпервізор GBA для DS (як Nintendont для GC на Wii).",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "RocketVideoPlayer",
+    "api_url": "https://api.github.com/repos/RocketRobz/RocketVideoPlayer",
+    "html_url": "https://github.com/RocketRobz/RocketVideoPlayer/releases/tag/v2.3.0",
+    "comm_date": "2026-01-30T05:45:01Z",
+    "tag_name": "v2.3.0",
+    "description": "Відеопрогравач.",
+    "prefix": " [+GBA]"
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "Vid2RVID",
+    "api_url": "https://api.github.com/repos/RocketRobz/Vid2RVID",
+    "html_url": "https://github.com/RocketRobz/Vid2RVID/releases/tag/v1.7.1",
+    "comm_date": "2026-02-05T04:13:59Z",
+    "tag_name": "v1.7.1",
+    "description": "Конвертер відео у формат Rocket Video (.rvid) для RocketVideoPlayer.",
+    "prefix": " [Windows]"
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "kerororpgen",
+    "api_url": "https://api.github.com/repos/Tellilum/kerororpgen",
+    "html_url": "https://github.com/Tellilum/kerororpgen/releases/tag/v0.1.3",
+    "comm_date": "2025-08-03T00:35:30Z",
+    "tag_name": "v0.1.3",
+    "description": "Англомовний переклад гри Keroro RPG: Kishi to Musha to Densetsu no Kaizoku.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "3dmaze",
+    "api_url": "https://api.github.com/repos/headshot2017/3dmaze",
+    "html_url": "https://github.com/headshot2017/3dmaze/releases/tag/v1.0.0",
+    "comm_date": "2025-10-19T09:29:36Z",
+    "tag_name": "v1.0.0",
+    "description": "Грабельний порт скринсейвера 3D Maze із Windows 95.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "NTM",
+    "api_url": "https://api.github.com/repos/Epicpkmn11/NTM",
+    "html_url": "https://github.com/Epicpkmn11/NTM/releases/tag/v0.4.2",
+    "comm_date": "2025-12-08T03:20:04Z",
+    "tag_name": "v0.4.2",
+    "description": "Простий менеджер тайтлів для Nintendo DSi, що підтримує як SDNAND від hiyaCFW, так і SysNAND.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "fatplow",
+    "api_url": "https://api.github.com/repos/MerelyMezz/fatplow",
+    "html_url": "https://github.com/MerelyMezz/fatplow/releases/tag/1.0.2",
+    "comm_date": "2025-12-08T17:01:49Z",
+    "tag_name": "1.0.2",
+    "description": "Утиліта, що прискорює перший запуск гри на великих картах пам'яті. Вона зсуває дані на карті пам'яті, щоб система могла швидше знайти вільне місце.",
+    "prefix": " [Linux]"
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "Pico Loader",
+    "api_url": "https://api.github.com/repos/LNH-team/pico-loader",
+    "html_url": "https://github.com/LNH-team/pico-loader/releases/tag/v1.6.0",
+    "comm_date": "2026-03-29T15:05:45Z",
+    "tag_name": "v1.6.0",
+    "description": "Програма, що дозволяє запускати DS(i) ігри. Альтернатива nds-bootstrap?",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "datelTool",
+    "api_url": "https://api.github.com/repos/ApacheThunder/datelTool",
+    "html_url": "https://github.com/ApacheThunder/datelTool/releases/tag/1.4",
+    "comm_date": "2026-01-07T06:26:38Z",
+    "tag_name": "1.4",
+    "description": "Інструмент для дампу/запису у внутрішню флешпам’ять деяких картриджів Datel DS.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "WasabiDS",
+    "api_url": "https://api.github.com/repos/FluBBaOfWard/WasabiDS",
+    "html_url": "https://github.com/FluBBaOfWard/WasabiDS/releases/tag/v0.2.5",
+    "comm_date": "2026-01-06T19:26:01Z",
+    "tag_name": "v0.2.5",
+    "description": "Емулятор Watara Supervision.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "Jet Impulse Translation Project",
+    "api_url": "https://api.github.com/repos/Megalith9/Jet-Impulse-Translation-Project",
+    "html_url": "https://github.com/Megalith9/Jet-Impulse-Translation-Project/releases/tag/v1.3",
+    "comm_date": "2026-01-18T03:36:01Z",
+    "tag_name": "v1.3",
+    "description": "Англомовний переклад гри Jet Impulse.",
+    "prefix": ""
+  },
+  {
+    "category": "DS(i)",
+    "app_name": "AetherShell",
+    "api_url": "https://api.github.com/repos/das-bhaskar/AetherShell",
+    "html_url": "https://github.com/das-bhaskar/AetherShell/releases/tag/v1.0.2",
+    "comm_date": "2026-01-18T13:39:22Z",
+    "tag_name": "v1.0.2",
+    "description": "Під’єднавши консоль до програми, ваші малюнки інтерпретуються, анімуються, танцюють та проєктуються у ваш фізичний простір за допомогою AR.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS/DS(i)",
+    "app_name": "TWiLightMenu",
+    "api_url": "https://api.github.com/repos/DS-Homebrew/TWiLightMenu",
+    "html_url": "https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v27.23.0",
+    "comm_date": "2026-03-17T22:33:13Z",
+    "tag_name": "v27.23.0",
+    "description": "Оболонка для nds-bootstrap.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS/DS(i)",
+    "app_name": "akmenu-next",
+    "api_url": "https://api.github.com/repos/coderkei/akmenu-next",
+    "html_url": "https://github.com/coderkei/akmenu-next/releases/tag/v2.0.5",
+    "comm_date": "2026-02-27T22:32:59Z",
+    "tag_name": "v2.0.5",
+    "description": "Оболонка для nds-bootstrap.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS/DS(i)",
+    "app_name": "nds-bootstrap",
+    "api_url": "https://api.github.com/repos/DS-Homebrew/nds-bootstrap",
+    "html_url": "https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v2.15.0",
+    "comm_date": "2026-03-17T22:05:19Z",
+    "tag_name": "v2.15.0",
+    "description": "Програма, що дозволяє запускати DS(i) ігри з карти пам'яті.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS/DS(i)",
+    "app_name": "S8DS",
+    "api_url": "https://api.github.com/repos/FluBBaOfWard/S8DS",
+    "html_url": "https://github.com/FluBBaOfWard/S8DS/releases/tag/v1.1.7",
+    "comm_date": "2023-11-07T18:10:41Z",
+    "tag_name": "v1.1.7",
+    "description": "Емулятор 8-бітних консолей Sega.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS/DS(i)",
+    "app_name": "LodjurDS",
+    "api_url": "https://api.github.com/repos/FluBBaOfWard/LodjurDS",
+    "html_url": "https://github.com/FluBBaOfWard/LodjurDS/releases/tag/v0.1.4",
+    "comm_date": "2026-01-19T21:04:00Z",
+    "tag_name": "v0.1.4",
+    "description": "Емулятор Atari Lynx.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS/DS(i)",
+    "app_name": "WordleDS",
+    "api_url": "https://api.github.com/repos/Epicpkmn11/WordleDS",
+    "html_url": "https://github.com/Epicpkmn11/WordleDS/releases/tag/dev",
+    "comm_date": "2026-01-29T07:55:42Z",
+    "tag_name": "dev",
+    "description": "Клон гри Wordle.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS/DS(i)",
+    "app_name": "hShop DS",
+    "api_url": "https://api.github.com/repos/hshopnds-boop/hShop-NDS",
+    "html_url": "https://github.com/hshopnds-boop/hShop-NDS/releases/tag/v1.1",
+    "comm_date": "2026-03-28T21:25:25Z",
+    "tag_name": "v1.1",
+    "description": "Завантажувач DS/GBA ігор.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Luma3DS",
+    "api_url": "https://api.github.com/repos/LumaTeam/Luma3DS",
+    "html_url": "https://github.com/LumaTeam/Luma3DS/releases/tag/v13.3.3",
+    "comm_date": "2025-07-15T19:36:12Z",
+    "tag_name": "v13.3.3",
+    "description": "Кастомна прошивка для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS-Firmware",
+    "api_url": "https://api.github.com/repos/THZoria/3DS_Firmware",
+    "html_url": "https://github.com/THZoria/3DS_Firmware/releases/tag/6.2.0",
+    "comm_date": "2025-08-28T11:08:08Z",
+    "tag_name": "6.2.0",
+    "description": "Системна прошивка. Перед оновленням перевірте сумісність із Luma3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ShutTheCamUp",
+    "api_url": "https://api.github.com/repos/TehFridge/ShutTheCamUp",
+    "html_url": "https://github.com/TehFridge/ShutTheCamUp/releases/tag/main",
+    "comm_date": "2023-08-22T17:19:59Z",
+    "tag_name": "main",
+    "description": "Вимкнення звуку камери в усіх програмах.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "openai-3ds",
+    "api_url": "https://api.github.com/repos/MrHuu/openai-3ds",
+    "html_url": "https://github.com/MrHuu/openai-3ds/releases/tag/v0.0.1",
+    "comm_date": "2023-08-25T10:44:48Z",
+    "tag_name": "v0.0.1",
+    "description": "ChatGPT клієнт для консолі 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Luma3DS-Timelock",
+    "api_url": "https://api.github.com/repos/valx76/Luma3DS-Timelock",
+    "html_url": "https://github.com/valx76/Luma3DS-Timelock/releases/tag/v12.0.1",
+    "comm_date": "2023-07-14T15:26:49Z",
+    "tag_name": "v12.0.1",
+    "description": "Модифікація Luma3DS із обмеженням ігрового часу.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CustomLuma3DS",
+    "api_url": "https://api.github.com/repos/Alexyo21/CustomLuma3DS",
+    "html_url": "https://github.com/Alexyo21/CustomLuma3DS/releases/tag/v1.2.3",
+    "comm_date": "2025-07-27T22:53:29Z",
+    "tag_name": "v1.2.3",
+    "description": "Модифікація Luma3DS із підтримкою стрімінгу на ПК.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Luma3DS_custom",
+    "api_url": "https://api.github.com/repos/Core-2-Extreme/Luma3DS_custom",
+    "html_url": "https://github.com/Core-2-Extreme/Luma3DS_custom/releases/tag/v13.3.3_fs_patch_1.1",
+    "comm_date": "2026-01-21T05:49:51Z",
+    "tag_name": "v13.3.3_fs_patch_1.1",
+    "description": "Модифікація Luma3DS із вимкненою перевіркою вільного місця під час запуску консолі.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "snes9x_3ds",
+    "api_url": "https://api.github.com/repos/matbo87/snes9x_3ds",
+    "html_url": "https://github.com/matbo87/snes9x_3ds/releases/tag/v1.60",
+    "comm_date": "2026-03-22T12:46:51Z",
+    "tag_name": "v1.60",
+    "description": "Емулятор SNES.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "NTR_Launcher",
+    "api_url": "https://api.github.com/repos/ApacheThunder/NTR_Launcher",
+    "html_url": "https://github.com/ApacheThunder/NTR_Launcher/releases/tag/3.2",
+    "comm_date": "2024-12-12T02:44:18Z",
+    "tag_name": "3.2",
+    "description": "Лаунчер NitroHax без чит-рушія та меню.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Line for 3DS",
+    "api_url": "https://api.github.com/repos/Core-2-Extreme/Line_for_3DS",
+    "html_url": "https://github.com/Core-2-Extreme/Line_for_3DS/releases/tag/v2.0.0.1",
+    "comm_date": "2024-01-30T13:44:30Z",
+    "tag_name": "v2.0.0.1",
+    "description": "Клієнт для месенджера Line.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ntr-hr",
+    "api_url": "https://api.github.com/repos/xzn/ntr-hr",
+    "html_url": "https://github.com/xzn/ntr-hr/releases/tag/v0.3.7.0",
+    "comm_date": "2026-01-29T19:18:18Z",
+    "tag_name": "v0.3.7.0",
+    "description": "Покращений стрімінг зображення з консолі через Wi-Fi.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "devilutionX",
+    "api_url": "https://api.github.com/repos/diasurgical/devilutionX",
+    "html_url": "https://github.com/diasurgical/devilutionX/releases/tag/1.5.5",
+    "comm_date": "2025-10-30T17:04:01Z",
+    "tag_name": "1.5.5",
+    "description": "Порт гри Diablo.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ShinyHunterUSUM",
+    "api_url": "https://api.github.com/repos/u93132/ShinyHunterUSUM",
+    "html_url": "https://github.com/u93132/ShinyHunterUSUM/releases/tag/v0.3.4",
+    "comm_date": "2024-07-20T06:00:35Z",
+    "tag_name": "v0.3.4",
+    "description": "Програма для автоматизованого шайніхантингу в Pokemon US/UM.",
+    "prefix": " [Windows]"
+  },
+  {
+    "category": "3DS",
+    "app_name": "Netsurf 3DS",
+    "api_url": "https://api.github.com/repos/coderman64/netsurf-3ds",
+    "html_url": "https://github.com/coderman64/netsurf-3ds/releases/tag/v0.03",
+    "comm_date": "2025-12-23T20:50:26Z",
+    "tag_name": "v0.03",
+    "description": "Порт браузера Netsurf.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Red Viper",
+    "api_url": "https://api.github.com/repos/skyfloogle/red-viper",
+    "html_url": "https://github.com/skyfloogle/red-viper/releases/tag/v1.2.5",
+    "comm_date": "2026-01-30T18:32:21Z",
+    "tag_name": "v1.2.5",
+    "description": "Емулятор Virtual Boy.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "PrBoom-Plus-3DS",
+    "api_url": "https://api.github.com/repos/iAmGhost/PrBoom-Plus-3DS",
+    "html_url": "https://github.com/iAmGhost/PrBoom-Plus-3DS/releases/tag/v1.0.3",
+    "comm_date": "2024-04-10T12:36:06Z",
+    "tag_name": "v1.0.3",
+    "description": "Форк PrBoom+ (DOOM).",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "NetPass",
+    "api_url": "https://gitlab.com/api/v4/projects/56839786/releases",
+    "html_url": "https://gitlab.com/3ds-netpass/netpass/-/releases/v2.0.1",
+    "comm_date": "2026-03-31T05:01:07.157Z",
+    "tag_name": "v2.0.1",
+    "description": "Програма для отримання StreetPass, не виходячи з дому.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CEC Tool",
+    "api_url": "https://gitlab.com/api/v4/projects/75628514/releases",
+    "html_url": "https://gitlab.com/sorunome/cectool/-/releases/v0.1.0",
+    "comm_date": "2025-10-31T17:25:40.460Z",
+    "tag_name": "v0.1.0",
+    "description": "Утиліта для перегляду та налагодження даних CEC/StreetPass.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ArticBaseServer",
+    "api_url": "https://api.github.com/repos/PabloMK7/ArticBaseServer",
+    "html_url": "https://github.com/PabloMK7/ArticBaseServer/releases/tag/v1.2.0",
+    "comm_date": "2024-07-16T21:01:32Z",
+    "tag_name": "v1.2.0",
+    "description": "Програма для стрімінгу у форк емулятора Citra ( https://github.com/PabloMK7/citra ).",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "fMSX3DS",
+    "api_url": "https://api.github.com/repos/TomiokaH01/fMSX3DS",
+    "html_url": "https://github.com/TomiokaH01/fMSX3DS/releases/tag/v1.42",
+    "comm_date": "2024-12-19T14:22:28Z",
+    "tag_name": "v1.42",
+    "description": "Емулятор MSX/MSX2/MSX2+.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Raptor",
+    "api_url": "https://api.github.com/repos/RetroGamer02/raptor-consoles",
+    "html_url": "https://github.com/RetroGamer02/raptor-consoles/releases/tag/N64-V1.0.0-RC2",
+    "comm_date": "2026-03-17T03:14:52Z",
+    "tag_name": "N64-V1.0.0-RC2",
+    "description": "Порт гри Raptor Call Of The Shadows.",
+    "prefix": " [+NDS/Wii]"
+  },
+  {
+    "category": "3DS",
+    "app_name": "Anemone3DS",
+    "api_url": "https://api.github.com/repos/astronautlevel2/Anemone3DS",
+    "html_url": "https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.1",
+    "comm_date": "2024-06-18T00:22:27Z",
+    "tag_name": "v3.0.1",
+    "description": "Менеджер тем, заставок (сплешів) та значків.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3ds_junkdraw ",
+    "api_url": "https://api.github.com/repos/randomouscrap98/3ds_junkdraw",
+    "html_url": "https://github.com/randomouscrap98/3ds_junkdraw/releases/tag/0.4.4_pre1",
+    "comm_date": "2025-08-11T04:22:42Z",
+    "tag_name": "0.4.4_pre1",
+    "description": "Простенька програма для малювання.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "fallout1-ce-3ds",
+    "api_url": "https://api.github.com/repos/MrHuu/fallout1-ce-3ds",
+    "html_url": "https://github.com/MrHuu/fallout1-ce-3ds/releases/tag/v0.0.5",
+    "comm_date": "2024-11-10T17:38:18Z",
+    "tag_name": "v0.0.5",
+    "description": "Порт гри Fallout Community Edition.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "open_agb_firm",
+    "api_url": "https://api.github.com/repos/profi200/open_agb_firm",
+    "html_url": "https://github.com/profi200/open_agb_firm/releases/tag/beta_2024-12-24",
+    "comm_date": "2024-12-24T13:28:58Z",
+    "tag_name": "beta_2024-12-24",
+    "description": "Програма для запуску GBA ROM-ів за допомогою вбудованого в 3DS заліза GBA.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "FourthTube",
+    "api_url": "https://api.github.com/repos/erievs/FourthTube",
+    "html_url": "https://github.com/erievs/FourthTube/releases/tag/b34.1",
+    "comm_date": "2026-02-06T02:00:50Z",
+    "tag_name": "b34.1",
+    "description": "Сторонній клієнт для YouTube.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Paint3DS",
+    "api_url": "https://api.github.com/repos/BlyZeYT/Paint3DS",
+    "html_url": "https://github.com/BlyZeYT/Paint3DS/releases/tag/v1.0.0",
+    "comm_date": "2024-09-20T18:52:39Z",
+    "tag_name": "v1.0.0",
+    "description": "Простенька малювалка.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "T-Rex Game 3DS",
+    "api_url": "https://api.github.com/repos/BlyZeYT/T-Rex-Game-3DS",
+    "html_url": "https://github.com/BlyZeYT/T-Rex-Game-3DS/releases/tag/v1.3.0",
+    "comm_date": "2025-06-28T18:43:13Z",
+    "tag_name": "v1.3.0",
+    "description": "Клон гри T-Rex із Google Chrome.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "dethrace-3ds",
+    "api_url": "https://api.github.com/repos/MrHuu/dethrace-3ds",
+    "html_url": "https://github.com/MrHuu/dethrace-3ds/releases/tag/v0.0.1",
+    "comm_date": "2025-01-05T18:13:36Z",
+    "tag_name": "v0.0.1",
+    "description": "Порт гри Carmageddon.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DiceRoll",
+    "api_url": "https://api.github.com/repos/t0xid/3DiceRoller",
+    "html_url": "https://github.com/t0xid/3DiceRoller/releases/tag/v1.1.1",
+    "comm_date": "2024-09-26T10:13:07Z",
+    "tag_name": "v1.1.1",
+    "description": "Генератор кидка кубиків для настільних ігор..",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "For-Anyone-Who-Walks-Revamp",
+    "api_url": "https://api.github.com/repos/t0xid/For-Anyone-Who-Walks-Revamp",
+    "html_url": "https://github.com/t0xid/For-Anyone-Who-Walks-Revamp/releases/tag/v0.2.3",
+    "comm_date": "2024-10-29T06:00:11Z",
+    "tag_name": "v0.2.3",
+    "description": "Оновлена версія програми для отримання монет за кроки (понад 10 монет на добу).",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DSident",
+    "api_url": "https://api.github.com/repos/joel16/3DSident",
+    "html_url": "https://github.com/joel16/3DSident/releases/tag/0.94",
+    "comm_date": "2026-03-25T12:39:41Z",
+    "tag_name": "0.94",
+    "description": "Детальна інформація про консоль.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ftpd",
+    "api_url": "https://api.github.com/repos/mtheall/ftpd",
+    "html_url": "https://github.com/mtheall/ftpd/releases/tag/v3.2.1",
+    "comm_date": "2024-11-17T07:29:51Z",
+    "tag_name": "v3.2.1",
+    "description": "FTP сервер.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Universal-Updater",
+    "api_url": "https://api.github.com/repos/Universal-Team/Universal-Updater",
+    "html_url": "https://github.com/Universal-Team/Universal-Updater/releases/",
+    "comm_date": "2026-03-15T02:01:41Z",
+    "tag_name": "git",
+    "description": "Програма для оновлення та встановлення програм.(Українізовано🇺🇦)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ftpsrv ",
+    "api_url": "https://api.github.com/repos/ITotalJustice/ftpsrv",
+    "html_url": "https://github.com/ITotalJustice/ftpsrv/releases/tag/1.2.2",
+    "comm_date": "2025-01-16T21:37:27Z",
+    "tag_name": "1.2.2",
+    "description": "FTP сервер.",
+    "prefix": " [+ DS]"
+  },
+  {
+    "category": "3DS",
+    "app_name": "JKSM",
+    "api_url": "https://api.github.com/repos/J-D-K/JKSM",
+    "html_url": "https://github.com/J-D-K/JKSM/releases/tag/05.08.2020",
+    "comm_date": "2020-05-09T04:04:01Z",
+    "tag_name": "05.08.2020",
+    "description": "Менеджер збережень.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "HomeMenuEditor3DS",
+    "api_url": "https://api.github.com/repos/mrissaoussama/HomeMenuEditor3DS",
+    "html_url": "https://github.com/mrissaoussama/HomeMenuEditor3DS/releases/tag/v2.1",
+    "comm_date": "2025-06-01T11:40:59Z",
+    "tag_name": "v2.1",
+    "description": "Редактор розташування іконок додатків на домашньому екрані для ПК.",
+    "prefix": " [Windows]"
+  },
+  {
+    "category": "3DS",
+    "app_name": "Time Travelers Translation",
+    "api_url": "https://api.github.com/repos/Time-Travelers-Translation/Patch-Release",
+    "html_url": "https://github.com/Time-Travelers-Translation/Patch-Release/releases/tag/1.4",
+    "comm_date": "2025-05-26T19:34:20Z",
+    "tag_name": "1.4",
+    "description": "Англомовний переклад Time Travelers (кінематографічна інтерактивна драма з можливістю вибору).",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Sonic-CD-11-3DS-Redux",
+    "api_url": "https://api.github.com/repos/Voxel9/Sonic-CD-11-3DS-Redux",
+    "html_url": "https://github.com/Voxel9/Sonic-CD-11-3DS-Redux/releases/tag/v1.2.0",
+    "comm_date": "2025-02-02T03:57:25Z",
+    "tag_name": "v1.2.0",
+    "description": "Порт Sonic CD.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "PKSM",
+    "api_url": "https://api.github.com/repos/FlagBrew/PKSM",
+    "html_url": "https://github.com/FlagBrew/PKSM/releases/tag/10.2.4",
+    "comm_date": "2025-06-22T11:13:41Z",
+    "tag_name": "10.2.4",
+    "description": "Мультифункціональний редактор покемонів 1–8 поколінь.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Azahar",
+    "api_url": "https://api.github.com/repos/azahar-emu/azahar",
+    "html_url": "https://github.com/azahar-emu/azahar/releases/tag/2125.0.1",
+    "comm_date": "2026-03-27T19:29:14Z",
+    "tag_name": "2125.0.1",
+    "description": "Емулятор 3DS.",
+    "prefix": " [Android/Windows/MacOS/Linux]"
+  },
+  {
+    "category": "3DS",
+    "app_name": "GodMode9",
+    "api_url": "https://api.github.com/repos/d0k3/GodMode9",
+    "html_url": "https://github.com/d0k3/GodMode9/releases/tag/v2.2.2",
+    "comm_date": "2026-03-29T20:07:32Z",
+    "tag_name": "v2.2.2",
+    "description": "Файловый менеджер с повним доступом.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "mh4edit",
+    "api_url": "https://api.github.com/repos/Rokumaehn/mh4edit",
+    "html_url": "https://github.com/Rokumaehn/mh4edit/releases/tag/V1.0.2",
+    "comm_date": "2025-03-24T14:17:15Z",
+    "tag_name": "V1.0.2",
+    "description": "Редактор збережень для Monster Hunter 4 Ultimate.",
+    "prefix": " [Windows]"
+  },
+  {
+    "category": "3DS",
+    "app_name": "Checkpoint",
+    "api_url": "https://api.github.com/repos/BernardoGiordano/Checkpoint",
+    "html_url": "https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.12.0",
+    "comm_date": "2026-03-12T19:56:00Z",
+    "tag_name": "v3.12.0",
+    "description": "Менеджер збережень.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Batch CIA 3DS Decryptor Redux",
+    "api_url": "https://api.github.com/repos/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux",
+    "html_url": "https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux/releases/tag/v1.0.6.1",
+    "comm_date": "2025-04-04T15:39:23Z",
+    "tag_name": "v1.0.6.1",
+    "description": "Скрипт для розшифрування .3ds/.cia файлов.",
+    "prefix": " [Windows]"
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DSky",
+    "api_url": "https://api.github.com/repos/pvini07BR/3dsky",
+    "html_url": "https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux/releases/tag/v1.0.5.1",
+    "comm_date": "2010-04-04T15:39:23Z",
+    "tag_name": "v1.0.5.1",
+    "description": "Кліент для Bluesky.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "pycgfx",
+    "api_url": "https://api.github.com/repos/skyfloogle/pycgfx",
+    "html_url": "https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux/releases/tag/v1.0.6.1",
+    "comm_date": "2010-04-04T15:39:23Z",
+    "tag_name": "v1.0.6.1",
+    "description": "Программа для конвертації glTF-моделей в CGFX.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "invMgr3ds",
+    "api_url": "https://api.github.com/repos/Terpsichord/invMgr3ds",
+    "html_url": "https://github.com/Terpsichord/invMgr3ds/releases/tag/v0.6.0",
+    "comm_date": "2026-02-07T01:43:47Z",
+    "tag_name": "v0.6.0",
+    "description": "Система керування інвентарем.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS Random Game Launcher",
+    "api_url": "https://api.github.com/repos/selloa/3DS-Random-Game-Launcher",
+    "html_url": "https://github.com/selloa/3DS-Random-Game-Launcher/releases/tag/v18",
+    "comm_date": "2025-09-24T19:21:17Z",
+    "tag_name": "v18",
+    "description": "Лаунчер для запуску випадкової гри.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS Ballistica Game",
+    "api_url": "https://api.github.com/repos/steddyman/Ballistica",
+    "html_url": "https://github.com/steddyman/Ballistica/releases/tag/v0.1.20",
+    "comm_date": "2025-10-03T22:36:51Z",
+    "tag_name": "v0.1.20",
+    "description": "Арканоід.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "flappy",
+    "api_url": "https://api.github.com/repos/MillKeny/flappy",
+    "html_url": "https://github.com/MillKeny/flappy/releases/tag/v1.1",
+    "comm_date": "2025-06-29T15:48:26Z",
+    "tag_name": "v1.1",
+    "description": "Порт Flappy bird.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Video player for 3DS",
+    "api_url": "https://api.github.com/repos/Core-2-Extreme/Video_player_for_3DS",
+    "html_url": "https://github.com/Core-2-Extreme/Video_player_for_3DS/releases/tag/v1.6.1",
+    "comm_date": "2026-02-18T12:19:59Z",
+    "tag_name": "v1.6.1",
+    "description": "Відеоплеєр.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "aurorachat",
+    "api_url": "https://api.github.com/repos/mii-man/aurorachat",
+    "html_url": "https://github.com/mii-man/aurorachat/releases/tag/v0.4.5",
+    "comm_date": "2026-03-08T23:21:18Z",
+    "tag_name": "v0.4.5",
+    "description": "Онлайн чат.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "GameMaker-Anywhere",
+    "api_url": "https://api.github.com/repos/Ralcactus/GameMaker-Anywhere",
+    "html_url": "https://github.com/Ralcactus/GameMaker-Anywhere/releases",
+    "comm_date": "2011-02-09T00:18:23Z",
+    "tag_name": "v0.0.4.2",
+    "description": "Порт GameMaker.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Magic Draw",
+    "api_url": "https://api.github.com/repos/natsuneco/magic-draw",
+    "html_url": "https://github.com/natsuneco/magic-draw/releases/tag/v2.0.1",
+    "comm_date": "2026-03-06T17:47:18Z",
+    "tag_name": "v2.0.1",
+    "description": "Просунута малювалка.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3dslibris",
+    "api_url": "https://api.github.com/repos/RigleGit/3dslibris",
+    "html_url": "https://github.com/RigleGit/3dslibris/releases/tag/v1.0.3",
+    "comm_date": "2026-03-14T13:57:05Z",
+    "tag_name": "v1.0.3",
+    "description": "Читалка для книг.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Bullets",
+    "api_url": "https://api.github.com/repos/1Setherson1/Bullets",
+    "html_url": "https://github.com/1Setherson1/Bullets/releases/latest",
+    "comm_date": "2000-01-01T00:00:00Z",
+    "tag_name": "v0.0.0",
+    "description": "Ухиляйтеся і плетіть!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Nexus3DS",
+    "api_url": "https://api.github.com/repos/2b-zipper/Nexus3DS",
+    "html_url": "https://github.com/2b-zipper/Nexus3DS/releases/tag/0.3.0",
+    "comm_date": "2026-03-16T16:44:14Z",
+    "tag_name": "0.3.0",
+    "description": "Вилка Luma3DS з експериментальними функціями!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TriCord",
+    "api_url": "https://api.github.com/repos/2b-zipper/TriCord",
+    "html_url": "https://github.com/2b-zipper/TriCord/releases/tag/v0.4.1",
+    "comm_date": "2026-03-22T07:03:14Z",
+    "tag_name": "v0.4.1",
+    "description": "Клієнт Discord для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DSDI",
+    "api_url": "https://api.github.com/repos/Aeplet/3DSDI",
+    "html_url": "https://github.com/Aeplet/3DSDI/releases/tag/v1.0.0",
+    "comm_date": "2025-12-17T19:27:59Z",
+    "tag_name": "v1.0.0",
+    "description": "Програма 3DS SD Info",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DScreen",
+    "api_url": "https://api.github.com/repos/AllisterMKW/3DScreen",
+    "html_url": "https://github.com/AllisterMKW/3DScreen/releases/tag/3.0",
+    "comm_date": "2025-12-16T12:24:43Z",
+    "tag_name": "3.0",
+    "description": "Змінює колір верхнього екрана вашого 3DS між червоним, зеленим або синім.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Halo Renewed Solitude",
+    "api_url": "https://api.github.com/repos/ArcadeJumpers/RenewedSolitude3DS",
+    "html_url": "https://github.com/ArcadeJumpers/RenewedSolitude3DS/releases/tag/v1.2",
+    "comm_date": "2022-12-17T20:37:24Z",
+    "tag_name": "v1.2",
+    "description": "Halo Renewed Solitude 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Doodle",
+    "api_url": "https://api.github.com/repos/ArmstrongThomas/Doodle",
+    "html_url": "https://github.com/ArmstrongThomas/Doodle/releases/tag/v1.0.1",
+    "comm_date": "2024-12-29T23:42:25Z",
+    "tag_name": "v1.0.1",
+    "description": "Doodle — це проста програма для малювання, розроблена для платформи Nintendo 3DS. Це дозволяє користувачам створювати та маніпулювати графічним вмістом, використовуючи пензлі різних розмірів і кольорів разом з іншими людьми на спільному полотні!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS_Quick_Reboot",
+    "api_url": "https://api.github.com/repos/Asellus/3DS_Quick_Reboot",
+    "html_url": "https://github.com/Asellus/3DS_Quick_Reboot/releases/tag/v1.0.1",
+    "comm_date": "2016-05-18T11:57:13Z",
+    "tag_name": "v1.0.1",
+    "description": "Швидке перезавантаження 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Class of '09",
+    "api_url": "https://api.github.com/repos/Bilbard/classof3ds",
+    "html_url": "https://github.com/Bilbard/classof3ds/releases/tag/v1.9",
+    "comm_date": "2026-03-28T07:23:34Z",
+    "tag_name": "v1.9",
+    "description": "Порт 3DS візуального роману Class of '09",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Mars",
+    "api_url": "https://api.github.com/repos/BotRandomness/Mars3DS",
+    "html_url": "https://github.com/BotRandomness/Mars3DS/releases/tag/v1.0.0",
+    "comm_date": "2024-01-05T01:51:12Z",
+    "tag_name": "v1.0.0",
+    "description": "Mars3DS, загублений ретро-шутер ;)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS Donut",
+    "api_url": "https://api.github.com/repos/Buggem/3ds-donut",
+    "html_url": "https://github.com/Buggem/3ds-donut/releases/tag/v1.5",
+    "comm_date": "2025-02-01T04:59:34Z",
+    "tag_name": "v1.5",
+    "description": "Пончик у C.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DSController",
+    "api_url": "https://api.github.com/repos/CTurt/3DSController",
+    "html_url": "https://github.com/CTurt/3DSController/releases/tag/0.6",
+    "comm_date": "2015-09-08T22:08:00Z",
+    "tag_name": "0.6",
+    "description": "Додано автоматично",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SliderPong",
+    "api_url": "https://api.github.com/repos/CacahueteSansSel/SliderPong",
+    "html_url": "https://github.com/CacahueteSansSel/SliderPong/releases/tag/v1.0.1",
+    "comm_date": "2025-08-31T21:09:20Z",
+    "tag_name": "v1.0.1",
+    "description": "Гра в понг із регуляторами гучності та 3D-повзунками для нової 3DS!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ChatGPT3DS",
+    "api_url": "https://api.github.com/repos/CarsonKompon/ChatGPT3DS",
+    "html_url": "https://github.com/CarsonKompon/ChatGPT3DS/releases/tag/v1.1.1",
+    "comm_date": "2023-03-17T23:58:17Z",
+    "tag_name": "v1.1.1",
+    "description": "Здійснюйте виклики API OpenAI безпосередньо з Nintendo 3DS! Зроблено з Lovebrew :)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SuperML",
+    "api_url": "https://api.github.com/repos/CharlesAverill/SuperML",
+    "html_url": "https://github.com/CharlesAverill/SuperML/releases/tag/build-49",
+    "comm_date": "2026-01-12T03:46:19Z",
+    "tag_name": "build-49",
+    "description": "Інтерпретатор і текстовий редактор для підмножини мови програмування Caml для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ClassiCube",
+    "api_url": "https://api.github.com/repos/ClassiCube/ClassiCube",
+    "html_url": "https://github.com/ClassiCube/ClassiCube/releases/tag/1.3.8",
+    "comm_date": "2026-02-17T12:28:45Z",
+    "tag_name": "1.3.8",
+    "description": "Спеціальний клієнт Minecraft Classic / ClassiCube, написаний на C з нуля (раніше ClassicalSharp на C#)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Halo Revamped",
+    "api_url": "https://api.github.com/repos/CollinScripter/Revamped3DS",
+    "html_url": "https://github.com/CollinScripter/Revamped3DS/releases/tag/V1.11",
+    "comm_date": "2017-08-06T14:35:34Z",
+    "tag_name": "V1.11",
+    "description": "Оновлений Halo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Space Invaders",
+    "api_url": "https://api.github.com/repos/ConstantinZpher/Space-Invaders-3DS",
+    "html_url": "https://github.com/ConstantinZpher/Space-Invaders-3DS/releases/tag/v1.0.0",
+    "comm_date": "2024-12-18T23:52:26Z",
+    "tag_name": "v1.0.0",
+    "description": "Простий клон Space Invaders",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Battery_mark_for_3DS",
+    "api_url": "https://api.github.com/repos/Core-2-Extreme/Battery_mark_for_3DS",
+    "html_url": "https://github.com/Core-2-Extreme/Battery_mark_for_3DS/releases/tag/v2.1.0",
+    "comm_date": "2022-03-08T04:56:36Z",
+    "tag_name": "v2.1.0",
+    "description": "Перевірте свій акумулятор 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "FastPlayCoin",
+    "api_url": "https://api.github.com/repos/CorySanin/FastPlayCoin",
+    "html_url": "https://github.com/CorySanin/FastPlayCoin/releases/tag/v1.0",
+    "comm_date": "2018-01-13T15:04:38Z",
+    "tag_name": "v1.0",
+    "description": "[3DS] Швидкий PlayCoin",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": ".hack//ez-i",
+    "api_url": "https://api.github.com/repos/CrackedPixel/hackezi-3ds",
+    "html_url": "https://github.com/CrackedPixel/hackezi-3ds/releases/tag/1.0.4",
+    "comm_date": "2025-11-16T00:48:25Z",
+    "tag_name": "1.0.4",
+    "description": "Кайт, новачок у «Світі», грає зі своїм справжнім другом Оркою, коли на них нападає монстр, який переслідує таємну дівчину Ауру. Смерть Орки від нападу монстра вводить його в кому, і тепер Кайт повинен знайти Ауру та повернути свого друга!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3dsCookieClicker",
+    "api_url": "https://api.github.com/repos/Creckeryop/3dsCookieClicker",
+    "html_url": "https://github.com/Creckeryop/3dsCookieClicker/releases/tag/#0022",
+    "comm_date": "2017-06-11T14:38:21Z",
+    "tag_name": "#0022",
+    "description": "Клацач файлів cookie для Nintendo 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CrossCraft Classic",
+    "api_url": "https://api.github.com/repos/CrossCraft/CrossCraft-Classic",
+    "html_url": "https://github.com/CrossCraft/CrossCraft-Classic/releases/tag/v1.3",
+    "comm_date": "2022-12-01T18:22:19Z",
+    "tag_name": "v1.3",
+    "description": "Класичний клієнт C++ Minecraft",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "DrawAttack",
+    "api_url": "https://api.github.com/repos/Cruel/DrawAttack",
+    "html_url": "https://github.com/Cruel/DrawAttack/releases/tag/1.3",
+    "comm_date": "2016-04-17T21:53:05Z",
+    "tag_name": "1.3",
+    "description": "Багатокористувацька бойова гра для малювання для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CTGP7-SaveTransfer",
+    "api_url": "https://api.github.com/repos/CyberYoshi64/CTGP7-SaveTransfer",
+    "html_url": "https://github.com/CyberYoshi64/CTGP7-SaveTransfer/releases/tag/v0.4r1",
+    "comm_date": "2023-05-11T15:45:28Z",
+    "tag_name": "v0.4r1",
+    "description": "Копіювальний пристрій збереження даних між МК7 та КТГП-7",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Snakes",
+    "api_url": "https://api.github.com/repos/DDews/Snakes",
+    "html_url": "https://github.com/DDews/Snakes/releases/tag/0.2.5",
+    "comm_date": "2017-02-18T17:15:51Z",
+    "tag_name": "0.2.5",
+    "description": "Місцева гра в гру змія для 3DS homebrew/cfw",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "tikSweep",
+    "api_url": "https://api.github.com/repos/DanTheMan827/tikSweep",
+    "html_url": "https://github.com/DanTheMan827/tikSweep/releases/tag/v1.1.2",
+    "comm_date": "2017-01-07T03:05:51Z",
+    "tag_name": "v1.1.2",
+    "description": "Програма очищення квитків для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Breakup Simulator Portable",
+    "api_url": "https://api.github.com/repos/Dangerbites/BreakupSimulator3DS",
+    "html_url": "https://github.com/Dangerbites/BreakupSimulator3DS/releases/tag/Major",
+    "comm_date": "2024-02-17T09:20:35Z",
+    "tag_name": "Major",
+    "description": "Перенесення Super Kawai Breakup Sim для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "RollTheDice-3DS",
+    "api_url": "https://api.github.com/repos/DefeatOf13/RollTheDice-3DS",
+    "html_url": "https://github.com/DefeatOf13/RollTheDice-3DS/releases/tag/v1.0.1",
+    "comm_date": "2024-12-30T10:37:44Z",
+    "tag_name": "v1.0.1",
+    "description": "Проста програма Homebrew для Nintendo 3DS, яка імітує кидок кубика",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "blargSpc",
+    "api_url": "https://api.github.com/repos/DiscostewSM/blargSpc",
+    "html_url": "https://github.com/DiscostewSM/blargSpc/releases/tag/v0.1",
+    "comm_date": "2016-02-25T20:42:30Z",
+    "tag_name": "v0.1",
+    "description": "Відтворюйте файли SNES SPC на своєму 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS eBook Reader",
+    "api_url": "https://api.github.com/repos/DomRe/3DS_eBook_Reader",
+    "html_url": "https://github.com/DomRe/3DS_eBook_Reader/releases/tag/1.2",
+    "comm_date": "2018-01-29T06:38:43Z",
+    "tag_name": "1.2",
+    "description": "[АРХІВ] PoC 3DS для читання електронних книг.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Luma3DSWeather",
+    "api_url": "https://api.github.com/repos/Dzhmelyk135/Luma3DSWeather",
+    "html_url": "https://github.com/Dzhmelyk135/Luma3DSWeather/releases/",
+    "comm_date": "2026-02-26T18:14:59Z",
+    "tag_name": "latest",
+    "description": "Працююча програма погоди для всіх консолей сімейства Nintendo 3DS. Працює навіть з меншими та менш відомими містами.(Українізовано🇺🇦)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Ollama3DS",
+    "api_url": "https://api.github.com/repos/Dzhmelyk135/Ollama3DS",
+    "html_url": "https://github.com/Dzhmelyk135/Ollama3DS/releases/tag/latest",
+    "comm_date": "2026-02-27T18:04:09Z",
+    "tag_name": "latest",
+    "description": "Клієнт ollama для висновків про модифіковану консоль(и) Nintendo 3DS (сімейства) із моделями на сервері OLLAMA",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Orchestrina",
+    "api_url": "https://api.github.com/repos/EBLeifEricson/orchestrina",
+    "html_url": "https://github.com/EBLeifEricson/orchestrina/releases/tag/v0.5.0-beta",
+    "comm_date": "2017-03-30T01:49:01Z",
+    "tag_name": "v0.5.0-beta",
+    "description": "Домашній музичний інструмент Legend of Zelda",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CTR Alarmo",
+    "api_url": "https://api.github.com/repos/FelixHomebrew/CtrAlarmo",
+    "html_url": "https://github.com/FelixHomebrew/CtrAlarmo/releases/tag/1.1.0",
+    "comm_date": "2026-02-17T03:16:07Z",
+    "tag_name": "1.1.0",
+    "description": "Дурний додаток-будильник для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "UpdateSuppressor",
+    "api_url": "https://api.github.com/repos/GiantBlargg/UpdateSuppressor",
+    "html_url": "https://github.com/GiantBlargg/UpdateSuppressor/releases/tag/v0.2.0",
+    "comm_date": "2016-01-21T08:10:53Z",
+    "tag_name": "v0.2.0",
+    "description": "Тимчасово блокує оновлення 3ds.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CtrRGBPAT2",
+    "api_url": "https://api.github.com/repos/Golem642/CtrRGBPAT2",
+    "html_url": "https://github.com/Golem642/CtrRGBPAT2/releases/tag/v2.5",
+    "comm_date": "2025-04-27T15:28:52Z",
+    "tag_name": "v2.5",
+    "description": "Модифікатор кольору та малюнка світлодіодів для 3DS. Налаштуйте свої сповіщення як завгодно!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "NFCheckRem",
+    "api_url": "https://api.github.com/repos/Golem642/NFCheckRem",
+    "html_url": "https://github.com/Golem642/NFCheckRem/releases/tag/3ds",
+    "comm_date": "2024-06-06T23:17:35Z",
+    "tag_name": "3ds",
+    "description": "Патч для консолей Nintendo, щоб видалити перевірку лише для читання на amiibos і дозволити перезаписувані теги Ntag215 NFC",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ravimid",
+    "api_url": "https://api.github.com/repos/Hoksy/ravimid",
+    "html_url": "https://github.com/Hoksy/ravimid/releases/tag/1.2",
+    "comm_date": "2016-11-08T23:24:17Z",
+    "tag_name": "1.2",
+    "description": "прагнення пірамідника врятувати свого батька",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CaptureAssistant",
+    "api_url": "https://api.github.com/repos/ItsDeidara/CaptureAssistant",
+    "html_url": "https://github.com/ItsDeidara/CaptureAssistant/releases/tag/1.3",
+    "comm_date": "2016-08-26T23:13:12Z",
+    "tag_name": "1.3",
+    "description": "Помічник вирівнювання захоплення для карт захоплення 3ds і NTRviewer",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Snake2DS",
+    "api_url": "https://api.github.com/repos/Jacudibu/Snake2DS",
+    "html_url": "https://github.com/Jacudibu/Snake2DS/releases/tag/v1.0",
+    "comm_date": "2016-06-16T14:28:38Z",
+    "tag_name": "v1.0",
+    "description": "Клон змії для Nintendo 3DS. Зроблено з LövePotion.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Sonic 1 / 2",
+    "api_url": "https://api.github.com/repos/JeffRuLz/Sonic-1-2-2013-Decompilation",
+    "html_url": "https://github.com/JeffRuLz/Sonic-1-2-2013-Decompilation/releases/tag/v1.3.0",
+    "comm_date": "2022-11-04T23:54:47Z",
+    "tag_name": "v1.3.0",
+    "description": "Перенесення Sonic 1 і 2 на 3DS на основі декомпіляції Sonic 1/2 (2013) від Rubberduckycooly",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Bart Bash",
+    "api_url": "https://api.github.com/repos/Jermurder/BartBash3ds",
+    "html_url": "https://github.com/Jermurder/BartBash3ds/releases/tag/1.67",
+    "comm_date": "2025-11-14T17:01:12Z",
+    "tag_name": "1.67",
+    "description": "Демейк гри Bart Bash для 3ds.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Flappy3DS",
+    "api_url": "https://api.github.com/repos/Komas19-new/flappy3DS",
+    "html_url": "https://github.com/Komas19-new/flappy3DS/releases/tag/v0.1.9",
+    "comm_date": "2023-05-29T16:42:45Z",
+    "tag_name": "v0.1.9",
+    "description": "Flappy3DS — це клон Flappy Bird для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3ds1010",
+    "api_url": "https://api.github.com/repos/LiquidFenrir/3ds1010",
+    "html_url": "https://github.com/LiquidFenrir/3ds1010/releases/tag/v2.0",
+    "comm_date": "2017-02-12T23:44:23Z",
+    "tag_name": "v2.0",
+    "description": "Порт 1010! до 3ds homebrew, створеного на C.\nЦе як тетріс, але з нескінченним часом ви програєте, коли більше не можете розмістити жодну з наявних у вас частин.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CalculaThreeDS",
+    "api_url": "https://api.github.com/repos/LiquidFenrir/CalculaThreeDS",
+    "html_url": "https://github.com/LiquidFenrir/CalculaThreeDS/releases/tag/v0.2",
+    "comm_date": "2021-01-10T11:32:55Z",
+    "tag_name": "v0.2",
+    "description": "Домашній науковий калькулятор 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "HexIsoPath",
+    "api_url": "https://api.github.com/repos/LiquidFenrir/HexIsoPath",
+    "html_url": "https://github.com/LiquidFenrir/HexIsoPath/releases/tag/v1.1.0",
+    "comm_date": "2018-01-02T15:26:49Z",
+    "tag_name": "v1.1.0",
+    "description": "Порт 3DS настільної гри Hexagonal Iso-Path від youtuber pocket83!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Yahtzee3DS",
+    "api_url": "https://api.github.com/repos/LiquidFenrir/Yahtzee3DS",
+    "html_url": "https://github.com/LiquidFenrir/Yahtzee3DS/releases/tag/v1.0.1",
+    "comm_date": "2018-06-27T16:13:44Z",
+    "tag_name": "v1.0.1",
+    "description": "Домашня гра 3ds про Yahtzee, яка включає багатокористувацьку гру на кількох консолях",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TJAP_3DS",
+    "api_url": "https://api.github.com/repos/LuMariGames/TJAP_3DS",
+    "html_url": "https://github.com/LuMariGames/TJAP_3DS/releases/tag/v2.2.1",
+    "comm_date": "2026-03-30T07:04:57Z",
+    "tag_name": "v2.2.1",
+    "description": "TJAPlayer для 3DS - музична гра файлу TJA.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Touch Keys",
+    "api_url": "https://api.github.com/repos/LuMariGames/Touch-Keys",
+    "html_url": "https://github.com/LuMariGames/Touch-Keys/releases/tag/v2.1.1",
+    "comm_date": "2025-05-16T01:53:48Z",
+    "tag_name": "v2.1.1",
+    "description": "押して擦る！お手軽音ゲー",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "DDLC-LOVE",
+    "api_url": "https://api.github.com/repos/LukeZGD/DDLC-LOVE",
+    "html_url": "https://github.com/LukeZGD/DDLC-LOVE/releases/tag/v1.2.3",
+    "comm_date": "2021-09-16T07:03:42Z",
+    "tag_name": "v1.2.3",
+    "description": "Неофіційний порт Doki Doki Literature Club на Lua для PS Vita та інших ігрових консолей",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "IP-Cam Viewer",
+    "api_url": "https://api.github.com/repos/MC-Gaming-59o/Homebrew-3DS-IP-Webcam-Viewer",
+    "html_url": "https://github.com/MC-Gaming-59o/Homebrew-3DS-IP-Webcam-Viewer/releases/tag/v0.1beta",
+    "comm_date": "2025-09-14T07:53:46Z",
+    "tag_name": "v0.1beta",
+    "description": "Перегляд IP-Cam для 3DS/2DS. Передає відео в реальному часі з пристроїв Android за допомогою IP Webcam або IP Webcam Pro. Бета-доказ концепції з керуванням факелом, спалахом і режимом ЛСД/Гриб. Рекомендована роздільна здатність 320x240.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3D Pinball - Space Cadet",
+    "api_url": "https://api.github.com/repos/MaikelChan/SpaceCadetPinball",
+    "html_url": "https://github.com/MaikelChan/SpaceCadetPinball/releases/tag/v0.3-wii",
+    "comm_date": "2024-02-08T17:54:03Z",
+    "tag_name": "v0.3-wii",
+    "description": "Wii і 3DS порти 3D Pinball - Space Cadet",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Evolution_Sav3D_Me",
+    "api_url": "https://api.github.com/repos/Manurocker95/Evolution_Sav3D_Me",
+    "html_url": "https://github.com/Manurocker95/Evolution_Sav3D_Me/releases/tag/Unity_Remake",
+    "comm_date": "2026-02-03T10:49:00Z",
+    "tag_name": "Unity_Remake",
+    "description": "Мавпа, яка хоче вижити!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TRekt_3D",
+    "api_url": "https://api.github.com/repos/Manurocker95/TRekt_3D",
+    "html_url": "https://github.com/Manurocker95/TRekt_3D/releases/tag/1.0",
+    "comm_date": "2017-08-27T09:49:35Z",
+    "tag_name": "1.0",
+    "description": "T-Rekt для 3DS на C++",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "WITB_3D",
+    "api_url": "https://api.github.com/repos/Manurocker95/WITB_3D",
+    "html_url": "https://github.com/Manurocker95/WITB_3D/releases/tag/1.1",
+    "comm_date": "2017-04-17T18:32:57Z",
+    "tag_name": "1.1",
+    "description": "Маленька гра для 3DS на C++",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "budgieSSH",
+    "api_url": "https://api.github.com/repos/Maxbrick/budgieSSH",
+    "html_url": "https://github.com/Maxbrick/budgieSSH/releases/tag/v0.0.2a",
+    "comm_date": "2025-06-01T15:15:35Z",
+    "tag_name": "v0.0.2a",
+    "description": "Клієнт SSH для 3DS, використовуючи libssh2+3ds-mbedtls і консоль libctru",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS-ParentalUnlock",
+    "api_url": "https://api.github.com/repos/MechanicalDragon0687/3DS-ParentalUnlock",
+    "html_url": "https://github.com/MechanicalDragon0687/3DS-ParentalUnlock/releases/tag/1.0.1",
+    "comm_date": "2020-05-28T05:55:43Z",
+    "tag_name": "1.0.1",
+    "description": "Видалення батьківських збережених даних (зняття батьківського блокування та COPPA)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "GYTB",
+    "api_url": "https://api.github.com/repos/MechanicalDragon0687/GYTB",
+    "html_url": "https://github.com/MechanicalDragon0687/GYTB/releases/tag/1.0",
+    "comm_date": "2019-02-02T20:53:45Z",
+    "tag_name": "1.0",
+    "description": "Надпростий власний бейдж для домашнього меню 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "MCU Bricker",
+    "api_url": "https://api.github.com/repos/MechanicalDragon0687/MCU_Bricker_tinydb",
+    "html_url": "https://github.com/MechanicalDragon0687/MCU_Bricker_tinydb/releases/tag/1.0",
+    "comm_date": "2019-04-01T01:27:47Z",
+    "tag_name": "1.0",
+    "description": "Змушує ваш світлодіод світитися веселкою.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ndsForwarder",
+    "api_url": "https://api.github.com/repos/MechanicalDragon0687/NDSForwarder",
+    "html_url": "https://github.com/MechanicalDragon0687/NDSForwarder/releases/tag/1.4.6",
+    "comm_date": "2023-03-23T21:58:05Z",
+    "tag_name": "1.4.6",
+    "description": "Створіть і встановіть NDS Forwarders",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TWLFix-CFW",
+    "api_url": "https://api.github.com/repos/MechanicalDragon0687/TWLFix-CFW",
+    "html_url": "https://github.com/MechanicalDragon0687/TWLFix-CFW/releases/tag/1.3.1",
+    "comm_date": "2022-12-02T14:04:27Z",
+    "tag_name": "1.3.1",
+    "description": "Видаліть стандартні програми TWL, щоб дозволити системі повторно інсталювати їх із CDN",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SatellaZone",
+    "api_url": "https://api.github.com/repos/MegaPika/SatellaZone",
+    "html_url": "https://github.com/MegaPika/SatellaZone/releases/tag/2.2.1",
+    "comm_date": "2024-05-01T15:19:30Z",
+    "tag_name": "2.2.1",
+    "description": "Відродження зони Nintendo для 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CSTimer-3DS",
+    "api_url": "https://api.github.com/repos/Menshion01/CSTimer-3DS",
+    "html_url": "https://github.com/Menshion01/CSTimer-3DS/releases/tag/1.1.0",
+    "comm_date": "2025-09-04T11:42:03Z",
+    "tag_name": "1.1.0",
+    "description": "Таймер Speed ​​Cubing для 3DS, що вшановує естетику Cstimer",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Notebook3DS",
+    "api_url": "https://api.github.com/repos/Milk-Cool/Notebook3DS",
+    "html_url": "https://github.com/Milk-Cool/Notebook3DS/releases/tag/release-1.1.0",
+    "comm_date": "2024-12-19T10:39:29Z",
+    "tag_name": "release-1.1.0",
+    "description": "Проста, але потужна програма для ноутбука для вашого 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SuDokuL",
+    "api_url": "https://api.github.com/repos/Mode8fx/SuDokuL",
+    "html_url": "https://github.com/Mode8fx/SuDokuL/releases/tag/v1.43",
+    "comm_date": "2025-11-29T04:35:45Z",
+    "tag_name": "v1.43",
+    "description": "Судоку, створене за допомогою SDL2",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Trogdor: Reburninated",
+    "api_url": "https://api.github.com/repos/Mode8fx/Trogdor-Reburninated",
+    "html_url": "https://github.com/Mode8fx/Trogdor-Reburninated/releases/tag/v2.32",
+    "comm_date": "2025-11-29T04:53:43Z",
+    "tag_name": "v2.32",
+    "description": "Спалити село!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Blockamok Remix",
+    "api_url": "https://api.github.com/repos/Mode8fx/blockamok",
+    "html_url": "https://github.com/Mode8fx/blockamok/releases/tag/v1.21",
+    "comm_date": "2025-11-29T05:09:56Z",
+    "tag_name": "v1.21",
+    "description": "Ухиляйтеся від вхідних блоків!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "DOSBox",
+    "api_url": "https://api.github.com/repos/MrHuu/dosbox-3ds",
+    "html_url": "https://github.com/MrHuu/dosbox-3ds/releases/tag/v0.0.3",
+    "comm_date": "2023-05-10T21:47:40Z",
+    "tag_name": "v0.0.3",
+    "description": "Порт DOSBox-SVN для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "openbor-3ds",
+    "api_url": "https://api.github.com/repos/MrHuu/openbor-3ds",
+    "html_url": "https://github.com/MrHuu/openbor-3ds/releases/tag/v0.0.6",
+    "comm_date": "2022-08-24T21:57:13Z",
+    "tag_name": "v0.0.6",
+    "description": "OpenBOR — це найкращий двовимірний механізм бічної прокрутки для битв, шутерів тощо!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "opentitus-3ds",
+    "api_url": "https://api.github.com/repos/MrHuu/opentitus-3ds",
+    "html_url": "https://github.com/MrHuu/opentitus-3ds/releases/tag/27-12-2018",
+    "comm_date": "2018-12-27T00:34:34Z",
+    "tag_name": "27-12-2018",
+    "description": "Перенесення ігрового движка на DOS-версії Лиса Тита та Моктара",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Demo-Reset",
+    "api_url": "https://api.github.com/repos/NPXTobi/Demo-Reset",
+    "html_url": "https://github.com/NPXTobi/Demo-Reset/releases/tag/1.0.0",
+    "comm_date": "2020-07-17T12:26:01Z",
+    "tag_name": "1.0.0",
+    "description": "Ця програма скидає демо-лічильник 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "BootNTR",
+    "api_url": "https://api.github.com/repos/Nanquitas/BootNTR",
+    "html_url": "https://github.com/Nanquitas/BootNTR/releases/tag/v2.13.7",
+    "comm_date": "2022-08-30T10:45:54Z",
+    "tag_name": "v2.13.7",
+    "description": "Додано автоматично",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Forecast",
+    "api_url": "https://api.github.com/repos/NatTupper/Forecast",
+    "html_url": "https://github.com/NatTupper/Forecast/releases/tag/v1.0.1",
+    "comm_date": "2017-07-25T12:39:57Z",
+    "tag_name": "v1.0.1",
+    "description": "Додаток погоди для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Omega",
+    "api_url": "https://api.github.com/repos/Omega-Numworks/Omega",
+    "html_url": "https://github.com/Omega-Numworks/Omega/releases/tag/O2.0.4-E15",
+    "comm_date": "2022-12-29T00:17:52Z",
+    "tag_name": "O2.0.4-E15",
+    "description": "Omega 2.0, наступна еволюція Epsilon! Тепер доступний для вашого калькулятора Numworks!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Smash Amiibo Cheat Tool",
+    "api_url": "https://api.github.com/repos/Ordim3n/Smash-Amiibo-Cheat-Tool",
+    "html_url": "https://github.com/Ordim3n/Smash-Amiibo-Cheat-Tool/releases/tag/2.0",
+    "comm_date": "2017-01-27T00:03:00Z",
+    "tag_name": "2.0",
+    "description": "Зламайте ваші amiibos одним дотиком",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "LimePlayer3DS",
+    "api_url": "https://api.github.com/repos/Oreo639/LimePlayer3DS",
+    "html_url": "https://github.com/Oreo639/LimePlayer3DS/releases/tag/v0.0.10",
+    "comm_date": "2021-05-15T07:58:46Z",
+    "tag_name": "v0.0.10",
+    "description": "Музичний програвач Gui для Nintendo 3DS (wip)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "EzB9SUpdater",
+    "api_url": "https://api.github.com/repos/PabloMK7/EzB9SUpdater",
+    "html_url": "https://github.com/PabloMK7/EzB9SUpdater/releases/tag/v1.0.1",
+    "comm_date": "2025-08-24T12:26:41Z",
+    "tag_name": "v1.0.1",
+    "description": "Простий засіб оновлення Boot9Strap для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "kartdlphax",
+    "api_url": "https://api.github.com/repos/PabloMK7/kartdlphax",
+    "html_url": "https://github.com/PabloMK7/kartdlphax/releases/tag/v1.3.3",
+    "comm_date": "2023-07-24T23:07:13Z",
+    "tag_name": "v1.3.3",
+    "description": "Напівосновний експлойт Mario Kart 7 для Nintendo 3DS.\n\nПРИМІТКА. Це призначено лише для встановлення CFW, будь ласка, не використовуйте, якщо не дотримуєтеся посібника.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "LumaLocaleSwitcher",
+    "api_url": "https://api.github.com/repos/Possum/LumaLocaleSwitcher",
+    "html_url": "https://github.com/Possum/LumaLocaleSwitcher/releases/tag/0.04",
+    "comm_date": "2017-04-22T18:55:03Z",
+    "tag_name": "0.04",
+    "description": "Передній кінець сумісної системи локалізації Luma3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "HokakuCTR",
+    "api_url": "https://api.github.com/repos/PretendoNetwork/HokakuCTR",
+    "html_url": "https://github.com/PretendoNetwork/HokakuCTR/releases/tag/v1.0.3",
+    "comm_date": "2024-04-02T17:28:11Z",
+    "tag_name": "v1.0.3",
+    "description": "Ігровий плагін 3DS (3GX) для скидання зв’язку RMC між іграми 3DS і NEX. Трафік скидається на SD у файли pcap.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Nimbus",
+    "api_url": "https://api.github.com/repos/PretendoNetwork/nimbus",
+    "html_url": "https://github.com/PretendoNetwork/nimbus/releases/tag/v2.1.0",
+    "comm_date": "2026-02-15T15:52:53Z",
+    "tag_name": "v2.1.0",
+    "description": "Ддаток для гри онлайн",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Terminal Clicker",
+    "api_url": "https://api.github.com/repos/PyJulian/termiclicker3ds",
+    "html_url": "https://github.com/PyJulian/termiclicker3ds/releases/tag/fsrelease",
+    "comm_date": "2025-12-14T14:34:26Z",
+    "tag_name": "fsrelease",
+    "description": "Клікер термінального інтерфейсу для 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Notepad3DS",
+    "api_url": "https://api.github.com/repos/RMcTn/Notepad3DS",
+    "html_url": "https://github.com/RMcTn/Notepad3DS/releases/tag/1.1.2",
+    "comm_date": "2017-12-06T15:58:06Z",
+    "tag_name": "1.1.2",
+    "description": "Текстовий редактор для консолі Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Craftus Reloaded",
+    "api_url": "https://api.github.com/repos/RSDuck/craftus_reloaded",
+    "html_url": "https://github.com/RSDuck/craftus_reloaded/releases/tag/0.3",
+    "comm_date": "2020-11-18T00:15:43Z",
+    "tag_name": "0.3",
+    "description": "Друга спроба домашнього клонування Minecraft для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Atari800 (RandomMan25XX)",
+    "api_url": "https://api.github.com/repos/RandomMan25XX/atari800",
+    "html_url": "https://github.com/RandomMan25XX/atari800/releases/tag/Version_3DS_0.3.10",
+    "comm_date": "2024-01-21T05:15:33Z",
+    "tag_name": "Version_3DS_0.3.10",
+    "description": "8-розрядний комп'ютер Atari та емулятор консолі 5200 - неофіційний випуск ЦРУ",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Vapecord-ACNL-Plugin",
+    "api_url": "https://api.github.com/repos/RedShyGuy/Vapecord-ACNL-Plugin",
+    "html_url": "https://github.com/RedShyGuy/Vapecord-ACNL-Plugin/releases/tag/v3.2.1",
+    "comm_date": "2026-03-14T08:39:11Z",
+    "tag_name": "v3.2.1",
+    "description": "Animal Crossing NL Vapecord Public Plugin WIP",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Super-Haxagon",
+    "api_url": "https://api.github.com/repos/RedTopper/Super-Haxagon",
+    "html_url": "https://github.com/RedTopper/Super-Haxagon/releases/tag/3.9.1",
+    "comm_date": "2025-04-23T00:23:28Z",
+    "tag_name": "3.9.1",
+    "description": "Супершестигранний клон",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "OmniSpeak-3DS",
+    "api_url": "https://api.github.com/repos/RetroGamer02/omnispeak-3ds",
+    "html_url": "https://github.com/RetroGamer02/omnispeak-3ds/releases/tag/3ds-V1.0.2",
+    "comm_date": "2025-09-30T10:17:37Z",
+    "tag_name": "3ds-V1.0.2",
+    "description": "Повторна реалізація «Commander Keen in Goodbye Galaxy» із відкритим кодом",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DSBank",
+    "api_url": "https://api.github.com/repos/RocketRobz/3DSBank",
+    "html_url": "https://github.com/RocketRobz/3DSBank/releases/tag/v1.1",
+    "comm_date": "2020-11-04T01:21:35Z",
+    "tag_name": "v1.1",
+    "description": "Селектор папок \"Nintendo 3DS\".",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "HoriHD-Gallery",
+    "api_url": "https://api.github.com/repos/RocketRobz/HoriHD-Gallery",
+    "html_url": "https://github.com/RocketRobz/HoriHD-Gallery/releases/tag/v1.0.2",
+    "comm_date": "2020-06-21T01:28:09Z",
+    "tag_name": "v1.0.2",
+    "description": "Демонстрація режиму 800px на консолях 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "DS Forwarder Packs",
+    "api_url": "https://api.github.com/repos/RocketRobz/NTR_Forwarder",
+    "html_url": "https://github.com/RocketRobz/NTR_Forwarder/releases/tag/SD-28",
+    "comm_date": "2026-03-17T22:34:22Z",
+    "tag_name": "SD-28",
+    "description": "Базові пакети пересилачів для використання з пересилачами Forwarder3-DS і NDSForwarder",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SavvyManager",
+    "api_url": "https://api.github.com/repos/RocketRobz/SavvyManager",
+    "html_url": "https://github.com/RocketRobz/SavvyManager/releases/tag/v3.5.0",
+    "comm_date": "2025-03-04T02:18:31Z",
+    "tag_name": "v3.5.0",
+    "description": "Редактор/менеджер збереження для ігор Girls Mode/Girls Style/Style Savvy/Style Boutique на Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Super Photo Studio",
+    "api_url": "https://api.github.com/repos/RocketRobz/SuperPhotoStudio",
+    "html_url": "https://github.com/RocketRobz/SuperPhotoStudio/releases/tag/v1.1.0",
+    "comm_date": "2024-12-26T04:35:57Z",
+    "tag_name": "v1.1.0",
+    "description": "Сфотографуйте улюблених героїв відеоігор у чудовому Horizon HD (режим 800 пікселів)!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Cthulhu",
+    "api_url": "https://api.github.com/repos/Ryuzaki-MrL/Cthulhu",
+    "html_url": "https://github.com/Ryuzaki-MrL/Cthulhu/releases/tag/1.3.5",
+    "comm_date": "2019-11-28T09:08:38Z",
+    "tag_name": "1.3.5",
+    "description": "Домашня альтернатива програмному забезпеченню для розробників Nintendo",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "NotifyMii",
+    "api_url": "https://api.github.com/repos/Ryuzaki-MrL/NotifyMii",
+    "html_url": "https://github.com/Ryuzaki-MrL/NotifyMii/releases/tag/1.2",
+    "comm_date": "2016-05-24T15:23:21Z",
+    "tag_name": "1.2",
+    "description": "Homebrew Notification Manager для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "RomFS Explorer",
+    "api_url": "https://api.github.com/repos/Ryuzaki-MrL/RomFS-Explorer",
+    "html_url": "https://github.com/Ryuzaki-MrL/RomFS-Explorer/releases/tag/v1.0.1",
+    "comm_date": "2016-10-31T03:29:48Z",
+    "tag_name": "v1.0.1",
+    "description": "Файловий провідник і дампер RomFS для ігор Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "MK7 Plugin DX",
+    "api_url": "https://api.github.com/repos/SFC-hacker/Mario-Kart-7-Plugin-Deluxe",
+    "html_url": "https://github.com/SFC-hacker/Mario-Kart-7-Plugin-Deluxe/releases/tag/v3.0.6",
+    "comm_date": "2025-06-02T12:14:01Z",
+    "tag_name": "v3.0.6",
+    "description": "Досконалий чіт-плагін для Mario Kart 7, тепер із античитом!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "qtmStub",
+    "api_url": "https://api.github.com/repos/SNBeast/qtmStub",
+    "html_url": "https://github.com/SNBeast/qtmStub/releases/tag/v1.0.0",
+    "comm_date": "2026-01-19T18:06:38Z",
+    "tag_name": "v1.0.0",
+    "description": "Патч для обходу помилки qtm 0xf9605002",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "PayloadSpinner3DS",
+    "api_url": "https://api.github.com/repos/SaturnSH2x2/PayloadSpinner3DS",
+    "html_url": "https://github.com/SaturnSH2x2/PayloadSpinner3DS/releases/tag/v1.2",
+    "comm_date": "2017-10-28T21:00:21Z",
+    "tag_name": "v1.2",
+    "description": "Перемикач корисного навантаження Boot9Strap",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Sonic Mania",
+    "api_url": "https://api.github.com/repos/SaturnSH2x2/RSDKv5-Decompilation",
+    "html_url": "https://github.com/SaturnSH2x2/RSDKv5-Decompilation/releases/tag/v1.1.0",
+    "comm_date": "2025-05-08T00:17:23Z",
+    "tag_name": "v1.1.0",
+    "description": "Sonic Mania (лише n3DS)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Scratch Everywhere!",
+    "api_url": "https://api.github.com/repos/ScratchEverywhere/ScratchEverywhere",
+    "html_url": "https://github.com/ScratchEverywhere/ScratchEverywhere/releases/tag/0.38.1",
+    "comm_date": "2026-03-29T12:43:30Z",
+    "tag_name": "0.38.1",
+    "description": "Грайте в ігри Scratch на своєму 3DS!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "GameYob (3DS)",
+    "api_url": "https://api.github.com/repos/SombrAbsol/GameYob-3DS",
+    "html_url": "https://github.com/SombrAbsol/GameYob-3DS/releases/tag/1.0.8",
+    "comm_date": "2021-10-09T18:41:41Z",
+    "tag_name": "1.0.8",
+    "description": "Порт 3DS GameYob, емулятор [Super] Game Boy [Color] для Nintendo DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Falling Blocks Watch Out",
+    "api_url": "https://api.github.com/repos/Spaqin/fbwo-3ds",
+    "html_url": "https://github.com/Spaqin/fbwo-3ds/releases/tag/v0.4.1",
+    "comm_date": "2016-03-06T09:43:45Z",
+    "tag_name": "v0.4.1",
+    "description": "Falling Blocks Watch Out, домашній клон 3DS Tetris.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "RTChanger",
+    "api_url": "https://api.github.com/repos/Storm-Eagle20/RTChanger",
+    "html_url": "https://github.com/Storm-Eagle20/RTChanger/releases/tag/1.0",
+    "comm_date": "2017-07-31T14:06:14Z",
+    "tag_name": "1.0",
+    "description": "Програма Nintendo 3DS Homebrew, яка дозволяє кінцевому користувачеві вільно змінювати (Raw) RTC системи, щоб обійти ліміт часу.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS vJoy Controller",
+    "api_url": "https://api.github.com/repos/StringJan/3ds-vJoy-controller",
+    "html_url": "https://github.com/StringJan/3ds-vJoy-controller/releases/tag/v1.1",
+    "comm_date": "2024-05-04T11:14:06Z",
+    "tag_name": "v1.1",
+    "description": "Використовуйте свій 3DS як контролер vJoy для свого ПК",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CPyMO",
+    "api_url": "https://api.github.com/repos/Strrationalism/CPyMO",
+    "html_url": "https://github.com/Strrationalism/CPyMO/releases/tag/v1.1.9",
+    "comm_date": "2023-08-14T15:24:56Z",
+    "tag_name": "v1.1.9",
+    "description": "Реалізація PyMO AVG Game Engine на C.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DSoundboard",
+    "api_url": "https://api.github.com/repos/Sunrase/3DSoundboard",
+    "html_url": "https://github.com/Sunrase/3DSoundboard/releases/tag/1.0",
+    "comm_date": "2025-05-01T20:02:22Z",
+    "tag_name": "1.0",
+    "description": "Дозволяє використовувати ваш 3ds як деку.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Pong Pokemon",
+    "api_url": "https://api.github.com/repos/Sunrase/Pong-Pokemon-3ds",
+    "html_url": "https://github.com/Sunrase/Pong-Pokemon-3ds/releases/tag/4.0",
+    "comm_date": "2024-06-13T14:29:51Z",
+    "tag_name": "4.0",
+    "description": "Гра в понг для 3ds з покемонами як основною темою.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DElf",
+    "api_url": "https://api.github.com/repos/SuperSaiyajinStackZ/3DElf",
+    "html_url": "https://github.com/SuperSaiyajinStackZ/3DElf/releases/tag/v0.2.0",
+    "comm_date": "2020-10-07T20:51:16Z",
+    "tag_name": "v0.2.0",
+    "description": "Ein \"Elfer raus!\" клон для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DZwei",
+    "api_url": "https://api.github.com/repos/SuperSaiyajinStackZ/3DZwei",
+    "html_url": "https://github.com/SuperSaiyajinStackZ/3DZwei/releases/tag/git",
+    "comm_date": "2025-12-29T11:14:53Z",
+    "tag_name": "git",
+    "description": "Клон карти пам'яті для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "LeafEdit-Pattern-Editor",
+    "api_url": "https://api.github.com/repos/SuperSaiyajinStackZ/LeafEdit-Pattern-Editor",
+    "html_url": "https://github.com/SuperSaiyajinStackZ/LeafEdit-Pattern-Editor/releases/tag/v0.4.0",
+    "comm_date": "2020-08-29T12:45:26Z",
+    "tag_name": "v0.4.0",
+    "description": "Це редактор шаблонів LeafEdit також як окрема програма!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Ludo3DS",
+    "api_url": "https://api.github.com/repos/SuperSaiyajinStackZ/Ludo3DS",
+    "html_url": "https://github.com/SuperSaiyajinStackZ/Ludo3DS/releases/tag/v0.4.0",
+    "comm_date": "2021-01-24T23:00:01Z",
+    "tag_name": "v0.4.0",
+    "description": "Клон Людо для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "PKCount",
+    "api_url": "https://api.github.com/repos/SuperSaiyajinStackZ/PKCount",
+    "html_url": "https://github.com/SuperSaiyajinStackZ/PKCount/releases/tag/v0.0.2",
+    "comm_date": "2019-12-27T20:44:30Z",
+    "tag_name": "v0.0.2",
+    "description": "Інструмент для знайомства з Pokemon Shiny.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "StackMill",
+    "api_url": "https://api.github.com/repos/SuperSaiyajinStackZ/StackMill",
+    "html_url": "https://github.com/SuperSaiyajinStackZ/StackMill/releases/tag/v0.5.0",
+    "comm_date": "2022-01-24T21:23:43Z",
+    "tag_name": "v0.5.0",
+    "description": "Клон гри «Млин» для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ModMoon",
+    "api_url": "https://api.github.com/repos/Swiftloke/ModMoon",
+    "html_url": "https://github.com/Swiftloke/ModMoon/releases/tag/v3.0.1",
+    "comm_date": "2018-09-29T16:45:22Z",
+    "tag_name": "v3.0.1",
+    "description": "Менеджер модів для 3DS із привабливими функціями та інтерфейсом користувача.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Żappka3DS",
+    "api_url": "https://api.github.com/repos/TehFridge/Zappka3DS",
+    "html_url": "https://github.com/TehFridge/Zappka3DS/releases/tag/v2.0.41",
+    "comm_date": "2026-02-06T03:20:25Z",
+    "tag_name": "v2.0.41",
+    "description": "Отримайте свій Żappsy™ з Żappka3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Level256 Installer",
+    "api_url": "https://api.github.com/repos/Tekito-256/level256-installer",
+    "html_url": "https://github.com/Tekito-256/level256-installer/releases/tag/v1.0.0",
+    "comm_date": "2025-03-14T14:03:21Z",
+    "tag_name": "v1.0.0",
+    "description": "Додано автоматично",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS Button Tester",
+    "api_url": "https://api.github.com/repos/TheCoolesttOne/3DS-Button-Test",
+    "html_url": "https://github.com/TheCoolesttOne/3DS-Button-Test/releases/tag/V1",
+    "comm_date": "2024-09-13T22:43:20Z",
+    "tag_name": "V1",
+    "description": "програма для усунення несправностей 3DS Homebrew для тестування кожної окремої кнопки",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Cube Adventures",
+    "api_url": "https://api.github.com/repos/TheHighTide/CubeAdventures",
+    "html_url": "https://github.com/TheHighTide/CubeAdventures/releases/tag/0.1.0",
+    "comm_date": "2025-03-29T21:30:04Z",
+    "tag_name": "0.1.0",
+    "description": "Простий 2D платформер для системи 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Game Tipper",
+    "api_url": "https://api.github.com/repos/TheHighTide/GameTipper3DS",
+    "html_url": "https://github.com/TheHighTide/GameTipper3DS/releases/tag/0.3.0",
+    "comm_date": "2025-06-10T03:52:44Z",
+    "tag_name": "0.3.0",
+    "description": "Програма 3DS, яка дасть вам поради щодо вашої ігрової подорожі у вашій системі 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Wordle Terminal 3DS",
+    "api_url": "https://api.github.com/repos/TheHighTide/WordleTerminal3DS",
+    "html_url": "https://github.com/TheHighTide/WordleTerminal3DS/releases/tag/1.0.0",
+    "comm_date": "2025-06-11T02:36:22Z",
+    "tag_name": "1.0.0",
+    "description": "Базовий порт Wordle для 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TheXTech",
+    "api_url": "https://api.github.com/repos/TheXTech/TheXTech",
+    "html_url": "https://github.com/TheXTech/TheXTech/releases/tag/v1.3.7.2-1",
+    "comm_date": "2025-12-28T10:08:55Z",
+    "tag_name": "v1.3.7.2-1",
+    "description": "Повний порт механізму SMBX з VB6 на C++ і SDL2, FreeImage і MixerX",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3ds-vgmstream",
+    "api_url": "https://api.github.com/repos/TricksterGuy/3ds-vgmstream",
+    "html_url": "https://github.com/TricksterGuy/3ds-vgmstream/releases/tag/v0.2.0",
+    "comm_date": "2016-07-11T07:32:44Z",
+    "tag_name": "v0.2.0",
+    "description": "Порт vgmstream для nintendo 3ds разом з плеєром",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Bottomless Block Barrage",
+    "api_url": "https://api.github.com/repos/TricksterGuy/bottomless-block-barrage",
+    "html_url": "https://github.com/TricksterGuy/bottomless-block-barrage/releases/tag/v0.2.0",
+    "comm_date": "2017-09-11T08:23:56Z",
+    "tag_name": "v0.2.0",
+    "description": "Panel de Pon (Tetris Attack) клон для 3ds.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SmileBASIC File Manager",
+    "api_url": "https://api.github.com/repos/Trinitro21/lpp-3ds",
+    "html_url": "https://github.com/Trinitro21/lpp-3ds/releases/tag/sbfm1.7",
+    "comm_date": "2019-05-08T20:03:37Z",
+    "tag_name": "sbfm1.7",
+    "description": "Файловий менеджер SmileBASIC",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Bandolero 3DS",
+    "api_url": "https://api.github.com/repos/Tristanabs/bandolero3ds",
+    "html_url": "https://github.com/Tristanabs/bandolero3ds/releases/tag/1.5RU",
+    "comm_date": "2025-05-18T15:34:19Z",
+    "tag_name": "1.5RU",
+    "description": "Редактор тексту для 3D",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Antibounce",
+    "api_url": "https://api.github.com/repos/TurtleP/Antibounce",
+    "html_url": "https://github.com/TurtleP/Antibounce/releases/tag/2.0.0",
+    "comm_date": "2020-08-15T19:51:05Z",
+    "tag_name": "2.0.0",
+    "description": "Гра A Ludum Dare #34",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Hax0r",
+    "api_url": "https://api.github.com/repos/TurtleP/Hax0r",
+    "html_url": "https://github.com/TurtleP/Hax0r/releases/tag/v1.2",
+    "comm_date": "2016-07-08T01:43:21Z",
+    "tag_name": "v1.2",
+    "description": "Гра A Ludum Dare #33",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TurtleInvaders",
+    "api_url": "https://api.github.com/repos/TurtleP/TurtleInvaders",
+    "html_url": "https://github.com/TurtleP/TurtleInvaders/releases/tag/v1.0.2",
+    "comm_date": "2016-06-30T04:51:24Z",
+    "tag_name": "v1.0.2",
+    "description": "Шутер із фіксованою віссю та мережею",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TWLSaveTool",
+    "api_url": "https://api.github.com/repos/TuxSH/TWLSaveTool",
+    "html_url": "https://github.com/TuxSH/TWLSaveTool/releases/tag/v1.2.1",
+    "comm_date": "2024-09-22T16:28:37Z",
+    "tag_name": "v1.2.1",
+    "description": "Додаток 3DS homebrew, який дозволяє читати, записувати та стирати файли збереження з картриджів NDS (2015-2016)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "aurorachat",
+    "api_url": "https://api.github.com/repos/Unitendo/aurorachat",
+    "html_url": "https://github.com/Unitendo/aurorachat/releases/tag/v0.5.0",
+    "comm_date": "2026-03-29T23:55:14Z",
+    "tag_name": "v0.5.0",
+    "description": "Спілкування в реальному часі для 3DS, Wii, Wii U та Web",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DEins",
+    "api_url": "https://api.github.com/repos/Universal-Team/3DEins",
+    "html_url": "https://github.com/Universal-Team/3DEins/releases/tag/git",
+    "comm_date": "2025-12-29T11:00:41Z",
+    "tag_name": "git",
+    "description": "Карткова гра для Nintendo 3DS \u0026 DS(i)!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DVier",
+    "api_url": "https://api.github.com/repos/Universal-Team/3DVier",
+    "html_url": "https://github.com/Universal-Team/3DVier/releases/tag/git",
+    "comm_date": "2025-12-29T10:59:08Z",
+    "tag_name": "git",
+    "description": "Клон Connect-Four для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "LeafEdit",
+    "api_url": "https://api.github.com/repos/Universal-Team/LeafEdit",
+    "html_url": "https://github.com/Universal-Team/LeafEdit/releases/tag/git",
+    "comm_date": "2025-12-29T11:26:11Z",
+    "tag_name": "git",
+    "description": "Триває робота Animal Crossing: новий менеджер збереження та редактор Leaf для Nintendo 3DS!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Universal-Edit",
+    "api_url": "https://api.github.com/repos/Universal-Team/Universal-Edit",
+    "html_url": "https://github.com/Universal-Team/Universal-Edit/releases/tag/git",
+    "comm_date": "2025-12-29T11:44:45Z",
+    "tag_name": "git",
+    "description": "Універсально хороший текстовий редактор! :)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "PrBoom+",
+    "api_url": "https://api.github.com/repos/Voxel9/PrBoom-Plus-3DS",
+    "html_url": "https://github.com/Voxel9/PrBoom-Plus-3DS/releases/tag/v1.0.0",
+    "comm_date": "2023-07-10T14:40:04Z",
+    "tag_name": "v1.0.0",
+    "description": "Порт PrBoom+ для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DWEB",
+    "api_url": "https://api.github.com/repos/WLHQ/3DWEB",
+    "html_url": "https://github.com/WLHQ/3DWEB/releases/tag/v1.0.2.1b",
+    "comm_date": "2026-03-13T00:20:05Z",
+    "tag_name": "v1.0.2.1b",
+    "description": "Веб-сервер, створений мовою C для 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "YANBF",
+    "api_url": "https://api.github.com/repos/YANBForwarder/YANBF",
+    "html_url": "https://github.com/YANBForwarder/YANBF/releases/tag/v1.6.3",
+    "comm_date": "2022-11-29T05:36:00Z",
+    "tag_name": "v1.6.3",
+    "description": "Ще один пересилач nds-bootstrap. Запускається з 3DS-режиму!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS-FileBrowser",
+    "api_url": "https://api.github.com/repos/ZIXT233/3DS-FileBrowser",
+    "html_url": "https://github.com/ZIXT233/3DS-FileBrowser/releases/tag/v1.0.0",
+    "comm_date": "2026-02-14T20:37:33Z",
+    "tag_name": "v1.0.0",
+    "description": "Файловий менеджер HTTP для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CIA Installer",
+    "api_url": "https://api.github.com/repos/Zachary-Rude/CIA-Installer",
+    "html_url": "https://github.com/Zachary-Rude/CIA-Installer/releases/tag/v1.1.0",
+    "comm_date": "2025-06-11T18:28:29Z",
+    "tag_name": "v1.1.0",
+    "description": "Проста програма для встановлення файлів CIA",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Snake for 3DS",
+    "api_url": "https://api.github.com/repos/Zachary-Rude/Snake-for-3DS",
+    "html_url": "https://github.com/Zachary-Rude/Snake-for-3DS/releases/tag/v1.3",
+    "comm_date": "2023-10-11T23:32:53Z",
+    "tag_name": "v1.3",
+    "description": "Базовий клон Snake для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "WifiManager",
+    "api_url": "https://api.github.com/repos/Zakary2841/WifiManager",
+    "html_url": "https://github.com/Zakary2841/WifiManager/releases/tag/v1.2",
+    "comm_date": "2026-01-26T02:52:49Z",
+    "tag_name": "v1.2",
+    "description": "WifiManager — це проста домашня програма 3ds, призначена для резервного копіювання та відновлення слотів Wi-Fi консолі.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3dfetch",
+    "api_url": "https://api.github.com/repos/aliceinpalth/3dfetch",
+    "html_url": "https://github.com/aliceinpalth/3dfetch/releases/tag/1.10",
+    "comm_date": "2017-07-09T20:31:19Z",
+    "tag_name": "1.10",
+    "description": "🍂 Відображає різноманітну інформацію про вашу Nintendo 3DS у гарних кольорах.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Pie3DS",
+    "api_url": "https://api.github.com/repos/amedeo463/pie3ds",
+    "html_url": "https://github.com/amedeo463/pie3ds/releases/tag/release",
+    "comm_date": "2024-05-04T19:03:35Z",
+    "tag_name": "release",
+    "description": "Проста програма, яка обчислює Пі",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Angband",
+    "api_url": "https://api.github.com/repos/angband/angband",
+    "html_url": "https://github.com/angband/angband/releases/tag/4.2.6-78-g4ce58ed04",
+    "comm_date": "2026-03-24T13:19:06Z",
+    "tag_name": "4.2.6-78-g4ce58ed04",
+    "description": "Безкоштовна однокористувацька гра в стилі roguelike для дослідження підземелля",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "RanGen-3DS",
+    "api_url": "https://api.github.com/repos/ashbit06/RanGen-3DS",
+    "html_url": "https://github.com/ashbit06/RanGen-3DS/releases/tag/v0.1.1-alpha",
+    "comm_date": "2026-01-29T06:49:50Z",
+    "tag_name": "v0.1.1-alpha",
+    "description": "Випадковий платформер, тепер для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Atari800",
+    "api_url": "https://api.github.com/repos/asiekierka/atari800-3ds",
+    "html_url": "https://github.com/asiekierka/atari800-3ds/releases/tag/port-3ds/v0.3.10",
+    "comm_date": "2024-01-20T07:15:34Z",
+    "tag_name": "port-3ds/v0.3.10",
+    "description": "8-розрядний комп'ютер Atari і емулятор консолі 5200 - порт 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "uxnds",
+    "api_url": "https://api.github.com/repos/asiekierka/uxnds",
+    "html_url": "https://github.com/asiekierka/uxnds/releases/tag/v0.5.3",
+    "comm_date": "2025-03-30T12:09:54Z",
+    "tag_name": "v0.5.3",
+    "description": "Відгалуження/порт NDS/3DS віртуальної машини uxn/Varvara",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TinyVNC",
+    "api_url": "https://api.github.com/repos/badda71/TinyVNC",
+    "html_url": "https://github.com/badda71/TinyVNC/releases/tag/2.0.1",
+    "comm_date": "2024-10-22T20:46:14Z",
+    "tag_name": "2.0.1",
+    "description": "Програма перегляду VNC для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "uae3DS",
+    "api_url": "https://api.github.com/repos/badda71/uae3DS",
+    "html_url": "https://github.com/badda71/uae3DS/releases/tag/1.0",
+    "comm_date": "2020-06-23T15:01:36Z",
+    "tag_name": "1.0",
+    "description": "Перенесення емулятора UAE4ALL Amiga 500 від Chui на Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "vice3DS",
+    "api_url": "https://api.github.com/repos/badda71/vice3ds",
+    "html_url": "https://github.com/badda71/vice3ds/releases/tag/2.4.2",
+    "comm_date": "2023-02-11T20:33:51Z",
+    "tag_name": "2.4.2",
+    "description": "Перенесення емулятора VICE C64 (x64) на 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Anarch",
+    "api_url": "https://api.github.com/repos/blitzdoughnuts/AnarchDEVKIT",
+    "html_url": "https://github.com/blitzdoughnuts/AnarchDEVKIT/releases/latest",
+    "comm_date": "2000-01-01T00:00:00Z",
+    "tag_name": "v0.0.0",
+    "description": "Безглузда гра FPS, розроблена Мілославом Цизом, перенесена на 3DS мною за допомогою devkitpro.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "VirtuaNES",
+    "api_url": "https://api.github.com/repos/bubble2k16/emus3ds",
+    "html_url": "https://github.com/bubble2k16/emus3ds/releases/tag/v1.02",
+    "comm_date": "2018-03-20T16:53:38Z",
+    "tag_name": "v1.02",
+    "description": "VirtuaNES високосумісний емулятор NES для вашої старої 3DS або 2DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "PicoDrive",
+    "api_url": "https://api.github.com/repos/bubble2k16/picodrive_3ds",
+    "html_url": "https://github.com/bubble2k16/picodrive_3ds/releases/tag/v0.94",
+    "comm_date": "2018-03-24T02:19:48Z",
+    "tag_name": "v0.94",
+    "description": "Це перенесення емулятора PicoDrive від Notaz на стару 3DS і стару 2DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Snes9x",
+    "api_url": "https://api.github.com/repos/bubble2k16/snes9x_3ds",
+    "html_url": "https://github.com/bubble2k16/snes9x_3ds/releases/tag/v1.30",
+    "comm_date": "2018-03-24T01:43:21Z",
+    "tag_name": "v1.30",
+    "description": "Порт SNES9x для 3DS / 2DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TemperPCE",
+    "api_url": "https://api.github.com/repos/bubble2k16/temperpce_3ds",
+    "html_url": "https://github.com/bubble2k16/temperpce_3ds/releases/tag/v1.02",
+    "comm_date": "2018-03-19T15:38:20Z",
+    "tag_name": "v1.02",
+    "description": "Це перенесення емулятора Exophase Temper (TurboGrafx/PC-Engine) на стару 3DS і стару 2DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "custom-yacht-3ds",
+    "api_url": "https://api.github.com/repos/chalenged/custom-yacht-3ds",
+    "html_url": "https://github.com/chalenged/custom-yacht-3ds/releases/tag/v1.0.0",
+    "comm_date": "2026-01-01T18:52:49Z",
+    "tag_name": "v1.0.0",
+    "description": "Настроювана гра в кості на яхті для 3ds із використанням любовного зілля",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Dead Pixel Checker",
+    "api_url": "https://api.github.com/repos/classyham/3DS_DeadPixelChecker",
+    "html_url": "https://github.com/classyham/3DS_DeadPixelChecker/releases/tag/1.0",
+    "comm_date": "2025-03-11T18:59:50Z",
+    "tag_name": "1.0",
+    "description": "Невелика програма, написана за допомогою Citro2D, для циклічного зміни типових кольорів на екрані для перевірки мертвих пікселів.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SaveSync",
+    "api_url": "https://api.github.com/repos/coolguy1842/SaveSync",
+    "html_url": "https://github.com/coolguy1842/SaveSync/releases/tag/v1.1.0",
+    "comm_date": "2025-12-28T02:18:39Z",
+    "tag_name": "v1.1.0",
+    "description": "Дозволяє легко копіювати збереження з одного 3DS або емулятора в інший",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "The Pirate Launcher",
+    "api_url": "https://api.github.com/repos/cooolgamer/the-pirate-launcher",
+    "html_url": "https://github.com/cooolgamer/the-pirate-launcher/releases/tag/v2.4.3-d.c",
+    "comm_date": "2025-06-22T21:52:31Z",
+    "tag_name": "v2.4.3-d.c",
+    "description": "Жарт Pirate Launcher з Wii, тепер на 3ds! Також надає функції налагодження",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Better-NFCReader",
+    "api_url": "https://api.github.com/repos/cylin577/Better-NFCReader",
+    "html_url": "https://github.com/cylin577/Better-NFCReader/releases/tag/v2.3.0",
+    "comm_date": "2025-11-08T11:30:18Z",
+    "tag_name": "v2.3.0",
+    "description": "Читайте теги 0x7 NFC/RFID!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CTRXplorer",
+    "api_url": "https://api.github.com/repos/d0k3/CTRXplorer",
+    "html_url": "https://github.com/d0k3/CTRXplorer/releases/tag/v0.9.8.1",
+    "comm_date": "2017-02-08T11:36:20Z",
+    "tag_name": "v0.9.8.1",
+    "description": "SD Explorer з відкритим кодом для 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SafeB9SInstaller",
+    "api_url": "https://api.github.com/repos/d0k3/SafeB9SInstaller",
+    "html_url": "https://github.com/d0k3/SafeB9SInstaller/releases/tag/v0.0.7",
+    "comm_date": "2017-06-05T12:32:58Z",
+    "tag_name": "v0.0.7",
+    "description": "Безпечний, простий, зручний інсталятор для перевірених ФІРМ",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ctrmus",
+    "api_url": "https://api.github.com/repos/deltabeard/ctrmus",
+    "html_url": "https://github.com/deltabeard/ctrmus/releases/tag/v0.5.3",
+    "comm_date": "2025-10-18T09:13:25Z",
+    "tag_name": "v0.5.3",
+    "description": "Музичний плеєр 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Sonic Robo Blast 2",
+    "api_url": "https://api.github.com/repos/derrekr/srb2_3ds",
+    "html_url": "https://github.com/derrekr/srb2_3ds/releases/tag/v1.1.3",
+    "comm_date": "2019-01-22T18:01:13Z",
+    "tag_name": "v1.1.3",
+    "description": "Перенесення Sonic Roboblast 2 на Nintendo New3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3ds-httpd",
+    "api_url": "https://api.github.com/repos/dimaguy/3ds-httpd",
+    "html_url": "https://github.com/dimaguy/3ds-httpd/releases/tag/nightly",
+    "comm_date": "2022-09-23T12:28:30Z",
+    "tag_name": "nightly",
+    "description": "Веб-сервер для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SharedFontTool",
+    "api_url": "https://api.github.com/repos/dnasdw/SharedFontTool",
+    "html_url": "https://github.com/dnasdw/SharedFontTool/releases/tag/v3.1",
+    "comm_date": "2018-08-13T06:45:19Z",
+    "tag_name": "v3.1",
+    "description": "3DS SharedFontTool",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "StarCruiser7",
+    "api_url": "https://api.github.com/repos/dotMizi/StarCruiser7",
+    "html_url": "https://github.com/dotMizi/StarCruiser7/releases/tag/v1.0.0",
+    "comm_date": "2024-12-06T15:57:52Z",
+    "tag_name": "v1.0.0",
+    "description": "StarCruiser7 — симулятор космічного бою від першої особи для ігрової консолі 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Pocket-NLSE",
+    "api_url": "https://api.github.com/repos/dragos240/Pocket-NLSE",
+    "html_url": "https://github.com/dragos240/Pocket-NLSE/releases/tag/v1.0.0",
+    "comm_date": "2017-01-11T13:18:21Z",
+    "tag_name": "v1.0.0",
+    "description": "Портативний редактор збереження для Animal Crossing: New Leaf на Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "TownManager",
+    "api_url": "https://api.github.com/repos/dragos240/TownManager",
+    "html_url": "https://github.com/dragos240/TownManager/releases/tag/v1.2.1",
+    "comm_date": "2017-01-21T13:45:49Z",
+    "tag_name": "v1.2.1",
+    "description": "Спеціалізований менеджер збереження для AC:NL",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Random Title Picker",
+    "api_url": "https://api.github.com/repos/einso/3ds-randomtitlepicker",
+    "html_url": "https://github.com/einso/3ds-randomtitlepicker/releases/tag/0.2",
+    "comm_date": "2023-11-17T16:59:56Z",
+    "tag_name": "0.2",
+    "description": "3DS homebrew, який вибирає випадкову назву для запуску з вашої SD-карти",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "prboom3ds",
+    "api_url": "https://api.github.com/repos/elhobbs/prboom3ds",
+    "html_url": "https://github.com/elhobbs/prboom3ds/releases/tag/v0.7-alpha",
+    "comm_date": "2019-12-21T23:47:05Z",
+    "tag_name": "v0.7-alpha",
+    "description": "prboom для 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "OFF",
+    "api_url": "https://api.github.com/repos/fauxfennec/OFF3DS",
+    "html_url": "https://github.com/fauxfennec/OFF3DS/releases/tag/v1.0",
+    "comm_date": "2024-06-12T12:24:05Z",
+    "tag_name": "v1.0",
+    "description": "Додано автоматично",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3ds-hbmenu",
+    "api_url": "https://api.github.com/repos/fincs/new-hbmenu",
+    "html_url": "https://github.com/fincs/new-hbmenu/releases/tag/v2.4.3",
+    "comm_date": "2024-05-03T19:18:59Z",
+    "tag_name": "v2.4.3",
+    "description": "Меню 3DS Homebrew (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "GraphCalc3DS",
+    "api_url": "https://api.github.com/repos/flarn2006/graphcalc3ds",
+    "html_url": "https://github.com/flarn2006/graphcalc3ds/releases/tag/v1.5.1",
+    "comm_date": "2016-12-03T21:05:23Z",
+    "tag_name": "v1.5.1",
+    "description": "Простий графічний калькулятор для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Bugdom",
+    "api_url": "https://api.github.com/repos/fordcars/Bugdom",
+    "html_url": "https://github.com/fordcars/Bugdom/releases/tag/v1.0.0",
+    "comm_date": "2025-01-25T19:10:05Z",
+    "tag_name": "v1.0.0",
+    "description": "🐛 Багдом Pangea Software для сучасних систем",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Cro-Mag Rally",
+    "api_url": "https://api.github.com/repos/fordcars/CroMagRally",
+    "html_url": "https://github.com/fordcars/CroMagRally/releases/tag/3ds-v1.1.0",
+    "comm_date": "2024-07-02T03:40:55Z",
+    "tag_name": "3ds-v1.1.0",
+    "description": "Найдикіша гоночна гра з тих пір, як людина винайшла колесо!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DSx Play Coin Setter Mod",
+    "api_url": "https://api.github.com/repos/fthomys/3ds-playcoin-tool",
+    "html_url": "https://github.com/fthomys/3ds-playcoin-tool/releases/tag/1.0.1",
+    "comm_date": "2025-03-12T12:06:51Z",
+    "tag_name": "1.0.1",
+    "description": "Дозволяє змінювати лічильник 3DS Play Coin для користувачів Ninjhax/homebrew/3dsx.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "OoT3D_Randomizer",
+    "api_url": "https://api.github.com/repos/gamestabled/OoT3D_Randomizer",
+    "html_url": "https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-fa3659",
+    "comm_date": "2026-03-19T20:02:25Z",
+    "tag_name": "Nightly-fa3659",
+    "description": "Рандомізатор предметів для The Legend of Zelda: Ocarina of Time 3D",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Noise Commander 3DS (Demo)",
+    "api_url": "https://api.github.com/repos/gearmo3ds/noisecommander3dsdemo",
+    "html_url": "https://github.com/gearmo3ds/noisecommander3dsdemo/releases/tag/0.1.10",
+    "comm_date": "2026-01-11T14:13:56Z",
+    "tag_name": "0.1.10",
+    "description": "Аудіосеквенсор і ді-джей-інструмент для створення ритмів для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "easyrpgdlre",
+    "api_url": "https://api.github.com/repos/gnmmarechal/easyrpgdlre",
+    "html_url": "https://github.com/gnmmarechal/easyrpgdlre/releases/tag/v2.1.1",
+    "comm_date": "2016-07-24T00:37:34Z",
+    "tag_name": "v2.1.1",
+    "description": "Перепис EasyRPG 3DS Updater",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Multidownload",
+    "api_url": "https://api.github.com/repos/hax0kartik/Multidownload",
+    "html_url": "https://github.com/hax0kartik/Multidownload/releases/tag/v3.2",
+    "comm_date": "2017-05-15T06:19:12Z",
+    "tag_name": "v3.2",
+    "description": "Завантажуйте файли прямо на свій 3ds!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "rehid",
+    "api_url": "https://api.github.com/repos/hax0kartik/rehid",
+    "html_url": "https://github.com/hax0kartik/rehid/releases/tag/v4.0",
+    "comm_date": "2023-07-21T04:27:05Z",
+    "tag_name": "v4.0",
+    "description": "Перезапис модуля HID (перепризначення кнопок тощо)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "wumiibo",
+    "api_url": "https://api.github.com/repos/hax0kartik/wumiibo",
+    "html_url": "https://github.com/hax0kartik/wumiibo/releases/tag/v4.2",
+    "comm_date": "2023-07-21T05:16:08Z",
+    "tag_name": "v4.2",
+    "description": "Емуляція Amiibo для 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3ds-Controller",
+    "api_url": "https://api.github.com/repos/icicle1133/3ds-Controller",
+    "html_url": "https://github.com/icicle1133/3ds-Controller/releases/tag/v0.0.5",
+    "comm_date": "2025-09-26T01:08:03Z",
+    "tag_name": "v0.0.5",
+    "description": "«Оновлена» програма 3ds homebrew, яка дозволяє використовувати ваш 3ds як бездротовий контролер.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "faketik",
+    "api_url": "https://api.github.com/repos/ihaveamac/faketik",
+    "html_url": "https://github.com/ihaveamac/faketik/releases/tag/v1.1.2",
+    "comm_date": "2020-11-14T22:53:05Z",
+    "tag_name": "v1.1.2",
+    "description": "Генерує фальшиві квитки, щоб зниклі назви знову з’явилися в 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "save-data-copy-tool",
+    "api_url": "https://api.github.com/repos/ihaveamac/save-data-copy-tool",
+    "html_url": "https://github.com/ihaveamac/save-data-copy-tool/releases/tag/v0.1.0",
+    "comm_date": "2022-03-24T10:30:04Z",
+    "tag_name": "v0.1.0",
+    "description": "Копіювати дані збереження між ігровою карткою та цифровими версіями ігор на Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "screenshot-merge",
+    "api_url": "https://api.github.com/repos/ihaveamac/screenshot-merge",
+    "html_url": "https://github.com/ihaveamac/screenshot-merge/releases/tag/1.4",
+    "comm_date": "2018-02-02T21:52:20Z",
+    "tag_name": "1.4",
+    "description": "інструмент об’єднання знімків екрана для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Ballcopter!",
+    "api_url": "https://api.github.com/repos/impi5h/Ballcopter3DS",
+    "html_url": "https://github.com/impi5h/Ballcopter3DS/releases/tag/release",
+    "comm_date": "2025-06-20T20:44:22Z",
+    "tag_name": "release",
+    "description": "Як Flappy Bird, але в СЛАВНОМУ 3D",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "drider",
+    "api_url": "https://api.github.com/repos/ingolemo/drider",
+    "html_url": "https://github.com/ingolemo/drider/releases/tag/v0.6",
+    "comm_date": "2017-11-14T16:05:57Z",
+    "tag_name": "v0.6",
+    "description": "Програма для читання epub для Nintendo3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "LEGO Island",
+    "api_url": "https://api.github.com/repos/isledecomp/isle-portable",
+    "html_url": "https://github.com/isledecomp/isle-portable/releases/tag/continuous",
+    "comm_date": "2026-03-30T23:24:57Z",
+    "tag_name": "continuous",
+    "description": "Портативна версія LEGO Island (1997)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS-Recovery-Tool",
+    "api_url": "https://api.github.com/repos/joel16/3DS-Recovery-Tool",
+    "html_url": "https://github.com/joel16/3DS-Recovery-Tool/releases/tag/v1.40",
+    "comm_date": "2018-02-18T01:09:31Z",
+    "tag_name": "v1.40",
+    "description": "Інструмент для відновлення та резервного копіювання унікальних даних на Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DShell",
+    "api_url": "https://api.github.com/repos/joel16/3DShell",
+    "html_url": "https://github.com/joel16/3DShell/releases/tag/v5.1.0",
+    "comm_date": "2021-03-23T19:28:05Z",
+    "tag_name": "v5.1.0",
+    "description": "3DShell — (вимовляється як 3D Shell) — багатоцільовий файловий менеджер для Nintendo 3DS. Сильно натхненний файловим менеджером CyanogenMod/LineageOS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "FriendMii",
+    "api_url": "https://api.github.com/repos/joel16/FriendMii",
+    "html_url": "https://github.com/joel16/FriendMii/releases/tag/v1.00",
+    "comm_date": "2018-07-29T17:18:00Z",
+    "tag_name": "v1.00",
+    "description": "Експериментальна програма друзів з відкритим кодом для Nintendo 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "RetroArch",
+    "api_url": "https://api.github.com/repos/libretro/RetroArch",
+    "html_url": "https://github.com/libretro/RetroArch/releases/tag/v1.22.2",
+    "comm_date": "2025-11-20T03:13:01Z",
+    "tag_name": "v1.22.2",
+    "description": "Кросплатформенний складний інтерфейс для API libretro. Ліцензований GPLv3.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "VConV",
+    "api_url": "https://api.github.com/repos/lxfly2000/VConV",
+    "html_url": "https://github.com/lxfly2000/VConV/releases/tag/Build-10",
+    "comm_date": "2025-07-13T01:44:31Z",
+    "tag_name": "Build-10",
+    "description": "Імітуйте входи контролера Xbox за допомогою 3DS. Підтримка Windows 10/11. (Розробка завершена. Не соромтеся форкуватися!)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CS3DS",
+    "api_url": "https://api.github.com/repos/machinamentum/CS3DS",
+    "html_url": "https://github.com/machinamentum/CS3DS/releases/tag/0.6-alpha",
+    "comm_date": "2016-04-22T01:51:31Z",
+    "tag_name": "0.6-alpha",
+    "description": "Порт CSPSP для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Yet Another Mario Kart Clone 3DS",
+    "api_url": "https://api.github.com/repos/mariohackandglitch/YAMKC_3DS",
+    "html_url": "https://github.com/mariohackandglitch/YAMKC_3DS/releases/tag/v0.2",
+    "comm_date": "2021-05-13T16:09:21Z",
+    "tag_name": "v0.2",
+    "description": "Клон гри Mario Kart для 3DS, створений з наміром імітувати відчуття гри Mario Kart, використовуючи Mario Kart 7 як натхнення",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "homebrew_launcher_dummy",
+    "api_url": "https://api.github.com/repos/mariohackandglitch/homebrew_launcher_dummy",
+    "html_url": "https://github.com/mariohackandglitch/homebrew_launcher_dummy/releases/tag/v1.0",
+    "comm_date": "2018-07-26T21:33:37Z",
+    "tag_name": "v1.0",
+    "description": "Homebrew Launcher Loader - пуста програма",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "EDuke3D",
+    "api_url": "https://api.github.com/repos/masterfeizz/EDuke3D",
+    "html_url": "https://github.com/masterfeizz/EDuke3D/releases/tag/v1.0-beta",
+    "comm_date": "2016-05-09T01:00:57Z",
+    "tag_name": "v1.0-beta",
+    "description": "Неофіційний порт EDuke32 для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Quake2CTR",
+    "api_url": "https://api.github.com/repos/masterfeizz/Quake2CTR",
+    "html_url": "https://github.com/masterfeizz/Quake2CTR/releases/tag/v1.0",
+    "comm_date": "2022-10-30T23:17:39Z",
+    "tag_name": "v1.0",
+    "description": "Порт Quake 2 для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Xash3DS",
+    "api_url": "https://api.github.com/repos/masterfeizz/Xash3DS",
+    "html_url": "https://github.com/masterfeizz/Xash3DS/releases/tag/v0.2",
+    "comm_date": "2019-09-14T21:28:17Z",
+    "tag_name": "v0.2",
+    "description": "Порт Xash3D-FWGS для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ctrQuake",
+    "api_url": "https://api.github.com/repos/masterfeizz/ctrQuake",
+    "html_url": "https://github.com/masterfeizz/ctrQuake/releases/tag/v0.8",
+    "comm_date": "2016-09-13T02:38:10Z",
+    "tag_name": "v0.8",
+    "description": "Порт quake для Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "DaedalusX64-3DS",
+    "api_url": "https://api.github.com/repos/masterfeizz/daedalusx64-3DS",
+    "html_url": "https://github.com/masterfeizz/daedalusx64-3DS/releases/tag/v1.0",
+    "comm_date": "2022-10-16T21:47:42Z",
+    "tag_name": "v1.0",
+    "description": "Перенесення DaedalusX64 на Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ioQuake3DS",
+    "api_url": "https://api.github.com/repos/masterfeizz/ioQuake3DS",
+    "html_url": "https://github.com/masterfeizz/ioQuake3DS/releases/tag/v1.2.0",
+    "comm_date": "2022-10-30T23:15:15Z",
+    "tag_name": "v1.2.0",
+    "description": "Додано автоматично",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "3DS Sorting",
+    "api_url": "https://api.github.com/repos/memeToasty/3ds_sorting",
+    "html_url": "https://github.com/memeToasty/3ds_sorting/releases/tag/v5.0",
+    "comm_date": "2023-06-24T15:44:37Z",
+    "tag_name": "v5.0",
+    "description": "Візуалізація деяких алгоритмів сортування на Nintendo 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "mGBA",
+    "api_url": "https://api.github.com/repos/mgba-emu/mgba",
+    "html_url": "https://github.com/mgba-emu/mgba/releases/tag/0.10.5",
+    "comm_date": "2025-03-09T03:59:39Z",
+    "tag_name": "0.10.5",
+    "description": "Емулятор mGBA Game Boy Advance",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "r3Ddragon",
+    "api_url": "https://api.github.com/repos/mrdanielps/r3Ddragon",
+    "html_url": "https://github.com/mrdanielps/r3Ddragon/releases/tag/v0.87",
+    "comm_date": "2017-02-02T23:45:48Z",
+    "tag_name": "v0.87",
+    "description": "Емулятор Virtual Boy для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "FBI-NH",
+    "api_url": "https://api.github.com/repos/nh-server/FBI-NH",
+    "html_url": "https://github.com/nh-server/FBI-NH/releases/tag/2.6.1",
+    "comm_date": "2024-03-06T15:46:40Z",
+    "tag_name": "2.6.1",
+    "description": "Менеджер титрів з відкритим кодом для 3DS. (Архів)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SRAU",
+    "api_url": "https://api.github.com/repos/noirscape/SRAU",
+    "html_url": "https://github.com/noirscape/SRAU/releases/tag/v1.1",
+    "comm_date": "2018-04-13T20:16:16Z",
+    "tag_name": "v1.1",
+    "description": "Samus Returns: Amiibo Unlocker",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "dses",
+    "api_url": "https://api.github.com/repos/noirscape/dses",
+    "html_url": "https://github.com/noirscape/dses/releases/tag/v1.2.0",
+    "comm_date": "2024-10-21T22:48:56Z",
+    "tag_name": "v1.2.0",
+    "description": "Набір Dead Simple Eula",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Biniax2-3DS",
+    "api_url": "https://api.github.com/repos/nop90/Biniax2-3DS",
+    "html_url": "https://github.com/nop90/Biniax2-3DS/releases/tag/V0.4alpha",
+    "comm_date": "2016-07-04T07:41:21Z",
+    "tag_name": "V0.4alpha",
+    "description": "Порт Biniax2 на 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Griffon-Legend-3DS",
+    "api_url": "https://api.github.com/repos/nop90/Griffon-Legend-3DS",
+    "html_url": "https://github.com/nop90/Griffon-Legend-3DS/releases/tag/v1.0",
+    "comm_date": "2017-02-12T16:35:33Z",
+    "tag_name": "v1.0",
+    "description": "Порт до 3DS гарної RPG у стилі SNES, спочатку написаної Syn9 у FreeBASIC",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Neopop-SDL",
+    "api_url": "https://api.github.com/repos/nop90/Neopop-SDL",
+    "html_url": "https://github.com/nop90/Neopop-SDL/releases/tag/v0.4",
+    "comm_date": "2017-06-14T18:53:35Z",
+    "tag_name": "v0.4",
+    "description": "Кишеньковий емулятор кольорів Neo Geo для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "OpenSyobon3DS",
+    "api_url": "https://api.github.com/repos/nop90/OpenSyobon3DS",
+    "html_url": "https://github.com/nop90/OpenSyobon3DS/releases/tag/v1.2",
+    "comm_date": "2016-07-27T08:58:59Z",
+    "tag_name": "v1.2",
+    "description": "Відкрийте Syobon Action (він же Cat Mario) для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Opentyrian-3ds",
+    "api_url": "https://api.github.com/repos/nop90/Opentyrian-3ds",
+    "html_url": "https://github.com/nop90/Opentyrian-3ds/releases/tag/v1.1",
+    "comm_date": "2017-03-11T20:24:51Z",
+    "tag_name": "v1.1",
+    "description": "Додано автоматично",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "POWDER-3DS",
+    "api_url": "https://api.github.com/repos/nop90/POWDER-3DS",
+    "html_url": "https://github.com/nop90/POWDER-3DS/releases/tag/v1,1",
+    "comm_date": "2017-02-03T23:50:45Z",
+    "tag_name": "v1,1",
+    "description": "Перенесення на 3DS гри roguelike POWDER",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Supertux",
+    "api_url": "https://api.github.com/repos/nop90/Supertux-Milestone1-3ds",
+    "html_url": "https://github.com/nop90/Supertux-Milestone1-3ds/releases/tag/v0.1",
+    "comm_date": "2017-03-24T05:53:05Z",
+    "tag_name": "v0.1",
+    "description": "Перенесення на 3ds Supertux v0.1.3 (Milestone 1)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Xrick-3ds",
+    "api_url": "https://api.github.com/repos/nop90/Xrick-3ds",
+    "html_url": "https://github.com/nop90/Xrick-3ds/releases/tag/v1.0",
+    "comm_date": "2017-03-10T20:41:13Z",
+    "tag_name": "v1.0",
+    "description": "Перенесіть на 3ds відкритий ремейк Rick Dangerous",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Zelda3T",
+    "api_url": "https://api.github.com/repos/nop90/Zelda3T",
+    "html_url": "https://github.com/nop90/Zelda3T/releases/tag/v1.0",
+    "comm_date": "2017-09-24T18:25:47Z",
+    "tag_name": "v1.0",
+    "description": "Перенесення на 3ds фанатської гри Zelda Zelda Time to Triumph",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ZeldaOLB",
+    "api_url": "https://api.github.com/repos/nop90/ZeldaOLB",
+    "html_url": "https://github.com/nop90/ZeldaOLB/releases/tag/v1,1",
+    "comm_date": "2017-06-07T19:23:53Z",
+    "tag_name": "v1,1",
+    "description": "Порт Zelda OLB на 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ZeldaPicross",
+    "api_url": "https://api.github.com/repos/nop90/ZeldaPicross",
+    "html_url": "https://github.com/nop90/ZeldaPicross/releases/tag/v1,0RC",
+    "comm_date": "2017-01-02T12:35:39Z",
+    "tag_name": "v1,0RC",
+    "description": "Перенесення на 3DS гри Picross у стилі Zelda від Вінсента Жойуллата",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ZeldaROTH",
+    "api_url": "https://api.github.com/repos/nop90/ZeldaROTH",
+    "html_url": "https://github.com/nop90/ZeldaROTH/releases/tag/v1.0.2",
+    "comm_date": "2016-06-11T21:08:59Z",
+    "tag_name": "v1.0.2",
+    "description": "Порт Zelda ROTH на 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "BCSTM-Player",
+    "api_url": "https://api.github.com/repos/npid7/BCSTM-Player",
+    "html_url": "https://github.com/npid7/BCSTM-Player/releases/tag/v2.0.0",
+    "comm_date": "2025-12-25T00:28:51Z",
+    "tag_name": "v2.0.0",
+    "description": "BCSTM-плеєр для 3ds",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Flappy-Bird",
+    "api_url": "https://api.github.com/repos/npid7/Flappy-Bird",
+    "html_url": "https://github.com/npid7/Flappy-Bird/releases/tag/1.4.2",
+    "comm_date": "2023-11-02T16:51:43Z",
+    "tag_name": "1.4.2",
+    "description": "Клон Flappy-Bird для 3ds.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Nazi Zombies: Portable",
+    "api_url": "https://api.github.com/repos/nzp-team/nzportable",
+    "html_url": "https://github.com/nzp-team/nzportable/releases/tag/nightly",
+    "comm_date": "2026-03-21T07:39:19Z",
+    "tag_name": "nightly",
+    "description": "Call of Duty: Zombies demake на основі різних вихідних портів Quake. https://docs.nzp.gay/",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "SpecializeMii",
+    "api_url": "https://api.github.com/repos/phijor/SpecializeMii",
+    "html_url": "https://github.com/phijor/SpecializeMii/releases/tag/0.1.4",
+    "comm_date": "2017-01-22T11:19:45Z",
+    "tag_name": "0.1.4",
+    "description": "Золоті штани для всіх!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ctroller",
+    "api_url": "https://api.github.com/repos/phijor/ctroller",
+    "html_url": "https://github.com/phijor/ctroller/releases/tag/0.4.0",
+    "comm_date": "2016-06-15T19:03:12Z",
+    "tag_name": "0.4.0",
+    "description": "Використовуйте свій 3DS як геймпад у Linux",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Dungeons of Daggorath 3DS",
+    "api_url": "https://api.github.com/repos/pyroticinsanity/3dsdod",
+    "html_url": "https://github.com/pyroticinsanity/3dsdod/releases/tag/1.1",
+    "comm_date": "2020-06-05T14:07:08Z",
+    "tag_name": "1.1",
+    "description": "Dungeons of Daggorath для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Citrahold-3DS",
+    "api_url": "https://api.github.com/repos/regimensocial/Citrahold-3DS",
+    "html_url": "https://github.com/regimensocial/Citrahold-3DS/releases/tag/v1.1.2",
+    "comm_date": "2024-12-24T03:06:39Z",
+    "tag_name": "v1.1.2",
+    "description": "Citrahold дозволяє синхронізувати збереження між Citra та вашим 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "scummvm",
+    "api_url": "https://api.github.com/repos/scummvm/scummvm",
+    "html_url": "https://github.com/scummvm/scummvm/releases/tag/v2026.2.0",
+    "comm_date": "2026-03-28T21:27:36Z",
+    "tag_name": "v2026.2.0",
+    "description": "Двигуни пригодницьких ігор типу «вкажи і клацни».",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Multi-Pokémon Framework",
+    "api_url": "https://api.github.com/repos/semaj14/Multi-PokemonFramework",
+    "html_url": "https://github.com/semaj14/Multi-PokemonFramework/releases/tag/v1.0.4",
+    "comm_date": "2023-08-12T02:09:39Z",
+    "tag_name": "v1.0.4",
+    "description": "Плагін CTRPF для ігор Pokémon Nintendo 3DS, який підтримує 6-е та 7-е покоління.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Pomegranate",
+    "api_url": "https://api.github.com/repos/sheepy0125/pomegranate",
+    "html_url": "https://github.com/sheepy0125/pomegranate/releases/tag/v1.1.5",
+    "comm_date": "2026-02-14T04:14:44Z",
+    "tag_name": "v1.1.5",
+    "description": "дурний музичний плеєр!",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Gemini3DS",
+    "api_url": "https://api.github.com/repos/stefanoborra20/Gemini3DS",
+    "html_url": "https://github.com/stefanoborra20/Gemini3DS/releases/tag/v2.0",
+    "comm_date": "2026-03-28T14:50:36Z",
+    "tag_name": "v2.0",
+    "description": "Клієнт Gemini для Nintendo 3DS у стилі ретро.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "pdrpse",
+    "api_url": "https://api.github.com/repos/suloku/pdrpse",
+    "html_url": "https://github.com/suloku/pdrpse/releases/tag/0.3",
+    "comm_date": "2017-01-31T22:54:59Z",
+    "tag_name": "0.3",
+    "description": "Редактор збереження Pokémon Dream Radar для 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ButtonPresser3DS",
+    "api_url": "https://api.github.com/repos/trainboy2019/ButtonPresser3DS",
+    "html_url": "https://github.com/trainboy2019/ButtonPresser3DS/releases/tag/2.0",
+    "comm_date": "2017-06-22T02:42:08Z",
+    "tag_name": "2.0",
+    "description": "Це добре?",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "ZeldaROTH 1.0.3 beta",
+    "api_url": "https://api.github.com/repos/vargaviktor/ZeldaROTH",
+    "html_url": "https://github.com/vargaviktor/ZeldaROTH/releases/tag/1.0.3-beta",
+    "comm_date": "2020-12-22T17:32:33Z",
+    "tag_name": "1.0.3-beta",
+    "description": "Бета-версія ZeldaROTH 1.0.3 включає угорський переклад для цієї класичної фанатської гри та була перекомпільована з фактичними бібліотеками.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "hrt3DS",
+    "api_url": "https://api.github.com/repos/vinegar77/hrt-3ds",
+    "html_url": "https://github.com/vinegar77/hrt-3ds/releases/tag/v1.1.2",
+    "comm_date": "2025-10-23T06:17:27Z",
+    "tag_name": "v1.1.2",
+    "description": "Тести на перегони 3DS Відпочинок",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "DSP1",
+    "api_url": "https://api.github.com/repos/zoogie/DSP1",
+    "html_url": "https://github.com/zoogie/DSP1/releases/tag/v1.0",
+    "comm_date": "2021-09-21T00:55:43Z",
+    "tag_name": "v1.0",
+    "description": "Дампер прошивки dsp",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Stuff",
+    "api_url": "https://api.github.com/repos/zoogie/Stuff",
+    "html_url": "https://github.com/zoogie/Stuff/releases/tag/0.6.0",
+    "comm_date": "2017-08-11T08:48:34Z",
+    "tag_name": "0.6.0",
+    "description": "Випадкові речі 3ds, які, ймовірно, заслуговують на власне репо",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "b9s_check",
+    "api_url": "https://api.github.com/repos/zoogie/b9s_check",
+    "html_url": "https://github.com/zoogie/b9s_check/releases/tag/v2.0",
+    "comm_date": "2022-05-24T12:59:01Z",
+    "tag_name": "v2.0",
+    "description": "Перевірте версію b9s і все інше",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "seedminer",
+    "api_url": "https://api.github.com/repos/zoogie/seedminer",
+    "html_url": "https://github.com/zoogie/seedminer/releases/tag/v2.1.6",
+    "comm_date": "2023-08-03T19:50:19Z",
+    "tag_name": "v2.1.6",
+    "description": "34.2c3 POC",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "2048 - 3DS Port",
+    "api_url": "https://api.github.com/repos/0rientd/2048-port-3ds",
+    "html_url": "https://github.com/0rientd/2048-port-3ds/releases/tag/v1.1.1",
+    "comm_date": "2026-03-19T21:43:32Z",
+    "tag_name": "v1.1.1",
+    "description": "Це 3DS версія гри 2048.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Moonlight 3DS",
+    "api_url": "https://api.github.com/repos/zoeyjodon/moonlight-N3DS",
+    "html_url": "https://github.com/zoeyjodon/moonlight-N3DS/releases/tag/v3.0.1",
+    "comm_date": "2026-03-18T15:38:29Z",
+    "tag_name": "v3.0.1",
+    "description": "Стрімінг ігор з ПК на 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "CTGP-7 Updates",
+    "api_url": "https://api.github.com/repos/PabloMK7/CTGP-7updates",
+    "html_url": "https://github.com/PabloMK7/CTGP-7updates/releases/",
+    "comm_date": "2026-02-20T17:34:35Z",
+    "tag_name": "v1.6.15",
+    "description": "Найкращий мод для Mario Kart 7 з новими трасами та функціями (Українізовано🇺🇦)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Adastra 3D",
+    "api_url": "https://api.github.com/repos/KrisTheDog/ADASTRA3D-for-3ds",
+    "html_url": "https://github.com/KrisTheDog/ADASTRA3D-for-3ds/releases/tag/main",
+    "comm_date": "2026-03-01T17:42:16Z",
+    "tag_name": "main",
+    "description": "порт Adastra 3D від NikoDevVR для нової 3DS",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Doors-3DS",
+    "api_url": "https://api.github.com/repos/carmander152/Doors-3DS",
+    "html_url": "https://github.com/carmander152/Doors-3DS/releases/tag/Beta-v0.7.3",
+    "comm_date": "2026-03-19T07:40:20Z",
+    "tag_name": "Beta-v0.7.3",
+    "description": "Це фанатський демейк гри жахів Roblox Doors, яка спочатку була створена LSplash. Це створюється повністю з нуля, оскільки, очевидно, немає перекладу з Luau (код Roblox) на C++ (код 3DS)",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Able Atelier 3DS",
+    "api_url": "https://api.github.com/repos/Ghaztly97/Able-Atelier-3DS",
+    "html_url": "https://github.com/Ghaztly97/Able-Atelier-3DS/releases/tag/v1.0.2",
+    "comm_date": "2026-03-23T02:15:16Z",
+    "tag_name": "v1.0.2",
+    "description": "Редактор шаблонів для Animal Crossing: New Leaf, який працює в 3DS.",
+    "prefix": ""
+  },
+  {
+    "category": "3DS",
+    "app_name": "Peamo-Nimbus",
+    "api_url": "https://api.github.com/repos/PeamoNetwork/peamo-nimbus",
+    "html_url": "https://github.com/PeamoNetwork/peamo-nimbus/releases/tag/v1.0.0",
+    "comm_date": "2026-03-12T21:56:35Z",
+    "tag_name": "v1.0.0",
+    "description": "Підключіться до служб Peamo Network",
+    "prefix": ""
+  }
+]
